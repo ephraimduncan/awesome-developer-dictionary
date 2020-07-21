@@ -60,6 +60,7 @@ All the translations for this repo will be listed below:
 
 ## B
 
+- **branch**: a parallel world where you can create commit without introducing bugs into production code.
 - **boolean**: a data type that has one of two possible values (usually denoted true and false).
 
 ## C
@@ -100,7 +101,7 @@ All the translations for this repo will be listed below:
 
 - **library**: a single or collection of files, programs, routines, scripts, or functions that can be referenced in another code.
 - **list**: a collection type that stores ordered, non-unique elements which allow duplicates.
-- **loop**:a programming structure that repeats a sequence of instructions until a specific condition is met.
+- **loop**: a programming structure that repeats a sequence of instructions until a specific condition is met.
 
 # M
 
@@ -127,6 +128,8 @@ All the translations for this repo will be listed below:
 # R
 
 - **repository**: a central location in which code is stored and managed.
+- **REST (Representational State Transfer)**: a set of constraints to be used for creating Web services.
+- **RESTful Web Services**: web services that conform to the REST architectural style.
 
 ## S
 
@@ -136,6 +139,8 @@ All the translations for this repo will be listed below:
 ## T
 
 - **template**: a preformatted file that serve as the starting point for another file.
+- **testing**: a process, to evaluate the functionality of a software application with an intent to find whether the developed software met the specified requirements or not and to identify the bugs to ensure that the product is bug-free.
+- **testing framework**: a set of guidelines or rules used for creating and designing test cases.
 - **type (data type)**: an attribute of data which tells the compiler or interpreter how the programmer intends to use the data.
 
 ## U
