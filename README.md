@@ -2,11 +2,11 @@
   <img src="https://wiki.js.org/img/nolan-literature.2917af16.svg" width="150" alt="Dictionary">
   <!-- Image From Wiki.js -->
   <h2>Awesome Developer Dictionary</h2>
-  <p align="center">Simple definitions of Programming terms</p> 
-  
-  [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-  [![Awesome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-  [![Awesome](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+  <p align="center">Simple definitions of Programming terms</p>
+
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+[![Awesome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Awesome](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 </div>
 
@@ -53,8 +53,10 @@ All the translations for this repo will be listed below:
 
 ## A
 
+- **algorithm**: the basic technique used to get the job done.
 - **application (software)**:a program or group of programs designed for end users.s
 - **API (application programming interface)**: an intermediary software that allows two or more applications to talk to each other.
+- **array**: a data structure consisting of a collection of elements ,values or variables each identified by at least one array index or key. _see [list](#L)_
 
 ## B
 
@@ -64,7 +66,9 @@ All the translations for this repo will be listed below:
 
 - **callback**: a function that is passed as an argument to another and is expected to execute at a given time.
 - **class**: a defined structure to create an object in an object-oriented programming language.
+- **CLI (Command Line Interface)**: the terminal version of an application.
 - **compiler**: a program that translates computer code written in one programming language into another language.
+- **components**: independent and reusable bits of code that work in isolation and returns HTML via a render function. _see [web components](#W)_
 - **control flow**: the order in which individual statements, instructions or function calls of an imperative program are executed.
 
 ## D
@@ -98,6 +102,10 @@ All the translations for this repo will be listed below:
 - **list**: a collection type that stores ordered, non-unique elements which allow duplicates.
 - **loop**:a programming structure that repeats a sequence of instructions until a specific condition is met.
 
+# M
+
+- **Markup Language**: a computer language that uses tags to define elements within a document.
+
 ## N
 
 - **null**: a special data type which can have only one value: NULL.
@@ -127,8 +135,19 @@ All the translations for this repo will be listed below:
 
 ## T
 
+- **template**: a preformatted file that serve as the starting point for another file.
 - **type (data type)**: an attribute of data which tells the compiler or interpreter how the programmer intends to use the data.
+
+## U
+
+- **UI (User Interface)**: the point of human-computer interaction and communication in a device.
+- **URL (Uniform Resource Locator)**: the address of a given unique resource on the Web.
 
 ## V
 
 - **Version Control**: a system that records changes to a file or set of files over time so that you can recall specific versions later.
+
+## W
+
+- **Web Components**: a set of web platform APIs that allow you to create new custom, reusable, encapsulated HTML tags to use in web pages and web apps.
+- **webhooks**: automated messages sent from apps when something happens.
