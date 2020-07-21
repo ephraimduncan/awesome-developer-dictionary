@@ -2,13 +2,12 @@
   <img src="https://wiki.js.org/img/nolan-literature.2917af16.svg" width="150" alt="Dictionary">
   <!-- Image From Wiki.js -->
   <h2>Awesome Developer Dictionary</h2>
-  <p align="center">Simple definitions of Programming terms</p>
-  <a href="http://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" >
-  </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License MIT">
-  </a>
+  <p align="center">Simple definitions of Programming terms</p> 
+  
+  [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+  [![Awesome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+  [![Awesome](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+
 </div>
 
 ## Introduction
@@ -111,6 +110,7 @@ All the translations for this repo will be listed below:
 
 ## P
 
+- **plugin**: _see [extension](#e)_
 - **Procedural Programming**: a programming paradigm based upon the concept of procedure calls, in which statements are structured into procedures (also known as subroutines or functions).
 - **Programming**: the process of creating a set of instructions that tell a computer how to perform a task.
 - **Programming Language**: a vocabulary and set of grammatical rules for instructing a computer or computing device to perform specific tasks. _Eg. JavaScript, Python._
