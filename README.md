@@ -53,21 +53,25 @@ All the translations for this repo will be listed below:
 
 ## A
 
+- **abstraction**: a technique for arranging complexity of computer systems.
 - **algorithm**: the basic technique used to get the job done.
 - **application (software)**:a program or group of programs designed for end users.s
 - **API (application programming interface)**: an intermediary software that allows two or more applications to talk to each other.
+- **argument**: a value that is passed to the function ( as input) when it is called.
 - **array**: a data structure consisting of a collection of elements ,values or variables each identified by at least one array index or key. _see [list](#L)_
 
 ## B
 
-- **branch**: a parallel world where you can create commit without introducing bugs into production code.
+- **binary operator**: an operator that takes two arguments.
 - **boolean**: a data type that has one of two possible values (usually denoted true and false).
+- **branch**: a parallel world where you can create commit without introducing bugs into production code.
 
 ## C
 
 - **callback**: a function that is passed as an argument to another and is expected to execute at a given time.
 - **class**: a defined structure to create an object in an object-oriented programming language.
 - **CLI (Command Line Interface)**: the terminal version of an application.
+- **closure**: a persistent scope which holds on to local variables even after the code execution has moved out of that block.
 - **compiler**: a program that translates computer code written in one programming language into another language.
 - **components**: independent and reusable bits of code that work in isolation and returns HTML via a render function. _see [web components](#W)_
 - **control flow**: the order in which individual statements, instructions or function calls of an imperative program are executed.
@@ -76,12 +80,15 @@ All the translations for this repo will be listed below:
 
 - **database**: a central location in which data is stored and managed.
 - **Data-driven Programming**: A programming paradigm in which the program statements describe the data to be matched and the processing required rather than defining a sequence of steps to be taken.
+- **destructuring**: a convenient way of extracting multiple values from data stored in objects and Arrays.
 - **documentation(docs)**: a written text or illustration that accompanies a software which either explains how the software operates or how to use it.
 
 ## E
 
 - **ecosystem**: a collection of software projects, which are developed and co-evolve in the same environment.
+- **encapsulation**: the bundling of data with the methods that operate on that data.
 - **enum**: a special data type that enables for a variable to be a set of predefined constants.
+- **expression**: a combination of letters, numbers, or symbols used to represent a value of a variable.
 - **extension**: a piece of software extends the capabilities of an appliation and adds extra features to an already working standalone application.
 - **extension(file)**: a three or four-letter abbreviation that signifies the file type. Eg: `.js .tsx`
 
@@ -92,10 +99,22 @@ All the translations for this repo will be listed below:
 - **function**: a block of organized, reusable code that is used to perform a single, related action.
 - **Functional Programming**: A programming paradigm that builds software by composing pure functions, avoiding shared state, mutable data, and side-effects.
 
+## H
+
+- **high-order function**: a function that takes a function as an argument and returns a function.
+- **HTTP (Hypertext Transfer Protocol)**: an application-layer protocol for transmitting hypermedia documents, such as HTML.
+
 ## I
 
 - **IDE(Integrated Development Environment)**: a software application that combines all of the features and tools needed by a software developer.
+- **immutable object**: an object which cannot change after creation.
 - **integer(int)**: a data type that represents some range of mathematical integers.
+- **iteration**: a general term for taking each item of something, one after another.
+- **iterator**: an object that enables a programmer to traverse a container, particularly lists.
+
+# J
+
+- **JSON(JavaScript Object Notation)**: a syntax for storing and exchanging data compactible with most programming languages.
 
 ## L
 
@@ -106,6 +125,8 @@ All the translations for this repo will be listed below:
 # M
 
 - **Markup Language**: a computer language that uses tags to define elements within a document.
+- **method**: a function associated with a class or an object.
+- **mutable object**: an object which can change after creation.
 
 ## N
 
@@ -119,26 +140,37 @@ All the translations for this repo will be listed below:
 
 ## P
 
+- **parameter**: a variable that are used in the function declaration to represent those arguments that were sent to the function during the function call.
 - **plugin**: _see [extension](#e)_
+- **polymorphism**: an object-oriented programming concept that refers to the ability of a variable, function or object to take on multiple forms.
 - **Procedural Programming**: a programming paradigm based upon the concept of procedure calls, in which statements are structured into procedures (also known as subroutines or functions).
 - **Programming**: the process of creating a set of instructions that tell a computer how to perform a task.
 - **Programming Language**: a vocabulary and set of grammatical rules for instructing a computer or computing device to perform specific tasks. _Eg. JavaScript, Python._
 - **Programming Paradigm**: a style or "way" of programming.
+- **properties**: special values that are included within a class or an object.
+- **prototype (JavaScript)**: an internal property in a JavaScript object.
+
+## Q
+
+- **Query Language**: a computer programming language that requests and retrieves data from database and information systems by sending queries.
 
 # R
 
+- <strong id="recursion">recursion</strong>: a process in which a function calls itself as a subroutine. _See [recursion](#recursion)_
 - **repository**: a central location in which code is stored and managed.
 - **REST (Representational State Transfer)**: a set of constraints to be used for creating Web services.
 - **RESTful Web Services**: web services that conform to the REST architectural style.
 
 ## S
 
+- **statement**: a single line of code that is used to perform a specific task.
 - **string**: a sequence of characters.
 - **syntax**: The grammer of a programming language.
 
 ## T
 
 - **template**: a preformatted file that serve as the starting point for another file.
+- **tenary operator**: an operator that takes three arguments.
 - **testing**: a process, to evaluate the functionality of a software application with an intent to find whether the developed software met the specified requirements or not and to identify the bugs to ensure that the product is bug-free.
 - **testing framework**: a set of guidelines or rules used for creating and designing test cases.
 - **type (data type)**: an attribute of data which tells the compiler or interpreter how the programmer intends to use the data.
@@ -146,6 +178,7 @@ All the translations for this repo will be listed below:
 ## U
 
 - **UI (User Interface)**: the point of human-computer interaction and communication in a device.
+- **unary operator**: an operator that takes a single operand and performs an operation.
 - **URL (Uniform Resource Locator)**: the address of a given unique resource on the Web.
 
 ## V
