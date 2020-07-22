@@ -65,12 +65,14 @@ All the translations for this repo will be listed below:
 - **binary operator**: an operator that takes two arguments.
 - **boolean**: a data type that has one of two possible values (usually denoted true and false).
 - **branch**: a parallel world where you can create commit without introducing bugs into production code.
+- **bug**: an error in the source code that causes a program to produce unexpected results.
 
 ## C
 
 - **callback**: a function that is passed as an argument to another and is expected to execute at a given time.
 - **class**: a defined structure to create an object in an object-oriented programming language.
 - **CLI (Command Line Interface)**: the terminal version of an application.
+- **client**: a piece of computer hardware or software that accesses a service made available by a server.
 - **closure**: a persistent scope which holds on to local variables even after the code execution has moved out of that block.
 - **compiler**: a program that translates computer code written in one programming language into another language.
 - **components**: independent and reusable bits of code that work in isolation and returns HTML via a render function. _see [web components](#W)_
@@ -88,6 +90,9 @@ All the translations for this repo will be listed below:
 - **ecosystem**: a collection of software projects, which are developed and co-evolve in the same environment.
 - **encapsulation**: the bundling of data with the methods that operate on that data.
 - **enum**: a special data type that enables for a variable to be a set of predefined constants.
+- **ES6 (ES2015)**: version 6 of the ECMA Script programming language and adds many more features intended to make large-scale software development easier.
+- **event**: an action or occurrence detected by a program.
+- **event handler**: a function containing program statements that are executed in response to an event.
 - **expression**: a combination of letters, numbers, or symbols used to represent a value of a variable.
 - **extension**: a piece of software extends the capabilities of an appliation and adds extra features to an already working standalone application.
 - **extension(file)**: a three or four-letter abbreviation that signifies the file type. Eg: `.js .tsx`
@@ -99,6 +104,11 @@ All the translations for this repo will be listed below:
 - **function**: a block of organized, reusable code that is used to perform a single, related action.
 - **Functional Programming**: A programming paradigm that builds software by composing pure functions, avoiding shared state, mutable data, and side-effects.
 
+## G
+
+- **generator**: a function that can be used to control the iteration behaviour of a loop.
+- **getter**: a method that gets the value of a property.
+
 ## H
 
 - **high-order function**: a function that takes a function as an argument and returns a function.
@@ -108,6 +118,7 @@ All the translations for this repo will be listed below:
 
 - **IDE(Integrated Development Environment)**: a software application that combines all of the features and tools needed by a software developer.
 - **immutable object**: an object which cannot change after creation.
+- **inheritance**: the tendency of one class to derive properties and characteristics from other classes.
 - **integer(int)**: a data type that represents some range of mathematical integers.
 - **iteration**: a general term for taking each item of something, one after another.
 - **iterator**: an object that enables a programmer to traverse a container, particularly lists.
@@ -130,6 +141,7 @@ All the translations for this repo will be listed below:
 
 ## N
 
+- **node**: a basic unit of a data structure, such as a linked list or tree data structure.
 - **null**: a special data type which can have only one value: NULL.
 
 ## O
@@ -140,6 +152,8 @@ All the translations for this repo will be listed below:
 
 ## P
 
+- **package**: a namespace that organizes a set of related classes and interfaces.
+- **package manager**: a programming language's tool to create project environments and easily import external dependencies.
 - **parameter**: a variable that are used in the function declaration to represent those arguments that were sent to the function during the function call.
 - **plugin**: _see [extension](#e)_
 - **polymorphism**: an object-oriented programming concept that refers to the ability of a variable, function or object to take on multiple forms.
@@ -147,6 +161,7 @@ All the translations for this repo will be listed below:
 - **Programming**: the process of creating a set of instructions that tell a computer how to perform a task.
 - **Programming Language**: a vocabulary and set of grammatical rules for instructing a computer or computing device to perform specific tasks. _Eg. JavaScript, Python._
 - **Programming Paradigm**: a style or "way" of programming.
+- **promise**: an object that may produce a single value some time in the future
 - **properties**: special values that are included within a class or an object.
 - **prototype (JavaScript)**: an internal property in a JavaScript object.
 
@@ -157,14 +172,21 @@ All the translations for this repo will be listed below:
 # R
 
 - <strong id="recursion">recursion</strong>: a process in which a function calls itself as a subroutine. _See [recursion](#recursion)_
+- **Regular Expression**: a sequence of symbols and characters expressing a string or pattern to be searched for within a longer piece of text.
 - **repository**: a central location in which code is stored and managed.
+- **REPL (Read-Eval-Print Loop)**: an interactive interpreter to a programming language.
 - **REST (Representational State Transfer)**: a set of constraints to be used for creating Web services.
 - **RESTful Web Services**: web services that conform to the REST architectural style.
 
 ## S
 
+- **sandbox**: a testing environment that isolates untested code changes and outright experimentation from the production environment or repository, in the context of software development including Web development and revision control.
+- **server**: a computer that provides data to other computers.
+- **setter**: a method that sets the value of a property.
 - **statement**: a single line of code that is used to perform a specific task.
 - **string**: a sequence of characters.
+- **subexpression**: a part of an expression that is by itself a correct expression.
+- **SVG (Scalable Vector Graphics)**: a vector graphics file format that enables two-dimensional images to be displayed in XML pages on the Web.
 - **syntax**: The grammer of a programming language.
 
 ## T
@@ -173,6 +195,8 @@ All the translations for this repo will be listed below:
 - **tenary operator**: an operator that takes three arguments.
 - **testing**: a process, to evaluate the functionality of a software application with an intent to find whether the developed software met the specified requirements or not and to identify the bugs to ensure that the product is bug-free.
 - **testing framework**: a set of guidelines or rules used for creating and designing test cases.
+- **token**: a single element of a programming language. _Eg keyword, operator_
+- **tree**: a data structure in which each element is attached to one or more elements directly beneath it.
 - **type (data type)**: an attribute of data which tells the compiler or interpreter how the programmer intends to use the data.
 
 ## U
