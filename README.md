@@ -54,6 +54,7 @@ All the translations for this repo will be listed below:
 ## A
 
 - **abstraction**: a technique for arranging complexity of computer systems.
+- **agile**: the ability to create and respond to change.
 - **algorithm**: the basic technique used to get the job done.
 - **application (software)**:a program or group of programs designed for end users.s
 - **API (application programming interface)**: an intermediary software that allows two or more applications to talk to each other.
