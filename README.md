@@ -138,6 +138,7 @@ All the translations for this repo will be listed below:
 - **loop**: a programming structure that repeats a sequence of instructions until a specific condition is met.
 
 # M
+
 - **Machine Language**: is the language understood by a computer.
 - **Markup Language**: a computer language that uses tags to define elements within a document.
 - **method**: a function associated with a class or an object.
