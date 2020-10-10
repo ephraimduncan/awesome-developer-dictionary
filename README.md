@@ -138,7 +138,7 @@ All the translations for this repo will be listed below:
 - **loop**: a programming structure that repeats a sequence of instructions until a specific condition is met.
 
 # M
-
+- **Machine Language**: is the language understood by a computer.
 - **Markup Language**: a computer language that uses tags to define elements within a document.
 - **method**: a function associated with a class or an object.
 - **mutable object**: an object which can change after creation.
@@ -160,6 +160,7 @@ All the translations for this repo will be listed below:
 - **package manager**: a programming language's tool to create project environments and easily import external dependencies.
 - **parameter**: a variable that are used in the function declaration to represent those arguments that were sent to the function during the function call.
 - **plugin**: _see [extension](#e)_
+- **PNG (Portable Network Graphics): is an image type that's commonly used in web design to provide a transparent background and/or a semi-transparent image.
 - **polymorphism**: an object-oriented programming concept that refers to the ability of a variable, function or object to take on multiple forms.
 - **Procedural Programming**: a programming paradigm based upon the concept of procedure calls, in which statements are structured into procedures (also known as subroutines or functions).
 - **Programming**: the process of creating a set of instructions that tell a computer how to perform a task.
@@ -187,9 +188,11 @@ All the translations for this repo will be listed below:
 - **sandbox**: a testing environment that isolates untested code changes and outright experimentation from the production environment or repository, in the context of software development including Web development and revision control.
 - **server**: a computer that provides data to other computers.
 - **setter**: a method that sets the value of a property.
+- **Software Engineering**: is the process of analyzing user needs and designing, constructing, and testing end-user applications that will satisfy these needs through the use of software programming languages.
 - **Source Code**: is any collection of code, with or without comments, written using a human-readable programming language, usually as plain text.
 - **statement**: a single line of code that is used to perform a specific task.
 - **string**: a sequence of characters.
+- **String Concatenation**: s the operation of joining character strings end-to-end.
 - **subexpression**: a part of an expression that is by itself a correct expression.
 - **SVG (Scalable Vector Graphics)**: a vector graphics file format that enables two-dimensional images to be displayed in XML pages on the Web.
 - **syntax**: The grammer of a programming language.
@@ -207,6 +210,7 @@ All the translations for this repo will be listed below:
 ## U
 
 - **UI (User Interface)**: the point of human-computer interaction and communication in a device.
+- **UX (User Experience)**:  is what a user of a particular product experiences when using that product.
 - **unary operator**: an operator that takes a single operand and performs an operation.
 - **URL (Uniform Resource Locator)**: the address of a given unique resource on the Web.
 
