@@ -124,6 +124,7 @@ All the translations for this repo will be listed below:
 - **inheritance**: the tendency of one class to derive properties and characteristics from other classes.
 - **integer(int)**: a data type that represents some range of mathematical integers.
 - **iteration**: a general term for taking each item of something, one after another.
+- **interpreter**: is a computer program that directly executes instructions written in a programming or scripting language, without requiring them previously to have been compiled into a machine language program.
 - **iterator**: an object that enables a programmer to traverse a container, particularly lists.
 
 # J
@@ -186,6 +187,7 @@ All the translations for this repo will be listed below:
 - **sandbox**: a testing environment that isolates untested code changes and outright experimentation from the production environment or repository, in the context of software development including Web development and revision control.
 - **server**: a computer that provides data to other computers.
 - **setter**: a method that sets the value of a property.
+- **Source Code**: is any collection of code, with or without comments, written using a human-readable programming language, usually as plain text.
 - **statement**: a single line of code that is used to perform a specific task.
 - **string**: a sequence of characters.
 - **subexpression**: a part of an expression that is by itself a correct expression.
