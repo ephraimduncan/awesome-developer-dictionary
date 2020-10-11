@@ -86,6 +86,7 @@ All the translations for this repo will be listed below:
 - **database**: a central location in which data is stored and managed.
 - **Data-driven Programming**: A programming paradigm in which the program statements describe the data to be matched and the processing required rather than defining a sequence of steps to be taken.
 - **data structure**: a data structure is a data organization, management, and storage format that enables efficient access and modification.
+- **debugging**: the process of finding and resolving bugs (defects or problems that prevent correct operation) within computer programs, software, or systems.
 - **destructuring**: a convenient way of extracting multiple values from data stored in objects and Arrays.
 - **documentation(docs)**: a written text or illustration that accompanies a software which either explains how the software operates or how to use it.
 
