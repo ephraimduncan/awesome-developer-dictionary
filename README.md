@@ -80,6 +80,7 @@ All the translations for this repo will be listed below:
 - **compiler**: a program that translates computer code written in one programming language into another language.
 - **components**: independent and reusable bits of code that work in isolation and returns HTML via a render function. _see [web components](#W)_
 - **control flow**: the order in which individual statements, instructions or function calls of an imperative program are executed.
+- **CSV**: Plain-text files used to better organize large amounts of data.
 
 ## D
 
@@ -117,6 +118,7 @@ All the translations for this repo will be listed below:
 
 - **high-order function**: a function that takes a function as an argument and returns a function.
 - **HTTP (Hypertext Transfer Protocol)**: an application-layer protocol for transmitting hypermedia documents, such as HTML.
+- **HTTP request methods))**: Some methods which indicate desired action on a resource. They include GET, PUT, POST etc.
 
 ## I
 
