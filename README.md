@@ -77,8 +77,10 @@ All the translations for this repo will be listed below:
 - **CLI (Command Line Interface)**: the terminal version of an application.
 - **client**: a piece of computer hardware or software that accesses a service made available by a server.
 - **closure**: a persistent scope which holds on to local variables even after the code execution has moved out of that block.
+- **cohesion**: a measure of how well the lines of source code within a module work together
 - **compiler**: a program that translates computer code written in one programming language into another language.
 - **components**: independent and reusable bits of code that work in isolation and returns HTML via a render function. _see [web components](#W)_
+- **coupling**: the degree of interdependence between software modules
 - **control flow**: the order in which individual statements, instructions or function calls of an imperative program are executed.
 
 ## D
@@ -224,3 +226,11 @@ All the translations for this repo will be listed below:
 
 - **Web Components**: a set of web platform APIs that allow you to create new custom, reusable, encapsulated HTML tags to use in web pages and web apps.
 - **webhooks**: automated messages sent from apps when something happens.
+
+## X
+
+- **XML**: a markup language with rules to be readable by machines and humans
+
+## Y
+
+- **YAML (YAML Ain't Markup Language)**: a markup language similar to XML using minimal syntax, natively using lists, scalars and associative arrays
