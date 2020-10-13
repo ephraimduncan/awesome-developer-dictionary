@@ -58,10 +58,10 @@ All the translations for this repo will be listed below:
 - **abstraction**: a technique for arranging complexity of computer systems.
 - **agile**: the ability to create and respond to change.
 - **algorithm**: the basic technique used to get the job done.
-- **application (software)**:a program or group of programs designed for end users.s
+- **application (software)**:a program or group of programs designed for end users.
 - **API (application programming interface)**: an intermediary software that allows two or more applications to talk to each other.
-- **argument**: a value that is passed to the function ( as input) when it is called.
-- **array**: a data structure consisting of a collection of elements ,values or variables each identified by at least one array index or key. _see [list](#L)_
+- **argument**: a value that is passed to the function (as input) when it is called.
+- **array**: a data structure consisting of a collection of elements, values or variables each identified by at least one array index or key. _see [list](#L)_
 
 ## B
 
@@ -77,21 +77,21 @@ All the translations for this repo will be listed below:
 - **CLI (Command Line Interface)**: the terminal version of an application.
 - **client**: a piece of computer hardware or software that accesses a service made available by a server.
 - **closure**: a persistent scope which holds on to local variables even after the code execution has moved out of that block.
-- **cohesion**: a measure of how well the lines of source code within a module work together
+- **cohesion**: a measure of how well the lines of source code within a module work together.
 - **compiler**: a program that translates computer code written in one programming language into another language.
 - **components**: independent and reusable bits of code that work in isolation and returns HTML via a render function. _see [web components](#W)_
-- **coupling**: the degree of interdependence between software modules
+- **coupling**: the degree of interdependence between software modules.
 - **control flow**: the order in which individual statements, instructions or function calls of an imperative program are executed.
-- **CSV**: Plain-text files used to better organize large amounts of data.
+- **CSV**: plain-text files used to better organize large amounts of data.
 
 ## D
 
 - **database**: a central location in which data is stored and managed.
-- **Data-driven Programming**: A programming paradigm in which the program statements describe the data to be matched and the processing required rather than defining a sequence of steps to be taken.
+- **Data-driven Programming**: a programming paradigm in which the program statements describe the data to be matched and the processing required rather than defining a sequence of steps to be taken.
 - **data structure**: a data structure is a data organization, management, and storage format that enables efficient access and modification.
 - **debugging**: the process of finding and resolving bugs (defects or problems that prevent correct operation) within computer programs, software, or systems.
 - **destructuring**: a convenient way of extracting multiple values from data stored in objects and Arrays.
-- **documentation(docs)**: a written text or illustration that accompanies a software which either explains how the software operates or how to use it.
+- **documentation (docs)**: a written text or illustration that accompanies a software which either explains how the software operates or how to use it.
 
 ## E
 
@@ -103,32 +103,34 @@ All the translations for this repo will be listed below:
 - **event handler**: a function containing program statements that are executed in response to an event.
 - **expression**: a combination of letters, numbers, or symbols used to represent a value of a variable.
 - **extension**: a piece of software extends the capabilities of an appliation and adds extra features to an already working standalone application.
-- **extension(file)**: a three or four-letter abbreviation that signifies the file type. Eg: `.js .tsx`
+- **extension (file)**: a three or four-letter abbreviation that signifies the file type. Eg: `.js .tsx`
 
 ## F
 
 - **framework**: a concrete platform where common code with generic functionality can be selectively specialized or overridden by developers or users.
 - **float**: a data type composed of a number that is not an integer, because it includes a fraction represented in decimal format.
 - **function**: a block of organized, reusable code that is used to perform a single, related action.
-- **Functional Programming**: A programming paradigm that builds software by composing pure functions, avoiding shared state, mutable data, and side-effects.
+- **Functional Programming**: a programming paradigm that builds software by composing pure functions, avoiding shared state, mutable data, and side-effects.
 
 ## G
 
 - **generator**: a function that can be used to control the iteration behaviour of a loop.
 - **getter**: a method that gets the value of a property.
+- **GUI (Graphical User Interface)**: type of user interface where users can interact with electronic devices via visual indicator representations such as buttons, scroll bars, cursors, etc.
 
 ## H
 
 - **high-order function**: a function that takes a function as an argument and returns a function.
+- **HTML (Hyper Text Markup Language)**: standard markup language used to create Web pages.
 - **HTTP (Hypertext Transfer Protocol)**: an application-layer protocol for transmitting hypermedia documents, such as HTML.
-- **HTTP request methods))**: Some methods which indicate desired action on a resource. They include GET, PUT, POST etc.
+- **HTTP request methods**: Some methods which indicate desired action on a resource. They include GET, PUT, POST etc.
 
 ## I
 
-- **IDE(Integrated Development Environment)**: a software application that combines all of the features and tools needed by a software developer.
+- **IDE (Integrated Development Environment)**: a software application that combines all of the features and tools needed by a software developer.
 - **immutable object**: an object which cannot change after creation.
 - **inheritance**: the tendency of one class to derive properties and characteristics from other classes.
-- **integer(int)**: a data type that represents some range of mathematical integers.
+- **integer (int)**: a data type that represents some range of mathematical integers.
 - **iteration**: a general term for taking each item of something, one after another.
 - **interpreter**: is a computer program that directly executes instructions written in a programming or scripting language, without requiring them previously to have been compiled into a machine language program.
 - **iterator**: an object that enables a programmer to traverse a container, particularly lists.
@@ -165,17 +167,19 @@ All the translations for this repo will be listed below:
 
 - **package**: a namespace that organizes a set of related classes and interfaces.
 - **package manager**: a programming language's tool to create project environments and easily import external dependencies.
-- **parameter**: a variable that are used in the function declaration to represent those arguments that were sent to the function during the function call.
+- **parameter**: variables that are used in the function declaration to represent those arguments that were sent to the function during the function call.
 - **plugin**: _see [extension](#e)_
-- **PNG (Portable Network Graphics): is an image type that's commonly used in web design to provide a transparent background and/or a semi-transparent image.
+- **PNG (Portable Network Graphics)**: is an image type that's commonly used in web design to provide a transparent background and/or a semi-transparent image.
+- **pointer**: variable that stores the memory address of another variable.
 - **polymorphism**: an object-oriented programming concept that refers to the ability of a variable, function or object to take on multiple forms.
 - **Procedural Programming**: a programming paradigm based upon the concept of procedure calls, in which statements are structured into procedures (also known as subroutines or functions).
 - **Programming**: the process of creating a set of instructions that tell a computer how to perform a task.
 - **Programming Language**: a vocabulary and set of grammatical rules for instructing a computer or computing device to perform specific tasks. _Eg. JavaScript, Python._
 - **Programming Paradigm**: a style or "way" of programming.
-- **promise**: an object that may produce a single value some time in the future
+- **promise**: an object that may produce a single value some time in the future.
 - **properties**: special values that are included within a class or an object.
 - **prototype (JavaScript)**: an internal property in a JavaScript object.
+- **pseudocode**: detailed description of steps in a computer program or algorithm, intended for human reading rather than machine reading. It often uses structural conventions of programming languages.
 
 ## Q
 
@@ -199,16 +203,16 @@ All the translations for this repo will be listed below:
 - **Source Code**: is any collection of code, with or without comments, written using a human-readable programming language, usually as plain text.
 - **statement**: a single line of code that is used to perform a specific task.
 - **string**: a sequence of characters.
-- **String Concatenation**: s the operation of joining character strings end-to-end.
+- **String Concatenation**: is the operation of joining character strings end-to-end.
 - **subexpression**: a part of an expression that is by itself a correct expression.
 - **SVG (Scalable Vector Graphics)**: a vector graphics file format that enables two-dimensional images to be displayed in XML pages on the Web.
-- **syntax**: The grammer of a programming language.
+- **syntax**: the grammar of a programming language.
 
 ## T
 
 - **template**: a preformatted file that serve as the starting point for another file.
 - **tenary operator**: an operator that takes three arguments.
-- **testing**: a process, to evaluate the functionality of a software application with an intent to find whether the developed software met the specified requirements or not and to identify the bugs to ensure that the product is bug-free.
+- **testing**: a process to evaluate the functionality of a software application with an intent to find whether the developed software met the specified requirements or not and to identify the bugs to ensure that the product is bug-free.
 - **testing framework**: a set of guidelines or rules used for creating and designing test cases.
 - **token**: a single element of a programming language. _Eg keyword, operator_
 - **tree**: a data structure in which each element is attached to one or more elements directly beneath it.
@@ -217,12 +221,13 @@ All the translations for this repo will be listed below:
 ## U
 
 - **UI (User Interface)**: the point of human-computer interaction and communication in a device.
-- **UX (User Experience)**:  is what a user of a particular product experiences when using that product.
+- **UX (User Experience)**: is what a user of a particular product experiences when using that product.
 - **unary operator**: an operator that takes a single operand and performs an operation.
 - **URL (Uniform Resource Locator)**: the address of a given unique resource on the Web.
 
 ## V
 
+- **variable**: are used to store information to be referenced and manipulated in a computer program. Their purpose is to label and store data in memory so that the user may use it throughout the program if needed.
 - **Version Control**: a system that records changes to a file or set of files over time so that you can recall specific versions later.
 
 ## W
@@ -232,8 +237,8 @@ All the translations for this repo will be listed below:
 
 ## X
 
-- **XML**: a markup language with rules to be readable by machines and humans
+- **XML**: a markup language with rules to be readable by machines and humans.
 
 ## Y
 
-- **YAML (YAML Ain't Markup Language)**: a markup language similar to XML using minimal syntax, natively using lists, scalars and associative arrays
+- **YAML (YAML Ain't Markup Language)**: a markup language similar to XML using minimal syntax, natively using lists, scalars and associative arrays.
