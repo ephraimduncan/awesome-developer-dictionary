@@ -137,8 +137,8 @@ All the translations for this repo will be listed below:
 
 ## J
 
-- **JSON(JavaScript Object Notation)**: a syntax for storing and exchanging data compactible with most programming languages.
 - **jQuery**: a fast, small, and feature-rich JavaScript library whose purpose is to make it much easier to use JavaScript on your website.
+- **JSON(JavaScript Object Notation)**: a syntax for storing and exchanging data compactible with most programming languages.
 - **JSX**: a HTML-like syntax that is intended to be used by preprocessors to transform HTML-like text found in JavaScript files into standard JavaScript objects that a JavaScript engine can parse.
 
 ## L
