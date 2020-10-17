@@ -77,6 +77,7 @@ All the translations for this repo will be listed below:
 - **CLI (Command Line Interface)**: the terminal version of an application.
 - **client**: a piece of computer hardware or software that accesses a service made available by a server.
 - **closure**: a persistent scope which holds on to local variables even after the code execution has moved out of that block.
+- **Cloud computing**: Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user. The term is generally used to describe data centers available to many users over the Internet.
 - **cohesion**: a measure of how well the lines of source code within a module work together.
 - **compiler**: a program that translates computer code written in one programming language into another language.
 - **components**: independent and reusable bits of code that work in isolation and returns HTML via a render function. _see [web components](#W)_
@@ -127,6 +128,7 @@ All the translations for this repo will be listed below:
 
 ## I
 
+- **IaaS (Infrastructure as a Service)**: Infrastructure as a service (IaaS) is a form of cloud computing that provides virtualized computing resources like compute, network, and storage to consumers on-demand, over the internet, and on a pay-as-you-go basis.
 - **IDE (Integrated Development Environment)**: a software application that combines all of the features and tools needed by a software developer.
 - **immutable object**: an object which cannot change after creation.
 - **inheritance**: the tendency of one class to derive properties and characteristics from other classes.
@@ -137,6 +139,8 @@ All the translations for this repo will be listed below:
 
 ## J
 
+- **JAVA**: Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let application developers write once, run anywhere (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation. Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture.
+- **Java EE**: Java EE stands for Java Enterprise Edition, which was earlier known as J2EE and is currently known as Jakarta EE. It is a set of specifications wrapping around Java SE (Standard Edition). The Java EE provides a platform for developers with enterprise features such as distributed computing and web services. Java EE applications are usually run on reference run times such as microservers or application servers. Examples of some contexts where Java EE is used are e-commerce, accounting, banking information systems.
 - **jQuery**: a fast, small, and feature-rich JavaScript library whose purpose is to make it much easier to use JavaScript on your website.
 - **JSON(JavaScript Object Notation)**: a syntax for storing and exchanging data compactible with most programming languages.
 - **JSX**: a HTML-like syntax that is intended to be used by preprocessors to transform HTML-like text found in JavaScript files into standard JavaScript objects that a JavaScript engine can parse.
@@ -162,11 +166,12 @@ All the translations for this repo will be listed below:
 ## O
 
 - **Object-Oriented Programming**: A programming paradigm that organizes software design around data, or objects, rather than functions and logic.
-
-- **operator**: a symbol that tells the compiler or interpreter to perform specific mathematical, relational or logical operation and produce final result.
+- **On-Premises**: On-premises is the software and technology that is located within the physical confines of an enterprise – often in the company's data center  (installing and running software on hardware located within the premises of the company) – as opposed to running remotely on hosted servers or in the cloud.
+- **Operator**: a symbol that tells the compiler or interpreter to perform specific mathematical, relational or logical operation and produce final result.
 
 ## P
 
+- **PaaS (Platform as a Service)**: Platform-as-a-service (PaaS) is a type of cloud computing offering in which a service provider delivers a platform to clients, enabling them to develop, run, and manage business applications without the need to build and maintain the infrastructure such software development processes typically require.
 - **package**: a namespace that organizes a set of related classes and interfaces.
 - **package manager**: a programming language's tool to create project environments and easily import external dependencies.
 - **parameter**: variables that are used in the function declaration to represent those arguments that were sent to the function during the function call.
@@ -193,14 +198,17 @@ All the translations for this repo will be listed below:
 - **Regular Expression**: a sequence of symbols and characters expressing a string or pattern to be searched for within a longer piece of text.
 - **repository**: a central location in which code is stored and managed.
 - **REPL (Read-Eval-Print Loop)**: an interactive interpreter to a programming language.
-- **REST (Representational State Transfer)**: a set of constraints to be used for creating Web services.
+- **REST (Representational State Transfer)**: Representational state transfer (REST) is a software architectural style that defines a set of constraints to be used for creating Web services. Web services that conform to the REST architectural style, called RESTful Web services, provide interoperability between computer systems on the internet. RESTful Web services allow the requesting systems to access and manipulate textual representations of Web resources by using a uniform and predefined set of stateless operations, in the form of an HTTP method, or verb (GET, POST, PUT, DELETE etc.). By using a stateless protocol and standard operations, RESTful systems aim for fast performance, reliability, and the ability to grow by reusing components.
 - **RESTful Web Services**: web services that conform to the REST architectural style.
 
 ## S
 
+- **SaaS (Software as a Service)**: Software as a service (SaaS) is a software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. It is sometimes referred to as "on-demand software".
 - **sandbox**: a testing environment that isolates untested code changes and outright experimentation from the production environment or repository, in the context of software development including Web development and revision control.
 - **server**: a computer that provides data to other computers.
 - **setter**: a method that sets the value of a property.
+- **SOA (Service Oriented Architecture)**: Service-oriented architecture (SOA) is a style of software design where services are provided to the other components by application components, through a communication protocol over a network.
+- **SOAP (Simple Object Access Protocol)**: SOAP (abbreviation for Simple Object Access Protocol) is a messaging protocol specification for exchanging structured information in the implementation of web services in computer networks. Its purpose is to provide extensibility, neutrality, verbosity and independence. It uses XML Information Set for its message format, and relies on application layer protocols, most often Hypertext Transfer Protocol (HTTP), although some legacy systems communicate over Simple Mail Transfer Protocol (SMTP), for message negotiation and transmission.
 - **Software Engineering**: is the process of analyzing user needs and designing, constructing, and testing end-user applications that will satisfy these needs through the use of software programming languages.
 - **Source Code**: is any collection of code, with or without comments, written using a human-readable programming language, usually as plain text.
 - **statement**: a single line of code that is used to perform a specific task.
@@ -231,12 +239,14 @@ All the translations for this repo will be listed below:
 
 - **variable**: are used to store information to be referenced and manipulated in a computer program. Their purpose is to label and store data in memory so that the user may use it throughout the program if needed.
 - **Version Control**: a system that records changes to a file or set of files over time so that you can recall specific versions later.
+- **VM (Virtual Machine)**: A virtual machine (VM) is a virtual environment that functions as a virtual computer system with its own CPU, memory, network interface, and storage, created on a physical hardware system (located off- or on-premises). Software called a hypervisor separates the machine’s resources from the hardware and provisions them appropriately so they can be used by the VM. 
 
 ## W
 
 - **Web Components**: a set of web platform APIs that allow you to create new custom, reusable, encapsulated HTML tags to use in web pages and web apps.
 - **webhooks**: automated messages sent from apps when something happens.
 - **WebRTC**: A browser-based programming interface (API) from the W3C for voice and video calling that bypasses the traditional telephone networks.
+- **WebService**: A web service is a piece of software that makes itself available over the internet.Web services are self-contained, modular, distributed, dynamic applications that can be described, published, located, or invoked over the network. These applications can be local, distributed, or web-based. Web services are built on top of open standards such as TCP/IP, HTTP, Java, HTML, and XML.
 
 ## X
 
