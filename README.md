@@ -137,11 +137,13 @@ All the translations for this repo will be listed below:
 - **interpreter**: is a computer program that directly executes instructions written in a programming or scripting language, without requiring them previously to have been compiled into a machine language program.
 - **iterator**: an object that enables a programmer to traverse a container, particularly lists.
 
-# J
+## J
 
 - **JAVA**: Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let application developers write once, run anywhere (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation. Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture.
 - **Java EE**: Java EE stands for Java Enterprise Edition, which was earlier known as J2EE and is currently known as Jakarta EE. It is a set of specifications wrapping around Java SE (Standard Edition). The Java EE provides a platform for developers with enterprise features such as distributed computing and web services. Java EE applications are usually run on reference run times such as microservers or application servers. Examples of some contexts where Java EE is used are e-commerce, accounting, banking information systems.
+- **jQuery**: a fast, small, and feature-rich JavaScript library whose purpose is to make it much easier to use JavaScript on your website.
 - **JSON(JavaScript Object Notation)**: a syntax for storing and exchanging data compactible with most programming languages.
+- **JSX**: a HTML-like syntax that is intended to be used by preprocessors to transform HTML-like text found in JavaScript files into standard JavaScript objects that a JavaScript engine can parse.
 
 ## L
 
@@ -149,7 +151,7 @@ All the translations for this repo will be listed below:
 - **list**: a collection type that stores ordered, non-unique elements which allow duplicates.
 - **loop**: a programming structure that repeats a sequence of instructions until a specific condition is met.
 
-# M
+## M
 
 - **Machine Language**: is the language understood by a computer.
 - **Markup Language**: a computer language that uses tags to define elements within a document.
@@ -190,7 +192,7 @@ All the translations for this repo will be listed below:
 
 - **Query Language**: a computer programming language that requests and retrieves data from database and information systems by sending queries.
 
-# R
+## R
 
 - <strong id="recursion">recursion</strong>: a process in which a function calls itself as a subroutine. _See [recursion](#recursion)_
 - **Regular Expression**: a sequence of symbols and characters expressing a string or pattern to be searched for within a longer piece of text.
@@ -243,6 +245,7 @@ All the translations for this repo will be listed below:
 
 - **Web Components**: a set of web platform APIs that allow you to create new custom, reusable, encapsulated HTML tags to use in web pages and web apps.
 - **webhooks**: automated messages sent from apps when something happens.
+- **WebRTC**: A browser-based programming interface (API) from the W3C for voice and video calling that bypasses the traditional telephone networks.
 - **WebService**: A web service is a piece of software that makes itself available over the internet.Web services are self-contained, modular, distributed, dynamic applications that can be described, published, located, or invoked over the network. These applications can be local, distributed, or web-based. Web services are built on top of open standards such as TCP/IP, HTTP, Java, HTML, and XML.
 
 ## X
