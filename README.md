@@ -139,6 +139,7 @@ All the translations for this repo will be listed below:
 
 - **JSON(JavaScript Object Notation)**: a syntax for storing and exchanging data compactible with most programming languages.
 - **jQuery**: a fast, small, and feature-rich JavaScript library whose purpose is to make it much easier to use JavaScript on your website.
+- **JSX**: a HTML-like syntax that is intended to be used by preprocessors to transform HTML-like text found in JavaScript files into standard JavaScript objects that a JavaScript engine can parse.
 
 ## L
 
@@ -235,6 +236,7 @@ All the translations for this repo will be listed below:
 
 - **Web Components**: a set of web platform APIs that allow you to create new custom, reusable, encapsulated HTML tags to use in web pages and web apps.
 - **webhooks**: automated messages sent from apps when something happens.
+- **WebRTC**: A browser-based programming interface (API) from the W3C for voice and video calling that bypasses the traditional telephone networks.
 
 ## X
 
