@@ -135,8 +135,9 @@ All the translations for this repo will be listed below:
 - **interpreter**: is a computer program that directly executes instructions written in a programming or scripting language, without requiring them previously to have been compiled into a machine language program.
 - **iterator**: an object that enables a programmer to traverse a container, particularly lists.
 
-# J
+## J
 
+- **jQuery**: a fast, small, and feature-rich JavaScript library whose purpose is to make it much easier to use JavaScript on your website.
 - **JSON(JavaScript Object Notation)**: a syntax for storing and exchanging data compactible with most programming languages.
 - **JSX**: a HTML-like syntax that is intended to be used by preprocessors to transform HTML-like text found in JavaScript files into standard JavaScript objects that a JavaScript engine can parse.
 
@@ -146,7 +147,7 @@ All the translations for this repo will be listed below:
 - **list**: a collection type that stores ordered, non-unique elements which allow duplicates.
 - **loop**: a programming structure that repeats a sequence of instructions until a specific condition is met.
 
-# M
+## M
 
 - **Machine Language**: is the language understood by a computer.
 - **Markup Language**: a computer language that uses tags to define elements within a document.
@@ -186,7 +187,7 @@ All the translations for this repo will be listed below:
 
 - **Query Language**: a computer programming language that requests and retrieves data from database and information systems by sending queries.
 
-# R
+## R
 
 - <strong id="recursion">recursion</strong>: a process in which a function calls itself as a subroutine. _See [recursion](#recursion)_
 - **Regular Expression**: a sequence of symbols and characters expressing a string or pattern to be searched for within a longer piece of text.
