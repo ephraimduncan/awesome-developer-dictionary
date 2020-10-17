@@ -234,6 +234,7 @@ All the translations for this repo will be listed below:
 
 - **Web Components**: a set of web platform APIs that allow you to create new custom, reusable, encapsulated HTML tags to use in web pages and web apps.
 - **webhooks**: automated messages sent from apps when something happens.
+- **WebRTC**: A browser-based programming interface (API) from the W3C for voice and video calling that bypasses the traditional telephone networks.
 
 ## X
 
