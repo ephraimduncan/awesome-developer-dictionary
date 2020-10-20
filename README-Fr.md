@@ -161,7 +161,7 @@ Toutes les traductions de ce dépôt seront répertoriées ci-dessous:
 
 ## N
 
--**nœud**: une unité de base d'une structure de données, telle qu'une liste chaînée ou une structure de données arborescente.
+- **nœud**: une unité de base d'une structure de données, telle qu'une liste chaînée ou une structure de données arborescente.
 - **null**: un type de données spécial qui ne peut avoir qu'une seule valeur: NULL.
 
 ## O
