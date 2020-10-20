@@ -21,7 +21,7 @@ Silahkan membuat sebuah PR (_Pull Request_) untuk menambahkan istilah baru sekal
 Semua terjemahan dari repo ini akan dilist di bawah ini :
 
 - [Bahasa Spanyol](./README-es.md)
-- [Bahasa Indonesia](https://github.com/myusrilh/awesome-developer-dictionary/blob/master/README.md)
+- [Bahasa Indonesia](https://github.com/myusrilh/awesome-developer-dictionary/blob/master/README-id.md)
 
 ## Konten
 

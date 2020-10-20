@@ -21,7 +21,7 @@ Feel free to submit a PR adding a new term with a definition. If you want to tra
 All the translations for this repo will be listed below:
 
 - [Spanish](./README-es.md)
-- [Indonesian]()
+- [Indonesian](https://github.com/myusrilh/awesome-developer-dictionary/blob/master/README-id.md)
 
 ## Contents
 
