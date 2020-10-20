@@ -187,6 +187,7 @@ All the translations for this repo will be listed below:
 - **properties**: special values that are included within a class or an object.
 - **prototype (JavaScript)**: an internal property in a JavaScript object.
 - **pseudocode**: detailed description of steps in a computer program or algorithm, intended for human reading rather than machine reading. It often uses structural conventions of programming languages.
+- **Python**: Python is an interpreted, high-level and general-purpose programming language.
 
 ## Q
 
