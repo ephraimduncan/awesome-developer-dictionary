@@ -93,6 +93,7 @@ All the translations for this repo will be listed below:
 - **debugging**: the process of finding and resolving bugs (defects or problems that prevent correct operation) within computer programs, software, or systems.
 - **destructuring**: a convenient way of extracting multiple values from data stored in objects and Arrays.
 - **documentation (docs)**: a written text or illustration that accompanies a software which either explains how the software operates or how to use it.
+- **DRY**: acronym for "Don't Repeat Yourself." Used to describe concise code that is not long and/or repetitive. Example use: "This code is not DRY."
 
 ## E
 
