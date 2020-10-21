@@ -59,16 +59,17 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 - **Abstracción**: una técnica para organizar la complejidad de los sistemas informáticos.
 - **Ágil**: la capacidad de crear y responder al cambio.
 - **Algoritmo**: la técnica básica utilizada para realizar el trabajo.
-- **Aplicación**: un programa o grupo de programas diseñados para usuarios finales.
 - **API (interfaz de programación de aplicaciones)**: un software intermediario que permite que dos o más aplicaciones se comuniquen entre sí.
+- **Aplicación**: un programa o grupo de programas diseñados para usuarios finales.
+- **Árbol**: una estructura de datos en la que cada elemento se adjunta a uno o más elementos directamente debajo de él.
 - **Argumento**: un valor que se pasa a la función (como entrada) cuando se llama.
 - **Arreglo**: una estructura de datos que consta de una colección de elementos, valores o variables, cada uno identificado por al menos un índice o clave de matriz. _Ver [lista](#L)_
 
 ## B
 
+- **Base de datos**: una ubicación central en la que se almacenan y gestionan los datos.
 - **Binario (operador)**: un operador que toma dos argumentos.
 - **Booleano**: un tipo de datos que tiene uno de dos valores posibles (normalmente denotado verdadero y falso).
-- **Rama**: un mundo paralelo donde puede crear confirmaciones sin introducir errores en el código de producción.
 - **Bug (error)**: un error en el código fuente que hace que un programa produzca resultados inesperados.
 
 ## C
@@ -80,12 +81,10 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 - **Closure**: un alcance persistente que se aferra a las variables locales incluso después de que la ejecución del código se haya movido fuera de ese bloque.
 - **Compilador**: programa que traduce código de computadora escrito en un lenguaje de programación a otro lenguaje.
 - **Componentes**: bits de código independientes y reutilizables que funcionan de forma aislada y devuelven HTML a través de una función de representación. _Ver [componentes web](#W)_
-- **Flujo de control**: el orden en el que se ejecutan las instrucciones, instrucciones o llamadas de función individuales de un programa imperativo.
 
 ## D
 
-- **Base de datos**: una ubicación central en la que se almacenan y gestionan los datos.
-- **Programación basada en datos**: Un paradigma de programación en el que las declaraciones del programa describen los datos que se van a comparar y el procesamiento requerido en lugar de definir una secuencia de pasos a seguir.
+- **Declaración**: una sola línea de código que se utiliza para realizar una tarea específica.
 - **Desestructuración**: una forma conveniente de extraer varios valores de los datos almacenados en objetos y matrices.
 - **Documentación (docs)**: texto escrito o ilustración que acompaña a un software que explica cómo funciona el software o cómo utilizarlo.
 
@@ -94,19 +93,21 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 - **Ecosistema**: una colección de proyectos de software, que se desarrollan y coevolucionan en el mismo entorno.
 - **Encapsulamiento**: la agrupación de datos con los métodos que operan sobre esos datos.
 - **Enumeración**: un tipo de datos especial que permite que una variable sea un conjunto de constantes predefinidas.
+- **Entero (integer, int)**: un tipo de datos que representa algún rango de números enteros matemáticos.
 - **ES6 (ES2015)**: versión 6 del lenguaje de programación ECMA Script y agrega muchas más características destinadas a facilitar el desarrollo de software a gran escala.
 - **Evento**: acción u ocurrencia detectada por un programa.
-- **Controlador de eventos**: una función que contiene declaraciones de programa que se ejecutan en respuesta a un evento.
+- **Event handler (Controlador de eventos)**: una función que contiene declaraciones de programa que se ejecutan en respuesta a un evento.
 - **Expresión**: una combinación de letras, números o símbolos que se utiliza para representar el valor de una variable.
+- **Expresión regular**: una secuencia de símbolos y caracteres que expresan una cadena o patrón que se buscará en un texto más largo.
 - **Extensión**: una pieza de software amplía las capacidades de una aplicación y agrega funciones adicionales a una aplicación independiente que ya funciona.
 - **Extensión (archivo)**: abreviatura de tres o cuatro letras que indica el tipo de archivo. P.ej:`.js .tsx`
 
 ## F
 
-- **Framework (marco de trabajo)**: una plataforma concreta donde el código común con funcionalidad genérica puede ser selectivamente especializado o anulado por desarrolladores o usuarios.
 - **Flotante**: tipo de dato compuesto por un número que no es un entero, porque incluye una fracción representada en formato decimal.
+- **Flujo de control**: el orden en el que se ejecutan las instrucciones, instrucciones o llamadas de función individuales de un programa imperativo.
+- **Framework (marco de trabajo)**: una plataforma concreta donde el código común con funcionalidad genérica puede ser selectivamente especializado o anulado por desarrolladores o usuarios.
 - **Función**: un bloque de código organizado y reutilizable que se utiliza para realizar una única acción relacionada.
-- **Programación funcional**: Un paradigma de programación que crea software componiendo funciones puras, evitando estados compartidos, datos mutables y efectos secundarios.
 
 ## G
 
@@ -115,15 +116,13 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 
 ## H
 
+- **Herencia**: la tendencia de una clase a derivar propiedades y características de otras clases.
 - **High-order function (Función de orden superior)**: una función que toma una función como argumento y devuelve una función.
 - **HTTP (Protocolo de transferencia de hipertexto)**: un protocolo de capa de aplicación para transmitir documentos hipermedia, como HTML.
 
 ## I
 
 - **IDE (entorno de desarrollo integrado)**: una aplicación de software que combina todas las funciones y herramientas que necesita un desarrollador de software.
-- **Inmutable (objeto)**: un objeto que no puede cambiar después de la creación.
-- **Herencia**: la tendencia de una clase a derivar propiedades y características de otras clases.
-- **Entero (integer, int)**: un tipo de datos que representa algún rango de números enteros matemáticos.
 - **Iteración**: término general para tomar cada elemento de algo, uno tras otro.
 - **Iterator**: un objeto que permite a un programador recorrer un contenedor, particularmente listas.
 
@@ -134,15 +133,16 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 
 ## L
 
+- **Lenguaje de programación**: un vocabulario y un conjunto de reglas gramaticales para instruir a una computadora o dispositivo informático para que realice tareas específicas. _Ej:. JavaScript, Python._
 - **Libreria**: una colección única de archivos, programas, rutinas, scripts o funciones a los que se puede hacer referencia en otro código.
 - **Lista**: un tipo de colección que almacena elementos ordenados no únicos que permiten duplicados.
 - **Loop (ciclo)**: una estructura de programación que repite una secuencia de instrucciones hasta que se cumple una condición específica.
 
 ## M
 
+- **Marco de prueba**: un conjunto de pautas o reglas que se utilizan para crear y diseñar casos de prueba.
 - **Markup (Lenguaje de marcado)**: lenguaje informático que utiliza etiquetas para definir elementos dentro de un documento.
 - **Método**: una función asociada con una clase o un objeto.
-- **Objeto mutable**: un objeto que puede cambiar después de la creación.
 
 ## N
 
@@ -151,23 +151,28 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 
 ## O
 
-- **Programación orientada a objetos**: Un paradigma de programación que organiza el diseño de software en torno a datos u objetos, en lugar de funciones y lógica.
+- **Objeto inmutable**: un objeto que no puede cambiar después de la creación.
+- **Objeto mutable**: un objeto que puede cambiar después de la creación.
 - **Operador**: símbolo que le dice al compilador o intérprete que realice una operación matemática, relacional o lógica específica y produzca un resultado final.
+- **Operador unario**: un operador que toma un solo operando y realiza una operación.
 
 ## P
 
+- **Parámetro**: una variable que se utiliza en la declaración de la función para representar los argumentos que se enviaron a la función durante la llamada a la función.
 - **Paquete (package)**: un espacio de nombres que organiza un conjunto de clases e interfaces relacionadas.
 - **Package Manager (manejador de paquetes)**: una herramienta de lenguaje de programación para crear entornos de proyectos e importar fácilmente dependencias externas.
-- **Parámetro**: una variable que se utiliza en la declaración de la función para representar los argumentos que se enviaron a la función durante la llamada a la función.
 - **Plugin**: _ver [extensión](#E)_
 - **Polimorfismo**: concepto de programación orientada a objetos que se refiere a la capacidad de una variable, función u objeto de adoptar múltiples formas.
-- **Programación procedimental**: un paradigma de programación basado en el concepto de llamadas a procedimientos, en el que las declaraciones se estructuran en procedimientos (también conocidos como subrutinas o funciones).
 - **Programación**: el proceso de crear un conjunto de instrucciones que le dicen a una computadora cómo realizar una tarea.
-- **Lenguaje de programación**: un vocabulario y un conjunto de reglas gramaticales para instruir a una computadora o dispositivo informático para que realice tareas específicas. _Ej:. JavaScript, Python._
 - **Paradigma de programación**: un estilo o "forma" de programación.
+- **Programación orientada a objetos**: Un paradigma de programación que organiza el diseño de software en torno a datos u objetos, en lugar de funciones y lógica.
+- **Programación funcional**: Un paradigma de programación que crea software componiendo funciones puras, evitando estados compartidos, datos mutables y efectos secundarios.
+- **Programación basada en datos**: Un paradigma de programación en el que las declaraciones del programa describen los datos que se van a comparar y el procesamiento requerido en lugar de definir una secuencia de pasos a seguir.
+- **Programación procedimental**: un paradigma de programación basado en el concepto de llamadas a procedimientos, en el que las declaraciones se estructuran en procedimientos (también conocidos como subrutinas o funciones).
 - **Promesa**: un objeto que puede producir un valor único en el futuro
 - **Propiedades**: valores especiales que se incluyen dentro de una clase o un objeto.
 - **Prototipo (JavaScript)**: una propiedad interna en un objeto JavaScript.
+- **Pruebas**: un proceso, para evaluar la funcionalidad de una aplicación de software con la intención de encontrar si el software desarrollado cumplió con los requisitos especificados o no e identificar los errores para garantizar que el producto esté libre de errores.
 
 ## Q
 
@@ -175,43 +180,38 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 
 ## R
 
+- **Rama (git)**: un mundo paralelo donde puede crear confirmaciones sin introducir errores en el código de producción.
 - **Recursividad**: un proceso en el que una función se llama a sí misma como una subrutina. _Ver [recursividad](#R)_
-- **Expresión regular**: una secuencia de símbolos y caracteres que expresan una cadena o patrón que se buscará en un texto más largo.
 - **Repositorio**: una ubicación central en la que se almacena y gestiona el código.
 - **REPL (bucle de lectura-evaluación-impresión)**: un intérprete interactivo de un lenguaje de programación.
 - **REST (Transferencia de estado representacional)**: conjunto de restricciones que se utilizarán para crear servicios web.
-- **Servicios web RESTful**: servicios web que se ajustan al estilo arquitectónico REST.
 
 ## S
 
 - **Sandbox**: un entorno de prueba que aísla los cambios de código no probados y la experimentación absoluta del entorno de producción o repositorio, en el contexto del desarrollo de software, incluido el desarrollo web y el control de revisiones.
+- **Servicios web RESTful**: servicios web que se ajustan al estilo arquitectónico REST.
 - **Servidor**: una computadora que proporciona datos a otras computadoras.
 - **Setter**: un método que establece el valor de una propiedad.
-- **Declaración**: una sola línea de código que se utiliza para realizar una tarea específica.
+- **Sintaxis**: La gramática de un lenguaje de programación.
 - **String (Cadena de caracteres)**: una secuencia de caracteres.
 - **Subexpresión**: parte de una expresión que es en sí misma una expresión correcta.
 - **SVG (gráficos vectoriales escalables)**: un formato de archivo de gráficos vectoriales que permite mostrar imágenes bidimensionales en páginas XML en la Web.
-- **Sintaxis**: La gramática de un lenguaje de programación.
 
 ## T
 
 - **Template**: un archivo preformateado que sirve como punto de partida para otro archivo.
 - **Ternario (operador)**: un operador que toma tres argumentos.
-- **Pruebas**: un proceso, para evaluar la funcionalidad de una aplicación de software con la intención de encontrar si el software desarrollado cumplió con los requisitos especificados o no e identificar los errores para garantizar que el producto esté libre de errores.
-- **Marco de prueba**: un conjunto de pautas o reglas que se utilizan para crear y diseñar casos de prueba.
+- **Tipo de datos**: un atributo de datos que le dice al compilador o intérprete cómo el programador pretende usar los datos.
 - **Token**: un solo elemento de un lenguaje de programación. _Ej: palabra clave, operador_
-- **Árbol**: una estructura de datos en la que cada elemento se adjunta a uno o más elementos directamente debajo de él.
-- **Type (tipo de datos)**: un atributo de datos que le dice al compilador o intérprete cómo el programador pretende usar los datos.
 
 ## U
 
 - **UI (interfaz de usuario)**: el punto de interacción y comunicación humano-computadora en un dispositivo.
-- **Operador unario**: un operador que toma un solo operando y realiza una operación.
 - **URL (localizador uniforme de recursos)**: la dirección de un recurso único dado en la Web.
 
 ## V
 
-- **Control de versiones**: un sistema que registra cambios en un archivo o conjunto de archivos a lo largo del tiempo para que pueda recuperar versiones específicas más adelante.
+- **VCS (Sistema de control de versiones)**: un sistema que registra cambios en un archivo o conjunto de archivos a lo largo del tiempo para que pueda recuperar versiones específicas más adelante.
 
 ## W
 
