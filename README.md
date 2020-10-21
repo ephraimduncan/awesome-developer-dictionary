@@ -158,6 +158,7 @@ All the translations for this repo will be listed below:
 - **Machine Language**: is the language understood by a computer.
 - **Markup Language**: a computer language that uses tags to define elements within a document.
 - **method**: a function associated with a class or an object.
+- **memoization**: optimization technique that involves storing the result so you can use it next time instead of calculating the same thing again and again.
 - **mutable object**: an object which can change after creation.
 
 ## N
@@ -168,7 +169,7 @@ All the translations for this repo will be listed below:
 ## O
 
 - **Object-Oriented Programming**: A programming paradigm that organizes software design around data, or objects, rather than functions and logic.
-- **On-Premises**: On-premises is the software and technology that is located within the physical confines of an enterprise – often in the company's data center  (installing and running software on hardware located within the premises of the company) – as opposed to running remotely on hosted servers or in the cloud.
+- **On-Premises**: On-premises is the software and technology that is located within the physical confines of an enterprise – often in the company's data center (installing and running software on hardware located within the premises of the company) – as opposed to running remotely on hosted servers or in the cloud.
 - **Operator**: a symbol that tells the compiler or interpreter to perform specific mathematical, relational or logical operation and produce final result.
 
 ## P
@@ -242,7 +243,7 @@ All the translations for this repo will be listed below:
 
 - **variable**: are used to store information to be referenced and manipulated in a computer program. Their purpose is to label and store data in memory so that the user may use it throughout the program if needed.
 - **Version Control**: a system that records changes to a file or set of files over time so that you can recall specific versions later.
-- **VM (Virtual Machine)**: A virtual machine (VM) is a virtual environment that functions as a virtual computer system with its own CPU, memory, network interface, and storage, created on a physical hardware system (located off- or on-premises). Software called a hypervisor separates the machine’s resources from the hardware and provisions them appropriately so they can be used by the VM. 
+- **VM (Virtual Machine)**: A virtual machine (VM) is a virtual environment that functions as a virtual computer system with its own CPU, memory, network interface, and storage, created on a physical hardware system (located off- or on-premises). Software called a hypervisor separates the machine’s resources from the hardware and provisions them appropriately so they can be used by the VM.
 
 ## W
 
