@@ -2,8 +2,7 @@
   <img src="https://wiki.js.org/img/nolan-literature.2917af16.svg" width="150" alt="Dictionary">
   <!-- Image From Wiki.js -->
   <h2>Awesome Developer Dictionary - Spanish</h2>
-  <p align="center">
-Definiciones simples de términos de programación</p>
+  <p align="center">Definiciones simples de términos de programación</p>
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![Awesome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -21,6 +20,7 @@ No dude en enviar un PR agregando un nuevo término con una definición. Si dese
 
 Todas las traducciones de este repositorio se enumerarán a continuación:
 
+- [Inglés](./README.md)
 - [Español](./README-es.md)
 
 ## Contenido
@@ -28,29 +28,29 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 1.  [A](#A)
 2.  [B](#B)
 3.  [C](#C)
-4.  [re](#D)
-5.  [ES](#E)
+4.  [D](#D)
+5.  [E](#E)
 6.  [F](#F)
-7.  [GRAMO](#G)
+7.  [G](#G)
 8.  [H](#H)
-9.  [yo](#I)
+9.  [I](#I)
 10. [J](#J)
-11. [A](#K)
+11. [K](#K)
 12. [L](#L)
-13. [METRO](#M)
-14. [norte](#N)
+13. [M](#M)
+14. [N](#N)
 15. [O](#O)
-16. [PAGS](#P)
+16. [P](#P)
 17. [Q](#Q)
 18. [R](#R)
 19. [S](#S)
 20. [T](#T)
 21. [U](#U)
-22. [A](#V)
-23. [EN](#W)
+22. [V](#V)
+23. [W](#W)
 24. [X](#X)
 25. [Y](#Y)
-26. [CON](#Z)
+26. [Z](#Z)
 
 <hr>
 
@@ -62,7 +62,7 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 - **Software de la aplicacion)**: un programa o grupo de programas diseñados para usuarios finales.
 - **API (interfaz de programación de aplicaciones)**: un software intermediario que permite que dos o más aplicaciones se comuniquen entre sí.
 - **argumento**: un valor que se pasa a la función (como entrada) cuando se llama.
-- **formación**: una estructura de datos que consta de una colección de elementos, valores o variables, cada uno identificado por al menos un índice o clave de matriz._ver[lista](#L)_
+- **formación**: una estructura de datos que consta de una colección de elementos, valores o variables, cada uno identificado por al menos un índice o clave de matriz. _ver[lista](#L)_
 
 ## B
 
@@ -79,17 +79,17 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 - **cliente**: una pieza de hardware o software de computadora que accede a un servicio puesto a disposición por un servidor.
 - **cierre**: un alcance persistente que se aferra a las variables locales incluso después de que la ejecución del código se haya movido fuera de ese bloque.
 - **compilador**: programa que traduce código de computadora escrito en un lenguaje de programación a otro lenguaje.
-- **componentes**: bits de código independientes y reutilizables que funcionan de forma aislada y devuelven HTML a través de una función de representación._ver[componentes web](#W)_
+- **componentes**: bits de código independientes y reutilizables que funcionan de forma aislada y devuelven HTML a través de una función de representación. _ver[componentes web](#W)_
 - **flujo de control**: el orden en el que se ejecutan las instrucciones, instrucciones o llamadas de función individuales de un programa imperativo.
 
-## re
+## D
 
 - **base de datos**: una ubicación central en la que se almacenan y gestionan los datos.
 - **Programación basada en datos**: Un paradigma de programación en el que las declaraciones del programa describen los datos que se van a comparar y el procesamiento requerido en lugar de definir una secuencia de pasos a seguir.
 - **desestructuración**: una forma conveniente de extraer varios valores de los datos almacenados en objetos y matrices.
 - **documentación (docs)**: texto escrito o ilustración que acompaña a un software que explica cómo funciona el software o cómo utilizarlo.
 
-## ES
+## E
 
 - **ecosistema**: una colección de proyectos de software, que se desarrollan y coevolucionan en el mismo entorno.
 - **encapsulamiento**: la agrupación de datos con los métodos que operan sobre esos datos.
@@ -108,7 +108,7 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 - **función**: un bloque de código organizado y reutilizable que se utiliza para realizar una única acción relacionada.
 - **Programación funcional**: Un paradigma de programación que crea software componiendo funciones puras, evitando estados compartidos, datos mutables y efectos secundarios.
 
-## GRAMO
+## G
 
 - **generador**: una función que se puede utilizar para controlar el comportamiento de iteración de un bucle.
 - **adquiridor**: un método que obtiene el valor de una propiedad.
@@ -118,7 +118,7 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 - **función de orden superior**: una función que toma una función como argumento y devuelve una función.
 - **HTTP (Protocolo de transferencia de hipertexto)**: un protocolo de capa de aplicación para transmitir documentos hipermedia, como HTML.
 
-## yo
+## I
 
 - **IDE (entorno de desarrollo integrado)**: una aplicación de software que combina todas las funciones y herramientas que necesita un desarrollador de software.
 - **objeto inmutable**: un objeto que no puede cambiar después de la creación.
@@ -138,13 +138,13 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 - **lista**: un tipo de colección que almacena elementos ordenados no únicos que permiten duplicados.
 - **lazo**: una estructura de programación que repite una secuencia de instrucciones hasta que se cumple una condición específica.
 
-## METRO
+## M
 
 - **Lenguaje de marcado**: lenguaje informático que utiliza etiquetas para definir elementos dentro de un documento.
 - **método**: una función asociada con una clase o un objeto.
 - **objeto mutable**: un objeto que puede cambiar después de la creación.
 
-## norte
+## N
 
 - **nodo**: una unidad básica de una estructura de datos, como una lista enlazada o una estructura de datos de árbol.
 - **nulo**: un tipo de datos especial que solo puede tener un valor: NULL.
@@ -152,19 +152,18 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 ## O
 
 - **Programación orientada a objetos**: Un paradigma de programación que organiza el diseño de software en torno a datos u objetos, en lugar de funciones y lógica.
-
 - **operador**: símbolo que le dice al compilador o intérprete que realice una operación matemática, relacional o lógica específica y produzca un resultado final.
 
-## PAGS
+## P
 
 - **paquete**: un espacio de nombres que organiza un conjunto de clases e interfaces relacionadas.
 - **gerente de empaquetación**: una herramienta de lenguaje de programación para crear entornos de proyectos e importar fácilmente dependencias externas.
 - **parámetro**: una variable que se utiliza en la declaración de la función para representar los argumentos que se enviaron a la función durante la llamada a la función.
-- **enchufar**:_ver[extensión](#e)_
+- **enchufar**: _ver[extensión](#e)_
 - **polimorfismo**: concepto de programación orientada a objetos que se refiere a la capacidad de una variable, función u objeto de adoptar múltiples formas.
 - **Programación procedimental**: un paradigma de programación basado en el concepto de llamadas a procedimientos, en el que las declaraciones se estructuran en procedimientos (también conocidos como subrutinas o funciones).
 - **Programación**: el proceso de crear un conjunto de instrucciones que le dicen a una computadora cómo realizar una tarea.
-- **Lenguaje de programación**: un vocabulario y un conjunto de reglas gramaticales para instruir a una computadora o dispositivo informático para que realice tareas específicas._P.ej. JavaScript, Python._
+- **Lenguaje de programación**: un vocabulario y un conjunto de reglas gramaticales para instruir a una computadora o dispositivo informático para que realice tareas específicas. _P.ej. JavaScript, Python._
 - **Paradigma de programación**: un estilo o "forma" de programación.
 - **promesa**: un objeto que puede producir un valor único en el futuro
 - **propiedades**: valores especiales que se incluyen dentro de una clase o un objeto.
@@ -200,7 +199,7 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 - **operador ternario**: un operador que toma tres argumentos.
 - **pruebas**: un proceso, para evaluar la funcionalidad de una aplicación de software con la intención de encontrar si el software desarrollado cumplió con los requisitos especificados o no e identificar los errores para garantizar que el producto esté libre de errores.
 - **marco de prueba**: un conjunto de pautas o reglas que se utilizan para crear y diseñar casos de prueba.
-- **simbólico**: un solo elemento de un lenguaje de programación._Por ejemplo, palabra clave, operador_
+- **simbólico**: un solo elemento de un lenguaje de programación. _Por ejemplo, palabra clave, operador_
 - **árbol**: una estructura de datos en la que cada elemento se adjunta a uno o más elementos directamente debajo de él.
 - **type (tipo de datos)**: un atributo de datos que le dice al compilador o intérprete cómo el programador pretende usar los datos.
 
@@ -210,11 +209,11 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 - **operador unario**: un operador que toma un solo operando y realiza una operación.
 - **URL (localizador uniforme de recursos)**: la dirección de un recurso único dado en la Web.
 
-## A
+## V
 
 - **Control de versiones**: un sistema que registra cambios en un archivo o conjunto de archivos a lo largo del tiempo para que pueda recuperar versiones específicas más adelante.
 
-## EN
+## W
 
 - **Componentes Web**: un conjunto de API de plataforma web que le permiten crear nuevas etiquetas HTML encapsuladas, reutilizables y personalizadas para usar en páginas web y aplicaciones web.
 - **webhooks**: mensajes automáticos enviados desde aplicaciones cuando sucede algo.

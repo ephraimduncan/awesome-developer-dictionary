@@ -20,6 +20,7 @@ Feel free to submit a PR adding a new term with a definition. If you want to tra
 
 All the translations for this repo will be listed below:
 
+- [English](./README.md)
 - [Spanish](./README-es.md)
 - [Indonesian](./README-id.md)
 
