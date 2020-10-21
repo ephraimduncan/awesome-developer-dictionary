@@ -81,8 +81,9 @@ All the translations for this repo will be listed below:
 - **cohesion**: a measure of how well the lines of source code within a module work together.
 - **compiler**: a program that translates computer code written in one programming language into another language.
 - **components**: independent and reusable bits of code that work in isolation and returns HTML via a render function. _see [web components](#W)_
-- **coupling**: the degree of interdependence between software modules.
+- **container**: a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another.
 - **control flow**: the order in which individual statements, instructions or function calls of an imperative program are executed.
+- **coupling**: the degree of interdependence between software modules.
 - **CSV**: plain-text files used to better organize large amounts of data.
 
 ## D
@@ -100,6 +101,7 @@ All the translations for this repo will be listed below:
 - **encapsulation**: the bundling of data with the methods that operate on that data.
 - **enum**: a special data type that enables for a variable to be a set of predefined constants.
 - **ES6 (ES2015)**: version 6 of the ECMA Script programming language and adds many more features intended to make large-scale software development easier.
+- **environment variables**: a variable whose value is set outside the program, typically through functionality built into the operating system  and can be accessed inside the program.
 - **event**: an action or occurrence detected by a program.
 - **event handler**: a function containing program statements that are executed in response to an event.
 - **expression**: a combination of letters, numbers, or symbols used to represent a value of a variable.
@@ -175,6 +177,7 @@ All the translations for this repo will be listed below:
 - **package**: a namespace that organizes a set of related classes and interfaces.
 - **package manager**: a programming language's tool to create project environments and easily import external dependencies.
 - **parameter**: variables that are used in the function declaration to represent those arguments that were sent to the function during the function call.
+- **pipeline**: a set of data processing elements connected in series, where the output of one element is the input of the next one.
 - **plugin**: _see [extension](#e)_
 - **PNG (Portable Network Graphics)**: is an image type that's commonly used in web design to provide a transparent background and/or a semi-transparent image.
 - **pointer**: variable that stores the memory address of another variable.
