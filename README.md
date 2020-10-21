@@ -199,7 +199,7 @@ All the translations for this repo will be listed below:
 
 ## R
 
-- <strong id="recursion">recursion</strong>: a process in which a function calls itself as a subroutine. _See [recursion](#recursion)_
+- **recursion**: a process in which a function calls itself as a subroutine. _See [recursion](#recursion)_
 - **Regular Expression**: a sequence of symbols and characters expressing a string or pattern to be searched for within a longer piece of text.
 - **repository**: a central location in which code is stored and managed.
 - **REPL (Read-Eval-Print Loop)**: an interactive interpreter to a programming language.
