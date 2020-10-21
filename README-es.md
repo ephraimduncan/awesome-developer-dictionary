@@ -78,7 +78,7 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 - **Clase**: una estructura definida para crear un objeto en un lenguaje de programación orientado a objetos.
 - **CLI (interfaz de línea de comandos)**: la versión de terminal de una aplicación.
 - **Cliente**: una pieza de hardware o software de computadora que accede a un servicio puesto a disposición por un servidor.
-- **Closure**: un alcance persistente que se aferra a las variables locales incluso después de que la ejecución del código se haya movido fuera de ese bloque.
+- **Closure**: un scope persistente que se aferra a las variables locales incluso después de que la ejecución del código se haya movido fuera de ese bloque.
 - **Compilador**: programa que traduce código de computadora escrito en un lenguaje de programación a otro lenguaje.
 - **Componentes**: bits de código independientes y reutilizables que funcionan de forma aislada y devuelven HTML a través de una función de representación. _Ver [componentes web](#W)_
 
@@ -92,7 +92,7 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 
 - **Ecosistema**: una colección de proyectos de software, que se desarrollan y coevolucionan en el mismo entorno.
 - **Encapsulamiento**: la agrupación de datos con los métodos que operan sobre esos datos.
-- **Enumeración**: un tipo de datos especial que permite que una variable sea un conjunto de constantes predefinidas.
+- **Enumerado (enum)**: un tipo de datos especial que permite que una variable sea un conjunto de constantes predefinidas.
 - **Entero (integer, int)**: un tipo de datos que representa algún rango de números enteros matemáticos.
 - **ES6 (ES2015)**: versión 6 del lenguaje de programación ECMA Script y agrega muchas más características destinadas a facilitar el desarrollo de software a gran escala.
 - **Evento**: acción u ocurrencia detectada por un programa.
@@ -100,7 +100,7 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 - **Expresión**: una combinación de letras, números o símbolos que se utiliza para representar el valor de una variable.
 - **Expresión regular**: una secuencia de símbolos y caracteres que expresan una cadena o patrón que se buscará en un texto más largo.
 - **Extensión**: una pieza de software amplía las capacidades de una aplicación y agrega funciones adicionales a una aplicación independiente que ya funciona.
-- **Extensión (archivo)**: abreviatura de tres o cuatro letras que indica el tipo de archivo. P.ej:`.js .tsx`
+- **Extensión (archivo)**: abreviatura de tres o cuatro letras que indica el tipo de archivo. Ej:`.js .tsx`
 
 ## F
 
@@ -129,7 +129,7 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 ## J
 
 - **JSON (notación de objetos JavaScript)**: una sintaxis para almacenar e intercambiar datos compatible con la mayoría de los lenguajes de programación.
-- **jQuery**: una biblioteca de JavaScript rápida, pequeña y rica en funciones cuyo propósito es facilitar el uso de JavaScript en su sitio web.
+- **jQuery**: una librería de JavaScript rápida, pequeña y rica en funciones cuyo propósito es facilitar el uso de JavaScript en su sitio web.
 
 ## L
 
@@ -159,7 +159,7 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 ## P
 
 - **Parámetro**: una variable que se utiliza en la declaración de la función para representar los argumentos que se enviaron a la función durante la llamada a la función.
-- **Paquete (package)**: un espacio de nombres que organiza un conjunto de clases e interfaces relacionadas.
+- **Paquete (package)**: un conjunto de clases e interfaces relacionadas, bajo un nombre específico.
 - **Package Manager (manejador de paquetes)**: una herramienta de lenguaje de programación para crear entornos de proyectos e importar fácilmente dependencias externas.
 - **Plugin**: _ver [extensión](#E)_
 - **Polimorfismo**: concepto de programación orientada a objetos que se refiere a la capacidad de una variable, función u objeto de adoptar múltiples formas.
@@ -176,7 +176,7 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 
 ## Q
 
-- **Query Language (Lenguaje de consultas)**: lenguaje de programación de computadoras que solicita y recupera datos de bases de datos y sistemas de información mediante el envío de consultas.
+- **Query Language (Lenguaje de consultas)**: lenguaje de programación de computadoras que solicita y recupera datos de bases de datos y sistemas de información mediante el envío de queries (consultas).
 
 ## R
 
@@ -215,5 +215,5 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 
 ## W
 
-- **Web component**: un conjunto de API de plataforma web que le permiten crear nuevas etiquetas HTML encapsuladas, reutilizables y personalizadas para usar en páginas web y aplicaciones web.
+- **Web component**: un conjunto de APIs de plataforma web que le permiten crear nuevas etiquetas HTML encapsuladas, reutilizables y personalizadas para usar en páginas web y aplicaciones web.
 - **Webhooks**: mensajes automáticos enviados desde aplicaciones cuando sucede algo.
