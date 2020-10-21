@@ -57,6 +57,7 @@ All the translations for this repo will be listed below:
 
 - **abstraction**: a technique for arranging complexity of computer systems.
 - **agile**: the ability to create and respond to change.
+- **agile software development**: software development methodologies that focus on iterative development
 - **algorithm**: the basic technique used to get the job done.
 - **application (software)**:a program or group of programs designed for end users.
 - **API (application programming interface)**: an intermediary software that allows two or more applications to talk to each other.
@@ -92,6 +93,7 @@ All the translations for this repo will be listed below:
 - **data structure**: a data structure is a data organization, management, and storage format that enables efficient access and modification.
 - **debugging**: the process of finding and resolving bugs (defects or problems that prevent correct operation) within computer programs, software, or systems.
 - **destructuring**: a convenient way of extracting multiple values from data stored in objects and Arrays.
+- **DHCP**: Dynamic Host Configuration Protocol, a protocol which provides new devices on a network the information they need to communicate with other devices
 - **documentation (docs)**: a written text or illustration that accompanies a software which either explains how the software operates or how to use it.
 
 ## E
@@ -136,6 +138,7 @@ All the translations for this repo will be listed below:
 - **iteration**: a general term for taking each item of something, one after another.
 - **interpreter**: is a computer program that directly executes instructions written in a programming or scripting language, without requiring them previously to have been compiled into a machine language program.
 - **iterator**: an object that enables a programmer to traverse a container, particularly lists.
+- **IP**: Internet Protocol, the protocol by which data is sent from one computer to another on the Internet
 
 ## J
 
@@ -144,6 +147,10 @@ All the translations for this repo will be listed below:
 - **jQuery**: a fast, small, and feature-rich JavaScript library whose purpose is to make it much easier to use JavaScript on your website.
 - **JSON(JavaScript Object Notation)**: a syntax for storing and exchanging data compactible with most programming languages.
 - **JSX**: a HTML-like syntax that is intended to be used by preprocessors to transform HTML-like text found in JavaScript files into standard JavaScript objects that a JavaScript engine can parse.
+
+## K
+
+- **kernel**: a computer program within the operating system with complete control over everything in the system
 
 ## L
 
@@ -160,6 +167,7 @@ All the translations for this repo will be listed below:
 
 ## N
 
+- **NAT**: Network Address Translation, a method of remapping an IP address space into another
 - **node**: a basic unit of a data structure, such as a linked list or tree data structure.
 - **null**: a special data type which can have only one value: NULL.
 
@@ -180,6 +188,7 @@ All the translations for this repo will be listed below:
 - **pointer**: variable that stores the memory address of another variable.
 - **polymorphism**: an object-oriented programming concept that refers to the ability of a variable, function or object to take on multiple forms.
 - **Procedural Programming**: a programming paradigm based upon the concept of procedure calls, in which statements are structured into procedures (also known as subroutines or functions).
+- **Process Control Block**: aka PCB, a data structure used by computer operating systems to store all the information about a process
 - **Programming**: the process of creating a set of instructions that tell a computer how to perform a task.
 - **Programming Language**: a vocabulary and set of grammatical rules for instructing a computer or computing device to perform specific tasks. _Eg. JavaScript, Python._
 - **Programming Paradigm**: a style or "way" of programming.
@@ -210,21 +219,26 @@ All the translations for this repo will be listed below:
 - **setter**: a method that sets the value of a property.
 - **SOA (Service Oriented Architecture)**: Service-oriented architecture (SOA) is a style of software design where services are provided to the other components by application components, through a communication protocol over a network.
 - **SOAP (Simple Object Access Protocol)**: SOAP (abbreviation for Simple Object Access Protocol) is a messaging protocol specification for exchanging structured information in the implementation of web services in computer networks. Its purpose is to provide extensibility, neutrality, verbosity and independence. It uses XML Information Set for its message format, and relies on application layer protocols, most often Hypertext Transfer Protocol (HTTP), although some legacy systems communicate over Simple Mail Transfer Protocol (SMTP), for message negotiation and transmission.
+- **socket**: one endpoint of a two-way communication link between two programs running on the network
 - **Software Engineering**: is the process of analyzing user needs and designing, constructing, and testing end-user applications that will satisfy these needs through the use of software programming languages.
 - **Source Code**: is any collection of code, with or without comments, written using a human-readable programming language, usually as plain text.
 - **statement**: a single line of code that is used to perform a specific task.
 - **string**: a sequence of characters.
 - **String Concatenation**: is the operation of joining character strings end-to-end.
 - **subexpression**: a part of an expression that is by itself a correct expression.
+- **subnet mask**: a 32-bit number that separates the IP address into the network and host addresses
 - **SVG (Scalable Vector Graphics)**: a vector graphics file format that enables two-dimensional images to be displayed in XML pages on the Web.
 - **syntax**: the grammar of a programming language.
 
 ## T
 
+- **TCP**: Transmission Control Protocol, a communication protocol used most often on networks that use Internet Protocol (IP)
 - **template**: a preformatted file that serve as the starting point for another file.
 - **tenary operator**: an operator that takes three arguments.
 - **testing**: a process to evaluate the functionality of a software application with an intent to find whether the developed software met the specified requirements or not and to identify the bugs to ensure that the product is bug-free.
 - **testing framework**: a set of guidelines or rules used for creating and designing test cases.
+- **thread**: a way for a program to divide itself into two or more simultaneously running tasks
+- **thread pool**: a defined number of pre-initialized threads which stand by, ready to be given work
 - **token**: a single element of a programming language. _Eg keyword, operator_
 - **tree**: a data structure in which each element is attached to one or more elements directly beneath it.
 - **type (data type)**: an attribute of data which tells the compiler or interpreter how the programmer intends to use the data.
