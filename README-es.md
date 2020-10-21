@@ -77,6 +77,7 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 - **clase**: una estructura definida para crear un objeto en un lenguaje de programación orientado a objetos.
 - **CLI (interfaz de línea de comandos)**: la versión de terminal de una aplicación.
 - **cliente**: una pieza de hardware o software de computadora que accede a un servicio puesto a disposición por un servidor.
+- **Computación en la Nube**: Conocida también como servicios en la nube, informática en la nube, nube de cómputo o simplemente «la nube», es un paradigma que permite ofrecer servicios de computación a través de una red, que usualmente es internet.
 - **cierre**: un alcance persistente que se aferra a las variables locales incluso después de que la ejecución del código se haya movido fuera de ese bloque.
 - **compilador**: programa que traduce código de computadora escrito en un lenguaje de programación a otro lenguaje.
 - **componentes**: bits de código independientes y reutilizables que funcionan de forma aislada y devuelven HTML a través de una función de representación._ver[componentes web](#W)_
@@ -87,6 +88,7 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 - **base de datos**: una ubicación central en la que se almacenan y gestionan los datos.
 - **Programación basada en datos**: Un paradigma de programación en el que las declaraciones del programa describen los datos que se van a comparar y el procesamiento requerido en lugar de definir una secuencia de pasos a seguir.
 - **desestructuración**: una forma conveniente de extraer varios valores de los datos almacenados en objetos y matrices.
+- **Depuración**: La depuración de programas es el proceso de identificar y corregir errores de programación. En inglés se conoce como debugging, porque se asemeja a la eliminación de bichos (bugs), manera en que se conoce informalmente a los errores de programación.
 - **documentación (docs)**: texto escrito o ilustración que acompaña a un software que explica cómo funciona el software o cómo utilizarlo.
 
 ## ES
