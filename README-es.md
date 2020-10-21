@@ -62,7 +62,7 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 - **Aplicación**: un programa o grupo de programas diseñados para usuarios finales.
 - **API (interfaz de programación de aplicaciones)**: un software intermediario que permite que dos o más aplicaciones se comuniquen entre sí.
 - **Argumento**: un valor que se pasa a la función (como entrada) cuando se llama.
-- **Arreglo**: una estructura de datos que consta de una colección de elementos, valores o variables, cada uno identificado por al menos un índice o clave de matriz. _ver[lista](#L)_
+- **Arreglo**: una estructura de datos que consta de una colección de elementos, valores o variables, cada uno identificado por al menos un índice o clave de matriz. _Ver [lista](#L)_
 
 ## B
 
@@ -79,7 +79,7 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 - **Cliente**: una pieza de hardware o software de computadora que accede a un servicio puesto a disposición por un servidor.
 - **Closure**: un alcance persistente que se aferra a las variables locales incluso después de que la ejecución del código se haya movido fuera de ese bloque.
 - **Compilador**: programa que traduce código de computadora escrito en un lenguaje de programación a otro lenguaje.
-- **Componentes**: bits de código independientes y reutilizables que funcionan de forma aislada y devuelven HTML a través de una función de representación. _ver[componentes web](#W)_
+- **Componentes**: bits de código independientes y reutilizables que funcionan de forma aislada y devuelven HTML a través de una función de representación. _Ver [componentes web](#W)_
 - **Flujo de control**: el orden en el que se ejecutan las instrucciones, instrucciones o llamadas de función individuales de un programa imperativo.
 
 ## D
@@ -159,11 +159,11 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 - **Paquete (package)**: un espacio de nombres que organiza un conjunto de clases e interfaces relacionadas.
 - **Package Manager (manejador de paquetes)**: una herramienta de lenguaje de programación para crear entornos de proyectos e importar fácilmente dependencias externas.
 - **Parámetro**: una variable que se utiliza en la declaración de la función para representar los argumentos que se enviaron a la función durante la llamada a la función.
-- **Plugin**: _ver[extensión](#e)_
+- **Plugin**: _ver [extensión](#E)_
 - **Polimorfismo**: concepto de programación orientada a objetos que se refiere a la capacidad de una variable, función u objeto de adoptar múltiples formas.
 - **Programación procedimental**: un paradigma de programación basado en el concepto de llamadas a procedimientos, en el que las declaraciones se estructuran en procedimientos (también conocidos como subrutinas o funciones).
 - **Programación**: el proceso de crear un conjunto de instrucciones que le dicen a una computadora cómo realizar una tarea.
-- **Lenguaje de programación**: un vocabulario y un conjunto de reglas gramaticales para instruir a una computadora o dispositivo informático para que realice tareas específicas. _P.ej. JavaScript, Python._
+- **Lenguaje de programación**: un vocabulario y un conjunto de reglas gramaticales para instruir a una computadora o dispositivo informático para que realice tareas específicas. _Ej:. JavaScript, Python._
 - **Paradigma de programación**: un estilo o "forma" de programación.
 - **Promesa**: un objeto que puede producir un valor único en el futuro
 - **Propiedades**: valores especiales que se incluyen dentro de una clase o un objeto.
@@ -175,7 +175,7 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 
 ## R
 
-- **Recursividad**: un proceso en el que una función se llama a sí misma como una subrutina._Ver[recursividad](#recursion)_
+- **Recursividad**: un proceso en el que una función se llama a sí misma como una subrutina. _Ver [recursividad](#R)_
 - **Expresión regular**: una secuencia de símbolos y caracteres que expresan una cadena o patrón que se buscará en un texto más largo.
 - **Repositorio**: una ubicación central en la que se almacena y gestiona el código.
 - **REPL (bucle de lectura-evaluación-impresión)**: un intérprete interactivo de un lenguaje de programación.
@@ -199,7 +199,7 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 - **Ternario (operador)**: un operador que toma tres argumentos.
 - **Pruebas**: un proceso, para evaluar la funcionalidad de una aplicación de software con la intención de encontrar si el software desarrollado cumplió con los requisitos especificados o no e identificar los errores para garantizar que el producto esté libre de errores.
 - **Marco de prueba**: un conjunto de pautas o reglas que se utilizan para crear y diseñar casos de prueba.
-- **Token**: un solo elemento de un lenguaje de programación. _Por ejemplo, palabra clave, operador_
+- **Token**: un solo elemento de un lenguaje de programación. _Ej: palabra clave, operador_
 - **Árbol**: una estructura de datos en la que cada elemento se adjunta a uno o más elementos directamente debajo de él.
 - **Type (tipo de datos)**: un atributo de datos que le dice al compilador o intérprete cómo el programador pretende usar los datos.
 
@@ -215,5 +215,5 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 
 ## W
 
-- **Componentes Web**: un conjunto de API de plataforma web que le permiten crear nuevas etiquetas HTML encapsuladas, reutilizables y personalizadas para usar en páginas web y aplicaciones web.
+- **Web component**: un conjunto de API de plataforma web que le permiten crear nuevas etiquetas HTML encapsuladas, reutilizables y personalizadas para usar en páginas web y aplicaciones web.
 - **Webhooks**: mensajes automáticos enviados desde aplicaciones cuando sucede algo.
