@@ -21,6 +21,7 @@ Feel free to submit a PR adding a new term with a definition. If you want to tra
 All the translations for this repo will be listed below:
 
 - [Spanish](./README-es.md)
+- [Indonesian](./README-id.md)
 
 ## Contents
 
@@ -118,6 +119,7 @@ All the translations for this repo will be listed below:
 - **generator**: a function that can be used to control the iteration behaviour of a loop.
 - **getter**: a method that gets the value of a property.
 - **GUI (Graphical User Interface)**: type of user interface where users can interact with electronic devices via visual indicator representations such as buttons, scroll bars, cursors, etc.
+- **Git** : a version control system that automatic update our file/or project when we commit it.
 
 ## H
 
