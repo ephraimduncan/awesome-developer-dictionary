@@ -86,6 +86,7 @@ All the translations for this repo will be listed below:
 - **coupling**: the degree of interdependence between software modules.
 - **control flow**: the order in which individual statements, instructions or function calls of an imperative program are executed.
 - **CSV**: plain-text files used to better organize large amounts of data.
+- **commit (VCS)**: an operation which groups a set of changes behind a name and a number, making these changes part of the head revision of the repository. _See [VCS](#V)_
 
 ## D
 
@@ -243,7 +244,7 @@ All the translations for this repo will be listed below:
 ## V
 
 - **variable**: are used to store information to be referenced and manipulated in a computer program. Their purpose is to label and store data in memory so that the user may use it throughout the program if needed.
-- **Version Control**: a system that records changes to a file or set of files over time so that you can recall specific versions later.
+- **Version Control System (VCS)**: a system that records changes to a file or set of files over time so that you can recall specific versions later.
 - **VM (Virtual Machine)**: A virtual machine (VM) is a virtual environment that functions as a virtual computer system with its own CPU, memory, network interface, and storage, created on a physical hardware system (located off- or on-premises). Software called a hypervisor separates the machine’s resources from the hardware and provisions them appropriately so they can be used by the VM.
 
 ## W

@@ -79,6 +79,7 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 - **CLI (interfaz de línea de comandos)**: la versión de terminal de una aplicación.
 - **Cliente**: una pieza de hardware o software de computadora que accede a un servicio puesto a disposición por un servidor.
 - **Closure**: un scope persistente que se aferra a las variables locales incluso después de que la ejecución del código se haya movido fuera de ese bloque.
+- **Commit (VCS)**: operación que agrupa un conjunto de cambios bajo un nombre y un número, haciendo que estos cambios formen parte de la revisión principal del repositorio. _Ver [VCS](#V)_
 - **Compilador**: programa que traduce código de computadora escrito en un lenguaje de programación a otro lenguaje.
 - **Componentes**: bits de código independientes y reutilizables que funcionan de forma aislada y devuelven HTML a través de una función de representación. _Ver [componentes web](#W)_
 
