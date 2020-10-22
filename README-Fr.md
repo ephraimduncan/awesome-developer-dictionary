@@ -22,7 +22,7 @@ Toutes les traductions de ce dépôt seront répertoriées ci-dessous:
 
 - [Spanish](./README-es.md)
 - [française](./README-Fr.md)
-- [English] (./README-ENG.md)
+- [English](./README-ENG.md)
 ## Contenu
 
 1. [A](#A)
