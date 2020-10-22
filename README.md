@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
   <img src="https://wiki.js.org/img/nolan-literature.2917af16.svg" width="150" alt="Dictionary">
   <!-- Image From Wiki.js -->
   <h2>Awesome Developer Dictionary</h2>
@@ -84,6 +84,7 @@ All the translations for this repo will be listed below:
 - **components**: independent and reusable bits of code that work in isolation and returns HTML via a render function. _see [web components](#W)_
 - **coupling**: the degree of interdependence between software modules.
 - **control flow**: the order in which individual statements, instructions or function calls of an imperative program are executed.
+- **CSS**: Cascading Style Sheet (CSS) is the code that tells the browser how to display the content of a web page for the end user by formatting fonts, colors, background and other visual elements.
 - **CSV**: plain-text files used to better organize large amounts of data.
 
 ## D
