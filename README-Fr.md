@@ -21,8 +21,8 @@ N'hésitez pas à soumettre un PR en ajoutant un nouveau terme avec une définit
 Toutes les traductions de ce dépôt seront répertoriées ci-dessous:
 
 - [Spanish](./README-es.md)
-- [française](.README-Fr.md)
-
+- [française](./README-Fr.md)
+- [English] ( README.md)
 ## Contenu
 
 1. [A](#A)
