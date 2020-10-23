@@ -20,6 +20,7 @@ Feel free to submit a PR adding a new term with a definition. If you want to tra
 
 All the translations for this repo will be listed below:
 
+- [English](./README.md)
 - [Spanish](./README-es.md)
 - [Indonesian](./README-id.md)
 
@@ -58,6 +59,7 @@ All the translations for this repo will be listed below:
 
 - **abstraction**: a technique for arranging complexity of computer systems.
 - **agile**: the ability to create and respond to change.
+- **agile software development**: software development methodologies that focus on iterative development
 - **algorithm**: the basic technique used to get the job done.
 - **application (software)**:a program or group of programs designed for end users.
 - **API (application programming interface)**: an intermediary software that allows two or more applications to talk to each other.
@@ -80,10 +82,12 @@ All the translations for this repo will be listed below:
 - **closure**: a persistent scope which holds on to local variables even after the code execution has moved out of that block.
 - **Cloud computing**: Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user. The term is generally used to describe data centers available to many users over the Internet.
 - **cohesion**: a measure of how well the lines of source code within a module work together.
+- **commit (VCS)**: an operation which groups a set of changes behind a name and a number, making these changes part of the head revision of the repository. _See [VCS](#V)_
 - **compiler**: a program that translates computer code written in one programming language into another language.
 - **components**: independent and reusable bits of code that work in isolation and returns HTML via a render function. _see [web components](#W)_
-- **coupling**: the degree of interdependence between software modules.
+- **container**: a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another.
 - **control flow**: the order in which individual statements, instructions or function calls of an imperative program are executed.
+- **coupling**: the degree of interdependence between software modules.
 - **CSS**: Cascading Style Sheet (CSS) is the code that tells the browser how to display the content of a web page for the end user by formatting fonts, colors, background and other visual elements.
 - **CSV**: plain-text files used to better organize large amounts of data.
 
@@ -94,7 +98,9 @@ All the translations for this repo will be listed below:
 - **data structure**: a data structure is a data organization, management, and storage format that enables efficient access and modification.
 - **debugging**: the process of finding and resolving bugs (defects or problems that prevent correct operation) within computer programs, software, or systems.
 - **destructuring**: a convenient way of extracting multiple values from data stored in objects and Arrays.
+- **DHCP**: Dynamic Host Configuration Protocol, a protocol which provides new devices on a network the information they need to communicate with other devices
 - **documentation (docs)**: a written text or illustration that accompanies a software which either explains how the software operates or how to use it.
+- **DRY**: acronym for "Don't Repeat Yourself." Used to describe concise code that is not long and/or repetitive. Example use: "This code is not DRY."
 
 ## E
 
@@ -102,6 +108,7 @@ All the translations for this repo will be listed below:
 - **encapsulation**: the bundling of data with the methods that operate on that data.
 - **enum**: a special data type that enables for a variable to be a set of predefined constants.
 - **ES6 (ES2015)**: version 6 of the ECMA Script programming language and adds many more features intended to make large-scale software development easier.
+- **environment variables**: a variable whose value is set outside the program, typically through functionality built into the operating system  and can be accessed inside the program.
 - **event**: an action or occurrence detected by a program.
 - **event handler**: a function containing program statements that are executed in response to an event.
 - **expression**: a combination of letters, numbers, or symbols used to represent a value of a variable.
@@ -139,6 +146,7 @@ All the translations for this repo will be listed below:
 - **iteration**: a general term for taking each item of something, one after another.
 - **interpreter**: is a computer program that directly executes instructions written in a programming or scripting language, without requiring them previously to have been compiled into a machine language program.
 - **iterator**: an object that enables a programmer to traverse a container, particularly lists.
+- **IP**: Internet Protocol, the protocol by which data is sent from one computer to another on the Internet
 
 ## J
 
@@ -147,6 +155,10 @@ All the translations for this repo will be listed below:
 - **jQuery**: a fast, small, and feature-rich JavaScript library whose purpose is to make it much easier to use JavaScript on your website.
 - **JSON(JavaScript Object Notation)**: a syntax for storing and exchanging data compactible with most programming languages.
 - **JSX**: a HTML-like syntax that is intended to be used by preprocessors to transform HTML-like text found in JavaScript files into standard JavaScript objects that a JavaScript engine can parse.
+
+## K
+
+- **kernel**: a computer program within the operating system with complete control over everything in the system
 
 ## L
 
@@ -164,6 +176,7 @@ All the translations for this repo will be listed below:
 
 ## N
 
+- **NAT**: Network Address Translation, a method of remapping an IP address space into another
 - **node**: a basic unit of a data structure, such as a linked list or tree data structure.
 - **null**: a special data type which can have only one value: NULL.
 
@@ -179,11 +192,13 @@ All the translations for this repo will be listed below:
 - **package**: a namespace that organizes a set of related classes and interfaces.
 - **package manager**: a programming language's tool to create project environments and easily import external dependencies.
 - **parameter**: variables that are used in the function declaration to represent those arguments that were sent to the function during the function call.
+- **pipeline**: a set of data processing elements connected in series, where the output of one element is the input of the next one.
 - **plugin**: _see [extension](#e)_
 - **PNG (Portable Network Graphics)**: is an image type that's commonly used in web design to provide a transparent background and/or a semi-transparent image.
 - **pointer**: variable that stores the memory address of another variable.
 - **polymorphism**: an object-oriented programming concept that refers to the ability of a variable, function or object to take on multiple forms.
 - **Procedural Programming**: a programming paradigm based upon the concept of procedure calls, in which statements are structured into procedures (also known as subroutines or functions).
+- **Process Control Block**: aka PCB, a data structure used by computer operating systems to store all the information about a process
 - **Programming**: the process of creating a set of instructions that tell a computer how to perform a task.
 - **Programming Language**: a vocabulary and set of grammatical rules for instructing a computer or computing device to perform specific tasks. _Eg. JavaScript, Python._
 - **Programming Paradigm**: a style or "way" of programming.
@@ -199,7 +214,7 @@ All the translations for this repo will be listed below:
 
 ## R
 
-- <strong id="recursion">recursion</strong>: a process in which a function calls itself as a subroutine. _See [recursion](#recursion)_
+- **recursion**: a process in which a function calls itself as a subroutine. _See [recursion](#recursion)_
 - **Regular Expression**: a sequence of symbols and characters expressing a string or pattern to be searched for within a longer piece of text.
 - **repository**: a central location in which code is stored and managed.
 - **REPL (Read-Eval-Print Loop)**: an interactive interpreter to a programming language.
@@ -214,21 +229,26 @@ All the translations for this repo will be listed below:
 - **setter**: a method that sets the value of a property.
 - **SOA (Service Oriented Architecture)**: Service-oriented architecture (SOA) is a style of software design where services are provided to the other components by application components, through a communication protocol over a network.
 - **SOAP (Simple Object Access Protocol)**: SOAP (abbreviation for Simple Object Access Protocol) is a messaging protocol specification for exchanging structured information in the implementation of web services in computer networks. Its purpose is to provide extensibility, neutrality, verbosity and independence. It uses XML Information Set for its message format, and relies on application layer protocols, most often Hypertext Transfer Protocol (HTTP), although some legacy systems communicate over Simple Mail Transfer Protocol (SMTP), for message negotiation and transmission.
+- **socket**: one endpoint of a two-way communication link between two programs running on the network
 - **Software Engineering**: is the process of analyzing user needs and designing, constructing, and testing end-user applications that will satisfy these needs through the use of software programming languages.
 - **Source Code**: is any collection of code, with or without comments, written using a human-readable programming language, usually as plain text.
 - **statement**: a single line of code that is used to perform a specific task.
 - **string**: a sequence of characters.
 - **String Concatenation**: is the operation of joining character strings end-to-end.
 - **subexpression**: a part of an expression that is by itself a correct expression.
+- **subnet mask**: a 32-bit number that separates the IP address into the network and host addresses
 - **SVG (Scalable Vector Graphics)**: a vector graphics file format that enables two-dimensional images to be displayed in XML pages on the Web.
 - **syntax**: the grammar of a programming language.
 
 ## T
 
+- **TCP**: Transmission Control Protocol, a communication protocol used most often on networks that use Internet Protocol (IP)
 - **template**: a preformatted file that serve as the starting point for another file.
 - **tenary operator**: an operator that takes three arguments.
 - **testing**: a process to evaluate the functionality of a software application with an intent to find whether the developed software met the specified requirements or not and to identify the bugs to ensure that the product is bug-free.
 - **testing framework**: a set of guidelines or rules used for creating and designing test cases.
+- **thread**: a way for a program to divide itself into two or more simultaneously running tasks
+- **thread pool**: a defined number of pre-initialized threads which stand by, ready to be given work
 - **token**: a single element of a programming language. _Eg keyword, operator_
 - **tree**: a data structure in which each element is attached to one or more elements directly beneath it.
 - **type (data type)**: an attribute of data which tells the compiler or interpreter how the programmer intends to use the data.
@@ -243,7 +263,7 @@ All the translations for this repo will be listed below:
 ## V
 
 - **variable**: are used to store information to be referenced and manipulated in a computer program. Their purpose is to label and store data in memory so that the user may use it throughout the program if needed.
-- **Version Control**: a system that records changes to a file or set of files over time so that you can recall specific versions later.
+- **Version Control System (VCS)**: a system that records changes to a file or set of files over time so that you can recall specific versions later.
 - **VM (Virtual Machine)**: A virtual machine (VM) is a virtual environment that functions as a virtual computer system with its own CPU, memory, network interface, and storage, created on a physical hardware system (located off- or on-premises). Software called a hypervisor separates the machine’s resources from the hardware and provisions them appropriately so they can be used by the VM.
 
 ## W
