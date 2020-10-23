@@ -69,7 +69,9 @@ Semua terjemahan dari repo ini akan dilist di bawah ini :
 - **binary operator**: sebuah an operator that takes two arguments.
 - **boolean**: tipe data yang memiliki satu dari dua nilai kemungkinan. (biasanya disimbolkan dengan true dan false).
 - **branch**: sebuah ruang paralel dimana kamu bisa membuat commit tanpa menyebabkan bug/error pada kode program utama/produksi.
+- **buffer**: sebuah susunan atau blok pada memori komputer yang berfungsi sebagai tempat penyimpanan sementara dari sebuah karakter string atau sebuah array.
 - **bug**: sebuah error pada kode program yang menyebabkan sebuah program memunculkan hasil yang tidak diinginkan.
+- **buffer overflow**: sebuah kondisi dimana program berusaha untuk menyimpan data pada buffer melebihi kapasitasnya.
 
 ## C
 
@@ -191,6 +193,7 @@ Semua terjemahan dari repo ini akan dilist di bawah ini :
 
 ## Q
 
+- **Query**: sebuah permintaan yang dikirimkan untuk mendapatkan informasi dari pangkalan data (database) dan sistem informasi.
 - **Query Language**: sebuah bahasa pemrograman yang melakukan request dan menerima data dari basis data dan sistem informasi dengan mengirimkan beberapa query.
 
 ## R
