@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
   <img src="https://wiki.js.org/img/nolan-literature.2917af16.svg" width="150" alt="Dictionary">
   <!-- Image From Wiki.js -->
   <h2>Awesome Developer Dictionary</h2>
@@ -82,13 +82,14 @@ All the translations for this repo will be listed below:
 - **closure**: a persistent scope which holds on to local variables even after the code execution has moved out of that block.
 - **Cloud computing**: Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user. The term is generally used to describe data centers available to many users over the Internet.
 - **cohesion**: a measure of how well the lines of source code within a module work together.
+- **commit (VCS)**: an operation which groups a set of changes behind a name and a number, making these changes part of the head revision of the repository. _See [VCS](#V)_
 - **compiler**: a program that translates computer code written in one programming language into another language.
 - **components**: independent and reusable bits of code that work in isolation and returns HTML via a render function. _see [web components](#W)_
 - **container**: a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another.
 - **control flow**: the order in which individual statements, instructions or function calls of an imperative program are executed.
 - **coupling**: the degree of interdependence between software modules.
+- **CSS**: Cascading Style Sheet (CSS) is the code that tells the browser how to display the content of a web page for the end user by formatting fonts, colors, background and other visual elements.
 - **CSV**: plain-text files used to better organize large amounts of data.
-- **commit (VCS)**: an operation which groups a set of changes behind a name and a number, making these changes part of the head revision of the repository. _See [VCS](#V)_
 
 ## D
 
