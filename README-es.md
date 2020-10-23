@@ -127,9 +127,10 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 - **iteración**: término general para tomar cada elemento de algo, uno tras otro.
 - **iterator**: un objeto que permite a un programador recorrer un contenedor, particularmente listas.
 
-# J
+## J
 
 - **JSON (notación de objetos JavaScript)**: una sintaxis para almacenar e intercambiar datos compatible con la mayoría de los lenguajes de programación.
+- **jQuery**: una biblioteca de JavaScript rápida, pequeña y rica en funciones cuyo propósito es facilitar el uso de JavaScript en su sitio web.
 
 ## L
 
@@ -137,7 +138,7 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 - **lista**: un tipo de colección que almacena elementos ordenados no únicos que permiten duplicados.
 - **lazo**: una estructura de programación que repite una secuencia de instrucciones hasta que se cumple una condición específica.
 
-# METRO
+## METRO
 
 - **Lenguaje de marcado**: lenguaje informático que utiliza etiquetas para definir elementos dentro de un documento.
 - **método**: una función asociada con una clase o un objeto.
@@ -173,7 +174,7 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 
 - **Lenguaje de consulta**: lenguaje de programación de computadoras que solicita y recupera datos de bases de datos y sistemas de información mediante el envío de consultas.
 
-# R
+## R
 
 - <strong id="recursion">recursividad</strong>: un proceso en el que una función se llama a sí misma como una subrutina._Ver[recursividad](#recursion)_
 - **Expresión regular**: una secuencia de símbolos y caracteres que expresan una cadena o patrón que se buscará en un texto más largo.
