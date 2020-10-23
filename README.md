@@ -71,7 +71,9 @@ All the translations for this repo will be listed below:
 - **binary operator**: an operator that takes two arguments.
 - **boolean**: a data type that has one of two possible values (usually denoted true and false).
 - **branch**: a parallel world where you can create commit without introducing bugs into production code.
+- **buffer**: a swquential section of memory allocated to contain anything from a character string to an array of integers.
 - **bug**: an error in the source code that causes a program to produce unexpected results.
+- **buffer overflow**: a condition exists when a program attempts to put more data in a buffer than it can hold.
 
 ## C
 
@@ -210,6 +212,7 @@ All the translations for this repo will be listed below:
 
 ## Q
 
+- **Query**: a request that send to retrieve information from database and information system
 - **Query Language**: a computer programming language that requests and retrieves data from database and information systems by sending queries.
 
 ## R
