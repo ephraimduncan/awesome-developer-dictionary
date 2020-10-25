@@ -80,7 +80,7 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 - **Computación en la Nube**: Conocida también como servicios en la nube, informática en la nube, nube de cómputo o simplemente «la nube», es un paradigma que permite ofrecer servicios de computación a través de una red, que usualmente es internet.
 - **Cierre**: un alcance persistente que se aferra a las variables locales incluso después de que la ejecución del código se haya movido fuera de ese bloque.
 - **Compilador**: programa que traduce código de computadora escrito en un lenguaje de programación a otro lenguaje.
-- **Componentes**: bits de código independientes y reutilizables que funcionan de forma aislada y devuelven HTML a través de una función de representación._ver[componentes web](#W)_
+- **Componentes**: bits de código independientes y reutilizables que funcionan de forma aislada y devuelven HTML a través de una función de representación._ver [componentes web](#W)_
 - **Flujo de control**: el orden en el que se ejecutan las instrucciones, instrucciones o llamadas de función individuales de un programa imperativo.
 
 ## re
