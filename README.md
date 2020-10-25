@@ -65,31 +65,38 @@ All the translations for this repo will be listed below:
 - **API (application programming interface)**: an intermediary software that allows two or more applications to talk to each other.
 - **argument**: a value that is passed to the function (as input) when it is called.
 - **array**: a data structure consisting of a collection of elements, values or variables each identified by at least one array index or key. _see [list](#L)_
+- **attribute**: Information about elements of a component in your website design/build.
 
 ## B
 
+- **Back end**: All of the behind-the-scenes digital operations that it takes to keep the front end of a website running, such as the coding, style, and plugins.
 - **binary operator**: an operator that takes two arguments.
 - **boolean**: a data type that has one of two possible values (usually denoted true and false).
 - **branch**: a parallel world where you can create commit without introducing bugs into production code.
-- **buffer**: a swquential section of memory allocated to contain anything from a character string to an array of integers.
+- **Browser**: The program you use to access the Web — such as Chrome, Firefox, or Safari.
 - **bug**: an error in the source code that causes a program to produce unexpected results.
+ **buffer**: a sequential section of memory allocated to contain anything from a character string to an array of integers.
 - **buffer overflow**: a condition exists when a program attempts to put more data in a buffer than it can hold.
 
 ## C
 
+- **Cache**: The storage of certain elements to help with faster load times from repeat website visitors. Stores data that needs to be readily accessed by programs and applications.
 - **callback**: a function that is passed as an argument to another and is expected to execute at a given time.
 - **class**: a defined structure to create an object in an object-oriented programming language.
 - **CLI (Command Line Interface)**: the terminal version of an application.
 - **client**: a piece of computer hardware or software that accesses a service made available by a server.
 - **closure**: a persistent scope which holds on to local variables even after the code execution has moved out of that block.
 - **Cloud computing**: Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user. The term is generally used to describe data centers available to many users over the Internet.
+- **CMS**: “Content Management System.” The program that you use to create and maintain your website’s content.
 - **cohesion**: a measure of how well the lines of source code within a module work together.
 - **commit (VCS)**: an operation which groups a set of changes behind a name and a number, making these changes part of the head revision of the repository. _See [VCS](#V)_
 - **compiler**: a program that translates computer code written in one programming language into another language.
 - **components**: independent and reusable bits of code that work in isolation and returns HTML via a render function. _see [web components](#W)_
 - **container**: a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another.
 - **control flow**: the order in which individual statements, instructions or function calls of an imperative program are executed.
+- **Cookies**: This is the data sent by an Internet server to a browser. Each time the browser accesses the same server, it sends the data back as a means of tracking how (and how often) it accesses the server.
 - **coupling**: the degree of interdependence between software modules.
+- **CRM**: “Customer Relationship Management.” In website development this refers to the software and applications used to gather, analyze, and maintain information on customers, donors, and prospects.
 - **CSS**: Cascading Style Sheet (CSS) is the code that tells the browser how to display the content of a web page for the end user by formatting fonts, colors, background and other visual elements.
 - **CSV**: plain-text files used to better organize large amounts of data.
 
@@ -100,8 +107,10 @@ All the translations for this repo will be listed below:
 - **data structure**: a data structure is a data organization, management, and storage format that enables efficient access and modification.
 - **debugging**: the process of finding and resolving bugs (defects or problems that prevent correct operation) within computer programs, software, or systems.
 - **destructuring**: a convenient way of extracting multiple values from data stored in objects and Arrays.
+- **DevOps**: “Development Operations.” System of working that helps to keep development, IT operations, and quality assurance departments on the same page to make for better end-products and collaborations.
 - **DHCP**: Dynamic Host Configuration Protocol, a protocol which provides new devices on a network the information they need to communicate with other devices
 - **documentation (docs)**: a written text or illustration that accompanies a software which either explains how the software operates or how to use it.
+- **Domain**: The address for a website as entered into the browser.
 - **DRY**: acronym for "Don't Repeat Yourself." Used to describe concise code that is not long and/or repetitive. Example use: "This code is not DRY."
 
 ## E
@@ -119,8 +128,12 @@ All the translations for this repo will be listed below:
 
 ## F
 
+- **Favicon**: Short for “favorite icon,” it’s the icon that appears in your website’s browser tab.
+- **Firewall**: System to protect a secure network from an unsecure network (i.e., the rest of the Internet).
 - **framework**: a concrete platform where common code with generic functionality can be selectively specialized or overridden by developers or users.
 - **float**: a data type composed of a number that is not an integer, because it includes a fraction represented in decimal format.
+- **Front End**: The part of the website or app that the user sees. If the back end of your website is everything behind-the-scenes, this is what happens onstage.
+- **FTP**: “File Transfer Protocol.” Method of exchanging files from one computer to another. This is also how websites are uploaded to the Internet.
 - **function**: a block of organized, reusable code that is used to perform a single, related action.
 - **Functional Programming**: a programming paradigm that builds software by composing pure functions, avoiding shared state, mutable data, and side-effects.
 
@@ -170,6 +183,7 @@ All the translations for this repo will be listed below:
 
 ## M
 
+- **Meta Tag**: Additional information on web pages or elements, such as the way a piece of content should display in Google search results, the photo credit for an image, or the main keywords associated with a plugin.
 - **Machine Language**: is the language understood by a computer.
 - **Markup Language**: a computer language that uses tags to define elements within a document.
 - **method**: a function associated with a class or an object.
@@ -178,6 +192,7 @@ All the translations for this repo will be listed below:
 
 ## N
 
+- **Navigation**: Links on a homepage that break down the other pages of a website. This can be both in the menu at the top of a site or in a footer (preferably both).
 - **NAT**: Network Address Translation, a method of remapping an IP address space into another
 - **node**: a basic unit of a data structure, such as a linked list or tree data structure.
 - **null**: a special data type which can have only one value: NULL.
@@ -187,11 +202,13 @@ All the translations for this repo will be listed below:
 - **Object-Oriented Programming**: A programming paradigm that organizes software design around data, or objects, rather than functions and logic.
 - **On-Premises**: On-premises is the software and technology that is located within the physical confines of an enterprise – often in the company's data center (installing and running software on hardware located within the premises of the company) – as opposed to running remotely on hosted servers or in the cloud.
 - **Operator**: a symbol that tells the compiler or interpreter to perform specific mathematical, relational or logical operation and produce final result.
+- **OOTB**: “Out of the Box.” Also known as “Off the Shelf.” These are the ready-made, plug-and-play options for features and functions that you can download and install without the need to customize or configure.
 
 ## P
 
 - **PaaS (Platform as a Service)**: Platform-as-a-service (PaaS) is a type of cloud computing offering in which a service provider delivers a platform to clients, enabling them to develop, run, and manage business applications without the need to build and maintain the infrastructure such software development processes typically require.
 - **package**: a namespace that organizes a set of related classes and interfaces.
+- **Page Template**: The layout for a webpage — pages that have similar structures share the same template (such as event detail pages for a variety of events on the same website). Pages that are radically different use separate templates.
 - **package manager**: a programming language's tool to create project environments and easily import external dependencies.
 - **parameter**: variables that are used in the function declaration to represent those arguments that were sent to the function during the function call.
 - **pipeline**: a set of data processing elements connected in series, where the output of one element is the input of the next one.
@@ -217,12 +234,14 @@ All the translations for this repo will be listed below:
 
 ## R
 
+- **Redirects**: Automatic forwards from one URL to another — usually from an old website URL to the same page on a new website (these are called 301 Redirects).
 - **recursion**: a process in which a function calls itself as a subroutine. _See [recursion](#recursion)_
 - **Regular Expression**: a sequence of symbols and characters expressing a string or pattern to be searched for within a longer piece of text.
 - **repository**: a central location in which code is stored and managed.
 - **REPL (Read-Eval-Print Loop)**: an interactive interpreter to a programming language.
 - **REST (Representational State Transfer)**: Representational state transfer (REST) is a software architectural style that defines a set of constraints to be used for creating Web services. Web services that conform to the REST architectural style, called RESTful Web services, provide interoperability between computer systems on the internet. RESTful Web services allow the requesting systems to access and manipulate textual representations of Web resources by using a uniform and predefined set of stateless operations, in the form of an HTTP method, or verb (GET, POST, PUT, DELETE etc.). By using a stateless protocol and standard operations, RESTful systems aim for fast performance, reliability, and the ability to grow by reusing components.
 - **RESTful Web Services**: web services that conform to the REST architectural style.
+- **Resolution**: Essentially how large an image or graphic can be rendered on a display. Oftentimes developers talk about the resolution of photos as photos at a low resolution won’t display as well if they need to be sized for the full width of a desktop screen. Resolutions are measured in pixels (e.g., the resolution of a MacBook Air screen is 1440 x 900 pixels).
 
 ## S
 
@@ -230,6 +249,7 @@ All the translations for this repo will be listed below:
 - **sandbox**: a testing environment that isolates untested code changes and outright experimentation from the production environment or repository, in the context of software development including Web development and revision control.
 - **server**: a computer that provides data to other computers.
 - **setter**: a method that sets the value of a property.
+- **Sitemap**: Outline of all pages on a website, organized in hierarchical order — much like the outlines you used to use for your college term papers.
 - **SOA (Service Oriented Architecture)**: Service-oriented architecture (SOA) is a style of software design where services are provided to the other components by application components, through a communication protocol over a network.
 - **SOAP (Simple Object Access Protocol)**: SOAP (abbreviation for Simple Object Access Protocol) is a messaging protocol specification for exchanging structured information in the implementation of web services in computer networks. Its purpose is to provide extensibility, neutrality, verbosity and independence. It uses XML Information Set for its message format, and relies on application layer protocols, most often Hypertext Transfer Protocol (HTTP), although some legacy systems communicate over Simple Mail Transfer Protocol (SMTP), for message negotiation and transmission.
 - **socket**: one endpoint of a two-way communication link between two programs running on the network
