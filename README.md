@@ -75,6 +75,8 @@ All the translations for this repo will be listed below:
 - **branch**: a parallel world where you can create commit without introducing bugs into production code.
 - **Browser**: The program you use to access the Web — such as Chrome, Firefox, or Safari.
 - **bug**: an error in the source code that causes a program to produce unexpected results.
+ **buffer**: a sequential section of memory allocated to contain anything from a character string to an array of integers.
+- **buffer overflow**: a condition exists when a program attempts to put more data in a buffer than it can hold.
 
 ## C
 
@@ -227,6 +229,7 @@ All the translations for this repo will be listed below:
 
 ## Q
 
+- **Query**: a request that send to retrieve information from database and information system
 - **Query Language**: a computer programming language that requests and retrieves data from database and information systems by sending queries.
 
 ## R
