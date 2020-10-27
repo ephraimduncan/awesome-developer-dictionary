@@ -89,6 +89,7 @@ All the translations for this repo will be listed below:
 - **Cloud computing**: Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user. The term is generally used to describe data centers available to many users over the Internet.
 - **CMS**: “Content Management System.” The program that you use to create and maintain your website’s content.
 - **cohesion**: a measure of how well the lines of source code within a module work together.
+- **Comments**: In computer programming, a comment is a programmer-readable explanation or annotation in the source code of a computer program. They are added with the purpose of making the source code easier for humans to understand, and are generally ignored by compilers and interpreters.
 - **commit (VCS)**: an operation which groups a set of changes behind a name and a number, making these changes part of the head revision of the repository. _See [VCS](#V)_
 - **compiler**: a program that translates computer code written in one programming language into another language.
 - **components**: independent and reusable bits of code that work in isolation and returns HTML via a render function. _see [web components](#W)_
@@ -104,8 +105,10 @@ All the translations for this repo will be listed below:
 
 - **database**: a central location in which data is stored and managed.
 - **Data-driven Programming**: a programming paradigm in which the program statements describe the data to be matched and the processing required rather than defining a sequence of steps to be taken.
+- **Data Lake**: A data lake is a system or storage repository that holds a vast amount of raw data in its native format usually object blobs or files until it is needed. While a hierarchical data warehouse stores data in files or folders, a data lake uses a flat architecture to store data. 
 - **data structure**: a data structure is a data organization, management, and storage format that enables efficient access and modification.
 - **debugging**: the process of finding and resolving bugs (defects or problems that prevent correct operation) within computer programs, software, or systems.
+- **Data Warehouse**: A data warehouse is a large collection of business data used to help an organization make decisions. Data Warehouses are central repositories of integrated data from one or more disparate sources. It is a system used for reporting and data analysis, and is considered a core component of business intelligence. The concept of the data warehouse has existed since the 1980s, when it was developed to help transition data from merely powering operations to fueling decision support systems that reveal business intelligence.
 - **destructuring**: a convenient way of extracting multiple values from data stored in objects and Arrays.
 - **DevOps**: “Development Operations.” System of working that helps to keep development, IT operations, and quality assurance departments on the same page to make for better end-products and collaborations.
 - **DHCP**: Dynamic Host Configuration Protocol, a protocol which provides new devices on a network the information they need to communicate with other devices
@@ -179,6 +182,7 @@ All the translations for this repo will be listed below:
 
 - **library**: a single or collection of files, programs, routines, scripts, or functions that can be referenced in another code.
 - **list**: a collection type that stores ordered, non-unique elements which allow duplicates.
+- **Log file**: In computing, a log file is a file that records either events that occur in an operating system or other software runs, or messages between different users of a communication software. Logging is the act of keeping a log. In the simplest case, messages are written to a single log file.
 - **loop**: a programming structure that repeats a sequence of instructions until a specific condition is met.
 
 ## M
@@ -195,6 +199,7 @@ All the translations for this repo will be listed below:
 - **Navigation**: Links on a homepage that break down the other pages of a website. This can be both in the menu at the top of a site or in a footer (preferably both).
 - **NAT**: Network Address Translation, a method of remapping an IP address space into another
 - **node**: a basic unit of a data structure, such as a linked list or tree data structure.
+- **NoSQL or NoSQL Databases**: NoSQL databases (aka "not only SQL") are non tabular, and store data differently than relational tables. A NoSQL database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases. NoSQL databases come in a variety of types based on their data model. The main types are document, key-value, wide-column, and graph.
 - **null**: a special data type which can have only one value: NULL.
 
 ## O
@@ -234,6 +239,7 @@ All the translations for this repo will be listed below:
 
 ## R
 
+- **RAML (RESTful API Modeling Language)**: RESTful API Modeling Language is a YAML-based language for describing RESTful APIs. It provides all the information necessary to describe RESTful or practically RESTful APIs. RAML lets you see what your API looks like as you design it, using easy to read plain text. RESTful API Modeling Language (RAML) makes it easy to manage the whole API lifecycle from design to sharing. It's concise - you only write what you need to define - and reusable. It is machine readable API design that is actually human friendly.
 - **Redirects**: Automatic forwards from one URL to another — usually from an old website URL to the same page on a new website (these are called 301 Redirects).
 - **recursion**: a process in which a function calls itself as a subroutine. _See [recursion](#recursion)_
 - **Regular Expression**: a sequence of symbols and characters expressing a string or pattern to be searched for within a longer piece of text.
@@ -246,6 +252,7 @@ All the translations for this repo will be listed below:
 ## S
 
 - **SaaS (Software as a Service)**: Software as a service (SaaS) is a software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. It is sometimes referred to as "on-demand software".
+- **SAML (Security Assertion Markup Language)**: Security Assertion Markup Language is an open standard for exchanging authentication and authorization data between parties, in particular, between an identity provider and a service provider. What that jargon means is that you can use one set of credentials to log into many different websites. SAML is an XML-based markup language for security assertions.
 - **sandbox**: a testing environment that isolates untested code changes and outright experimentation from the production environment or repository, in the context of software development including Web development and revision control.
 - **server**: a computer that provides data to other computers.
 - **setter**: a method that sets the value of a property.
@@ -253,8 +260,10 @@ All the translations for this repo will be listed below:
 - **SOA (Service Oriented Architecture)**: Service-oriented architecture (SOA) is a style of software design where services are provided to the other components by application components, through a communication protocol over a network.
 - **SOAP (Simple Object Access Protocol)**: SOAP (abbreviation for Simple Object Access Protocol) is a messaging protocol specification for exchanging structured information in the implementation of web services in computer networks. Its purpose is to provide extensibility, neutrality, verbosity and independence. It uses XML Information Set for its message format, and relies on application layer protocols, most often Hypertext Transfer Protocol (HTTP), although some legacy systems communicate over Simple Mail Transfer Protocol (SMTP), for message negotiation and transmission.
 - **socket**: one endpoint of a two-way communication link between two programs running on the network
+- **Software architecture**:Software architecture refers to the fundamental structures of a software system and the discipline of creating such structures and systems. Each structure comprises software elements, relations among them, and properties of both elements and relations.
 - **Software Engineering**: is the process of analyzing user needs and designing, constructing, and testing end-user applications that will satisfy these needs through the use of software programming languages.
 - **Source Code**: is any collection of code, with or without comments, written using a human-readable programming language, usually as plain text.
+- **SQL (Structured Query Language)**: SQL is a domain-specific language used in programming and designed for managing data held in a relational database management system, or for stream processing in a relational data stream management system. According to ANSI (American National Standards Institute), it is the standard language for relational database management systems.
 - **statement**: a single line of code that is used to perform a specific task.
 - **string**: a sequence of characters.
 - **String Concatenation**: is the operation of joining character strings end-to-end.
@@ -281,6 +290,7 @@ All the translations for this repo will be listed below:
 - **UI (User Interface)**: the point of human-computer interaction and communication in a device.
 - **UX (User Experience)**: is what a user of a particular product experiences when using that product.
 - **unary operator**: an operator that takes a single operand and performs an operation.
+- **URI (Uniform Resource Identifier)**: A Uniform Resource Identifier is a string of characters that unambiguously identifies a particular resource. To guarantee uniformity, all URIs follow a predefined set of syntax rules, but also maintain extensibility through a separately defined hierarchical naming scheme.
 - **URL (Uniform Resource Locator)**: the address of a given unique resource on the Web.
 
 ## V
@@ -302,4 +312,4 @@ All the translations for this repo will be listed below:
 
 ## Y
 
-- **YAML (YAML Ain't Markup Language)**: a markup language similar to XML using minimal syntax, natively using lists, scalars and associative arrays.
+- **YAML (YAML Ain't Markup Language)**: a markup language similar to XML using minimal syntax, natively using lists, scalars and associative arrays. YAML is a human-readable data-serialization language. It is commonly used for configuration files and in applications where data is being stored or transmitted. YAML targets many of the same communications applications as Extensible Markup Language but has a minimal syntax which intentionally differs from SGML.
