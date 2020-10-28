@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
   <img src="https://wiki.js.org/img/nolan-literature.2917af16.svg" width="150" alt="Dictionary">
   <!-- Image From Wiki.js -->
   <h2>Awesome Developer Dictionary</h2>
@@ -20,7 +20,9 @@ Feel free to submit a PR adding a new term with a definition. If you want to tra
 
 All the translations for this repo will be listed below:
 
+- [English](./README.md)
 - [Spanish](./README-es.md)
+- [Indonesian](./README-id.md)
 
 ## Contents
 
@@ -57,42 +59,62 @@ All the translations for this repo will be listed below:
 
 - **abstraction**: a technique for arranging complexity of computer systems.
 - **agile**: the ability to create and respond to change.
+- **agile software development**: software development methodologies that focus on iterative development
 - **algorithm**: the basic technique used to get the job done.
 - **application (software)**:a program or group of programs designed for end users.
 - **API (application programming interface)**: an intermediary software that allows two or more applications to talk to each other.
 - **argument**: a value that is passed to the function (as input) when it is called.
 - **array**: a data structure consisting of a collection of elements, values or variables each identified by at least one array index or key. _see [list](#L)_
+- **attribute**: Information about elements of a component in your website design/build.
 
 ## B
 
+- **Back end**: All of the behind-the-scenes digital operations that it takes to keep the front end of a website running, such as the coding, style, and plugins.
 - **binary operator**: an operator that takes two arguments.
 - **boolean**: a data type that has one of two possible values (usually denoted true and false).
 - **branch**: a parallel world where you can create commit without introducing bugs into production code.
+- **Browser**: The program you use to access the Web — such as Chrome, Firefox, or Safari.
 - **bug**: an error in the source code that causes a program to produce unexpected results.
+ **buffer**: a sequential section of memory allocated to contain anything from a character string to an array of integers.
+- **buffer overflow**: a condition exists when a program attempts to put more data in a buffer than it can hold.
 
 ## C
 
+- **Cache**: The storage of certain elements to help with faster load times from repeat website visitors. Stores data that needs to be readily accessed by programs and applications.
 - **callback**: a function that is passed as an argument to another and is expected to execute at a given time.
 - **class**: a defined structure to create an object in an object-oriented programming language.
 - **CLI (Command Line Interface)**: the terminal version of an application.
 - **client**: a piece of computer hardware or software that accesses a service made available by a server.
 - **closure**: a persistent scope which holds on to local variables even after the code execution has moved out of that block.
 - **Cloud computing**: Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user. The term is generally used to describe data centers available to many users over the Internet.
+- **CMS**: “Content Management System.” The program that you use to create and maintain your website’s content.
 - **cohesion**: a measure of how well the lines of source code within a module work together.
+- **Comments**: In computer programming, a comment is a programmer-readable explanation or annotation in the source code of a computer program. They are added with the purpose of making the source code easier for humans to understand, and are generally ignored by compilers and interpreters.
+- **commit (VCS)**: an operation which groups a set of changes behind a name and a number, making these changes part of the head revision of the repository. _See [VCS](#V)_
 - **compiler**: a program that translates computer code written in one programming language into another language.
 - **components**: independent and reusable bits of code that work in isolation and returns HTML via a render function. _see [web components](#W)_
-- **coupling**: the degree of interdependence between software modules.
+- **container**: a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another.
 - **control flow**: the order in which individual statements, instructions or function calls of an imperative program are executed.
+- **Cookies**: This is the data sent by an Internet server to a browser. Each time the browser accesses the same server, it sends the data back as a means of tracking how (and how often) it accesses the server.
+- **coupling**: the degree of interdependence between software modules.
+- **CRM**: “Customer Relationship Management.” In website development this refers to the software and applications used to gather, analyze, and maintain information on customers, donors, and prospects.
+- **CSS**: Cascading Style Sheet (CSS) is the code that tells the browser how to display the content of a web page for the end user by formatting fonts, colors, background and other visual elements.
 - **CSV**: plain-text files used to better organize large amounts of data.
 
 ## D
 
 - **database**: a central location in which data is stored and managed.
 - **Data-driven Programming**: a programming paradigm in which the program statements describe the data to be matched and the processing required rather than defining a sequence of steps to be taken.
+- **Data Lake**: A data lake is a system or storage repository that holds a vast amount of raw data in its native format usually object blobs or files until it is needed. While a hierarchical data warehouse stores data in files or folders, a data lake uses a flat architecture to store data. 
 - **data structure**: a data structure is a data organization, management, and storage format that enables efficient access and modification.
 - **debugging**: the process of finding and resolving bugs (defects or problems that prevent correct operation) within computer programs, software, or systems.
+- **Data Warehouse**: A data warehouse is a large collection of business data used to help an organization make decisions. Data Warehouses are central repositories of integrated data from one or more disparate sources. It is a system used for reporting and data analysis, and is considered a core component of business intelligence. The concept of the data warehouse has existed since the 1980s, when it was developed to help transition data from merely powering operations to fueling decision support systems that reveal business intelligence.
 - **destructuring**: a convenient way of extracting multiple values from data stored in objects and Arrays.
+- **DevOps**: “Development Operations.” System of working that helps to keep development, IT operations, and quality assurance departments on the same page to make for better end-products and collaborations.
+- **DHCP**: Dynamic Host Configuration Protocol, a protocol which provides new devices on a network the information they need to communicate with other devices
 - **documentation (docs)**: a written text or illustration that accompanies a software which either explains how the software operates or how to use it.
+- **Domain**: The address for a website as entered into the browser.
+- **DRY**: acronym for "Don't Repeat Yourself." Used to describe concise code that is not long and/or repetitive. Example use: "This code is not DRY."
 
 ## E
 
@@ -100,6 +122,7 @@ All the translations for this repo will be listed below:
 - **encapsulation**: the bundling of data with the methods that operate on that data.
 - **enum**: a special data type that enables for a variable to be a set of predefined constants.
 - **ES6 (ES2015)**: version 6 of the ECMA Script programming language and adds many more features intended to make large-scale software development easier.
+- **environment variables**: a variable whose value is set outside the program, typically through functionality built into the operating system  and can be accessed inside the program.
 - **event**: an action or occurrence detected by a program.
 - **event handler**: a function containing program statements that are executed in response to an event.
 - **expression**: a combination of letters, numbers, or symbols used to represent a value of a variable.
@@ -108,8 +131,12 @@ All the translations for this repo will be listed below:
 
 ## F
 
+- **Favicon**: Short for “favorite icon,” it’s the icon that appears in your website’s browser tab.
+- **Firewall**: System to protect a secure network from an unsecure network (i.e., the rest of the Internet).
 - **framework**: a concrete platform where common code with generic functionality can be selectively specialized or overridden by developers or users.
 - **float**: a data type composed of a number that is not an integer, because it includes a fraction represented in decimal format.
+- **Front End**: The part of the website or app that the user sees. If the back end of your website is everything behind-the-scenes, this is what happens onstage.
+- **FTP**: “File Transfer Protocol.” Method of exchanging files from one computer to another. This is also how websites are uploaded to the Internet.
 - **function**: a block of organized, reusable code that is used to perform a single, related action.
 - **Functional Programming**: a programming paradigm that builds software by composing pure functions, avoiding shared state, mutable data, and side-effects.
 
@@ -118,6 +145,7 @@ All the translations for this repo will be listed below:
 - **generator**: a function that can be used to control the iteration behaviour of a loop.
 - **getter**: a method that gets the value of a property.
 - **GUI (Graphical User Interface)**: type of user interface where users can interact with electronic devices via visual indicator representations such as buttons, scroll bars, cursors, etc.
+- **Git** : a version control system that automatic update our file/or project when we commit it.
 
 ## H
 
@@ -136,6 +164,7 @@ All the translations for this repo will be listed below:
 - **iteration**: a general term for taking each item of something, one after another.
 - **interpreter**: is a computer program that directly executes instructions written in a programming or scripting language, without requiring them previously to have been compiled into a machine language program.
 - **iterator**: an object that enables a programmer to traverse a container, particularly lists.
+- **IP**: Internet Protocol, the protocol by which data is sent from one computer to another on the Internet
 
 ## J
 
@@ -145,41 +174,55 @@ All the translations for this repo will be listed below:
 - **JSON(JavaScript Object Notation)**: a syntax for storing and exchanging data compactible with most programming languages.
 - **JSX**: a HTML-like syntax that is intended to be used by preprocessors to transform HTML-like text found in JavaScript files into standard JavaScript objects that a JavaScript engine can parse.
 
+## K
+
+- **kernel**: a computer program within the operating system with complete control over everything in the system
+
 ## L
 
 - **library**: a single or collection of files, programs, routines, scripts, or functions that can be referenced in another code.
 - **list**: a collection type that stores ordered, non-unique elements which allow duplicates.
+- **Log file**: In computing, a log file is a file that records either events that occur in an operating system or other software runs, or messages between different users of a communication software. Logging is the act of keeping a log. In the simplest case, messages are written to a single log file.
 - **loop**: a programming structure that repeats a sequence of instructions until a specific condition is met.
 
 ## M
 
+- **Meta Tag**: Additional information on web pages or elements, such as the way a piece of content should display in Google search results, the photo credit for an image, or the main keywords associated with a plugin.
 - **Machine Language**: is the language understood by a computer.
 - **Markup Language**: a computer language that uses tags to define elements within a document.
 - **method**: a function associated with a class or an object.
+- **memoization**: optimization technique that involves storing the result so you can use it next time instead of calculating the same thing again and again.
 - **mutable object**: an object which can change after creation.
 
 ## N
 
+- **Navigation**: Links on a homepage that break down the other pages of a website. This can be both in the menu at the top of a site or in a footer (preferably both).
+- **NAT**: Network Address Translation, a method of remapping an IP address space into another
 - **node**: a basic unit of a data structure, such as a linked list or tree data structure.
+- **NoSQL or NoSQL Databases**: NoSQL databases (aka "not only SQL") are non tabular, and store data differently than relational tables. A NoSQL database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases. NoSQL databases come in a variety of types based on their data model. The main types are document, key-value, wide-column, and graph.
 - **null**: a special data type which can have only one value: NULL.
 
 ## O
 
 - **Object-Oriented Programming**: A programming paradigm that organizes software design around data, or objects, rather than functions and logic.
-- **On-Premises**: On-premises is the software and technology that is located within the physical confines of an enterprise – often in the company's data center  (installing and running software on hardware located within the premises of the company) – as opposed to running remotely on hosted servers or in the cloud.
+- **On-Premises**: On-premises is the software and technology that is located within the physical confines of an enterprise – often in the company's data center (installing and running software on hardware located within the premises of the company) – as opposed to running remotely on hosted servers or in the cloud.
 - **Operator**: a symbol that tells the compiler or interpreter to perform specific mathematical, relational or logical operation and produce final result.
+- **OOTB**: “Out of the Box.” Also known as “Off the Shelf.” These are the ready-made, plug-and-play options for features and functions that you can download and install without the need to customize or configure.
 
 ## P
 
 - **PaaS (Platform as a Service)**: Platform-as-a-service (PaaS) is a type of cloud computing offering in which a service provider delivers a platform to clients, enabling them to develop, run, and manage business applications without the need to build and maintain the infrastructure such software development processes typically require.
 - **package**: a namespace that organizes a set of related classes and interfaces.
+- **Page Template**: The layout for a webpage — pages that have similar structures share the same template (such as event detail pages for a variety of events on the same website). Pages that are radically different use separate templates.
 - **package manager**: a programming language's tool to create project environments and easily import external dependencies.
 - **parameter**: variables that are used in the function declaration to represent those arguments that were sent to the function during the function call.
+- **pipeline**: a set of data processing elements connected in series, where the output of one element is the input of the next one.
 - **plugin**: _see [extension](#e)_
 - **PNG (Portable Network Graphics)**: is an image type that's commonly used in web design to provide a transparent background and/or a semi-transparent image.
 - **pointer**: variable that stores the memory address of another variable.
 - **polymorphism**: an object-oriented programming concept that refers to the ability of a variable, function or object to take on multiple forms.
 - **Procedural Programming**: a programming paradigm based upon the concept of procedure calls, in which statements are structured into procedures (also known as subroutines or functions).
+- **Process Control Block**: aka PCB, a data structure used by computer operating systems to store all the information about a process
 - **Programming**: the process of creating a set of instructions that tell a computer how to perform a task.
 - **Programming Language**: a vocabulary and set of grammatical rules for instructing a computer or computing device to perform specific tasks. _Eg. JavaScript, Python._
 - **Programming Paradigm**: a style or "way" of programming.
@@ -191,40 +234,53 @@ All the translations for this repo will be listed below:
 
 ## Q
 
+- **Query**: a request that send to retrieve information from database and information system
 - **Query Language**: a computer programming language that requests and retrieves data from database and information systems by sending queries.
 
 ## R
 
-- <strong id="recursion">recursion</strong>: a process in which a function calls itself as a subroutine. _See [recursion](#recursion)_
+- **RAML (RESTful API Modeling Language)**: RESTful API Modeling Language is a YAML-based language for describing RESTful APIs. It provides all the information necessary to describe RESTful or practically RESTful APIs. RAML lets you see what your API looks like as you design it, using easy to read plain text. RESTful API Modeling Language (RAML) makes it easy to manage the whole API lifecycle from design to sharing. It's concise - you only write what you need to define - and reusable. It is machine readable API design that is actually human friendly.
+- **Redirects**: Automatic forwards from one URL to another — usually from an old website URL to the same page on a new website (these are called 301 Redirects).
+- **recursion**: a process in which a function calls itself as a subroutine. _See [recursion](#recursion)_
 - **Regular Expression**: a sequence of symbols and characters expressing a string or pattern to be searched for within a longer piece of text.
 - **repository**: a central location in which code is stored and managed.
 - **REPL (Read-Eval-Print Loop)**: an interactive interpreter to a programming language.
 - **REST (Representational State Transfer)**: Representational state transfer (REST) is a software architectural style that defines a set of constraints to be used for creating Web services. Web services that conform to the REST architectural style, called RESTful Web services, provide interoperability between computer systems on the internet. RESTful Web services allow the requesting systems to access and manipulate textual representations of Web resources by using a uniform and predefined set of stateless operations, in the form of an HTTP method, or verb (GET, POST, PUT, DELETE etc.). By using a stateless protocol and standard operations, RESTful systems aim for fast performance, reliability, and the ability to grow by reusing components.
 - **RESTful Web Services**: web services that conform to the REST architectural style.
+- **Resolution**: Essentially how large an image or graphic can be rendered on a display. Oftentimes developers talk about the resolution of photos as photos at a low resolution won’t display as well if they need to be sized for the full width of a desktop screen. Resolutions are measured in pixels (e.g., the resolution of a MacBook Air screen is 1440 x 900 pixels).
 
 ## S
 
 - **SaaS (Software as a Service)**: Software as a service (SaaS) is a software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. It is sometimes referred to as "on-demand software".
+- **SAML (Security Assertion Markup Language)**: Security Assertion Markup Language is an open standard for exchanging authentication and authorization data between parties, in particular, between an identity provider and a service provider. What that jargon means is that you can use one set of credentials to log into many different websites. SAML is an XML-based markup language for security assertions.
 - **sandbox**: a testing environment that isolates untested code changes and outright experimentation from the production environment or repository, in the context of software development including Web development and revision control.
 - **server**: a computer that provides data to other computers.
 - **setter**: a method that sets the value of a property.
+- **Sitemap**: Outline of all pages on a website, organized in hierarchical order — much like the outlines you used to use for your college term papers.
 - **SOA (Service Oriented Architecture)**: Service-oriented architecture (SOA) is a style of software design where services are provided to the other components by application components, through a communication protocol over a network.
 - **SOAP (Simple Object Access Protocol)**: SOAP (abbreviation for Simple Object Access Protocol) is a messaging protocol specification for exchanging structured information in the implementation of web services in computer networks. Its purpose is to provide extensibility, neutrality, verbosity and independence. It uses XML Information Set for its message format, and relies on application layer protocols, most often Hypertext Transfer Protocol (HTTP), although some legacy systems communicate over Simple Mail Transfer Protocol (SMTP), for message negotiation and transmission.
+- **socket**: one endpoint of a two-way communication link between two programs running on the network
+- **Software architecture**:Software architecture refers to the fundamental structures of a software system and the discipline of creating such structures and systems. Each structure comprises software elements, relations among them, and properties of both elements and relations.
 - **Software Engineering**: is the process of analyzing user needs and designing, constructing, and testing end-user applications that will satisfy these needs through the use of software programming languages.
 - **Source Code**: is any collection of code, with or without comments, written using a human-readable programming language, usually as plain text.
+- **SQL (Structured Query Language)**: SQL is a domain-specific language used in programming and designed for managing data held in a relational database management system, or for stream processing in a relational data stream management system. According to ANSI (American National Standards Institute), it is the standard language for relational database management systems.
 - **statement**: a single line of code that is used to perform a specific task.
 - **string**: a sequence of characters.
 - **String Concatenation**: is the operation of joining character strings end-to-end.
 - **subexpression**: a part of an expression that is by itself a correct expression.
+- **subnet mask**: a 32-bit number that separates the IP address into the network and host addresses
 - **SVG (Scalable Vector Graphics)**: a vector graphics file format that enables two-dimensional images to be displayed in XML pages on the Web.
 - **syntax**: the grammar of a programming language.
 
 ## T
 
+- **TCP**: Transmission Control Protocol, a communication protocol used most often on networks that use Internet Protocol (IP)
 - **template**: a preformatted file that serve as the starting point for another file.
 - **tenary operator**: an operator that takes three arguments.
 - **testing**: a process to evaluate the functionality of a software application with an intent to find whether the developed software met the specified requirements or not and to identify the bugs to ensure that the product is bug-free.
 - **testing framework**: a set of guidelines or rules used for creating and designing test cases.
+- **thread**: a way for a program to divide itself into two or more simultaneously running tasks
+- **thread pool**: a defined number of pre-initialized threads which stand by, ready to be given work
 - **token**: a single element of a programming language. _Eg keyword, operator_
 - **tree**: a data structure in which each element is attached to one or more elements directly beneath it.
 - **type (data type)**: an attribute of data which tells the compiler or interpreter how the programmer intends to use the data.
@@ -234,13 +290,14 @@ All the translations for this repo will be listed below:
 - **UI (User Interface)**: the point of human-computer interaction and communication in a device.
 - **UX (User Experience)**: is what a user of a particular product experiences when using that product.
 - **unary operator**: an operator that takes a single operand and performs an operation.
+- **URI (Uniform Resource Identifier)**: A Uniform Resource Identifier is a string of characters that unambiguously identifies a particular resource. To guarantee uniformity, all URIs follow a predefined set of syntax rules, but also maintain extensibility through a separately defined hierarchical naming scheme.
 - **URL (Uniform Resource Locator)**: the address of a given unique resource on the Web.
 
 ## V
 
 - **variable**: are used to store information to be referenced and manipulated in a computer program. Their purpose is to label and store data in memory so that the user may use it throughout the program if needed.
-- **Version Control**: a system that records changes to a file or set of files over time so that you can recall specific versions later.
-- **VM (Virtual Machine)**: A virtual machine (VM) is a virtual environment that functions as a virtual computer system with its own CPU, memory, network interface, and storage, created on a physical hardware system (located off- or on-premises). Software called a hypervisor separates the machine’s resources from the hardware and provisions them appropriately so they can be used by the VM. 
+- **Version Control System (VCS)**: a system that records changes to a file or set of files over time so that you can recall specific versions later.
+- **VM (Virtual Machine)**: A virtual machine (VM) is a virtual environment that functions as a virtual computer system with its own CPU, memory, network interface, and storage, created on a physical hardware system (located off- or on-premises). Software called a hypervisor separates the machine’s resources from the hardware and provisions them appropriately so they can be used by the VM.
 
 ## W
 
@@ -255,4 +312,4 @@ All the translations for this repo will be listed below:
 
 ## Y
 
-- **YAML (YAML Ain't Markup Language)**: a markup language similar to XML using minimal syntax, natively using lists, scalars and associative arrays.
+- **YAML (YAML Ain't Markup Language)**: a markup language similar to XML using minimal syntax, natively using lists, scalars and associative arrays. YAML is a human-readable data-serialization language. It is commonly used for configuration files and in applications where data is being stored or transmitted. YAML targets many of the same communications applications as Extensible Markup Language but has a minimal syntax which intentionally differs from SGML.
