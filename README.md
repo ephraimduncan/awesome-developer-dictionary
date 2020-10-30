@@ -63,9 +63,12 @@ All the translations for this repo will be listed below:
 - **algorithm**: the basic technique used to get the job done.
 - **application (software)**:a program or group of programs designed for end users.
 - **API (application programming interface)**: an intermediary software that allows two or more applications to talk to each other.
+- **Application Security**: Application security is the process of making apps more secure by finding, fixing, and enhancing the security of apps. Application security encompasses measures taken to improve the security of an application often by finding, fixing and preventing security vulnerabilities. Much of this happens during the development phase, but it includes tools and methods to protect apps once they are deployed.
 - **argument**: a value that is passed to the function (as input) when it is called.
 - **array**: a data structure consisting of a collection of elements, values or variables each identified by at least one array index or key. _see [list](#L)_
 - **attribute**: Information about elements of a component in your website design/build.
+- **Authentication**: Authentication is the process of verifying identity e.g. a user’s identity. It might involve validating personal identity documents, verifying the authenticity of a website with a digital certificate, determining the age of an artifact by carbon dating, or ensuring that a product or document is not counterfeit. It is the mechanism of associating an incoming request with a set of identifying credentials.
+- **Authorization**: Authorization is the function of specifying access rights/privileges to resources, which is related to information security and computer security in general and to access control in particular. More formally, "to authorize" is to define an access policy.
 
 ## B
 
@@ -100,6 +103,7 @@ All the translations for this repo will be listed below:
 - **CRM**: “Customer Relationship Management.” In website development this refers to the software and applications used to gather, analyze, and maintain information on customers, donors, and prospects.
 - **CSS**: Cascading Style Sheet (CSS) is the code that tells the browser how to display the content of a web page for the end user by formatting fonts, colors, background and other visual elements.
 - **CSV**: plain-text files used to better organize large amounts of data.
+- **Cyber Security**: Cyber security is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It's also known as information technology security or electronic information security.
 
 ## D
 
@@ -109,6 +113,7 @@ All the translations for this repo will be listed below:
 - **data structure**: a data structure is a data organization, management, and storage format that enables efficient access and modification.
 - **debugging**: the process of finding and resolving bugs (defects or problems that prevent correct operation) within computer programs, software, or systems.
 - **Data Warehouse**: A data warehouse is a large collection of business data used to help an organization make decisions. Data Warehouses are central repositories of integrated data from one or more disparate sources. It is a system used for reporting and data analysis, and is considered a core component of business intelligence. The concept of the data warehouse has existed since the 1980s, when it was developed to help transition data from merely powering operations to fueling decision support systems that reveal business intelligence.
+- **Design Patterns**: In software engineering, a software design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design. It is not a finished design that can be transformed directly into source or machine code.
 - **destructuring**: a convenient way of extracting multiple values from data stored in objects and Arrays.
 - **DevOps**: “Development Operations.” System of working that helps to keep development, IT operations, and quality assurance departments on the same page to make for better end-products and collaborations.
 - **DHCP**: Dynamic Host Configuration Protocol, a protocol which provides new devices on a network the information they need to communicate with other devices
@@ -118,11 +123,13 @@ All the translations for this repo will be listed below:
 
 ## E
 
+- **EAI (Enterprise application integration)**: Enterprise application integration is an integration framework composed of a collection of technologies and services which form a middleware or "middleware framework" to enable integration of systems and applications across an enterprise. Enterprise application integration is the process of linking multiple applications within a single organization together in order to simplify and automate business processes to the greatest extent possible, while at the same time avoiding having to make sweeping changes to the existing applications or data structures. Applications can be linked either at the back-end via APIs or (seldomly) the front-end (GUI). In the words of research firm Gartner: EAI is the unrestricted sharing of data and business processes among any connected application or data sources in the enterprise.
 - **ecosystem**: a collection of software projects, which are developed and co-evolve in the same environment.
 - **encapsulation**: the bundling of data with the methods that operate on that data.
 - **enum**: a special data type that enables for a variable to be a set of predefined constants.
 - **ES6 (ES2015)**: version 6 of the ECMA Script programming language and adds many more features intended to make large-scale software development easier.
 - **environment variables**: a variable whose value is set outside the program, typically through functionality built into the operating system  and can be accessed inside the program.
+- **ERP (Enterprise Resource Planning)**: ERP stands for Enterprise Resource Planning and refers to software and systems used to plan and manage all the core supply chain, manufacturing, services, financial and other processes of an organization.
 - **event**: an action or occurrence detected by a program.
 - **event handler**: a function containing program statements that are executed in response to an event.
 - **expression**: a combination of letters, numbers, or symbols used to represent a value of a variable.
@@ -181,17 +188,20 @@ All the translations for this repo will be listed below:
 ## L
 
 - **library**: a single or collection of files, programs, routines, scripts, or functions that can be referenced in another code.
-- **list**: a collection type that stores ordered, non-unique elements which allow duplicates.
+- **Linked List**: In computer science, a linked list is a linear collection of data elements whose order is not given by their physical placement in memory. Instead, each element points to the next. It is a data structure consisting of a collection of nodes which together represent a sequence.
+- **List**: a collection type that stores ordered, non-unique elements which allow duplicates.
+- **Load Testing**: Load testing is a type of non-functional testing. A load test is type of software testing which is conducted to understand the behavior of the application under a specific expected load. Load testing is performed to determine a system's behavior under both normal and at peak conditions.
 - **Log file**: In computing, a log file is a file that records either events that occur in an operating system or other software runs, or messages between different users of a communication software. Logging is the act of keeping a log. In the simplest case, messages are written to a single log file.
 - **loop**: a programming structure that repeats a sequence of instructions until a specific condition is met.
 
 ## M
 
-- **Meta Tag**: Additional information on web pages or elements, such as the way a piece of content should display in Google search results, the photo credit for an image, or the main keywords associated with a plugin.
 - **Machine Language**: is the language understood by a computer.
 - **Markup Language**: a computer language that uses tags to define elements within a document.
+- **Meta Tag**: Additional information on web pages or elements, such as the way a piece of content should display in Google search results, the photo credit for an image, or the main keywords associated with a plugin.
 - **method**: a function associated with a class or an object.
 - **memoization**: optimization technique that involves storing the result so you can use it next time instead of calculating the same thing again and again.
+- **Middleware**: Middleware is software that provides common services and capabilities to applications outside of what's offered by the operating system. Data management, application services, messaging, authentication, and API management are all commonly handled by middleware.
 - **mutable object**: an object which can change after creation.
 
 ## N
@@ -216,6 +226,7 @@ All the translations for this repo will be listed below:
 - **Page Template**: The layout for a webpage — pages that have similar structures share the same template (such as event detail pages for a variety of events on the same website). Pages that are radically different use separate templates.
 - **package manager**: a programming language's tool to create project environments and easily import external dependencies.
 - **parameter**: variables that are used in the function declaration to represent those arguments that were sent to the function during the function call.
+- **Performance Testing**: Performance testing is the process of determining the speed, responsiveness and stability of a computer, network, software program or device under a workload. Performance testing can involve quantitative tests done in a lab, or occur in the production environment in limited scenarios.
 - **pipeline**: a set of data processing elements connected in series, where the output of one element is the input of the next one.
 - **plugin**: _see [extension](#e)_
 - **PNG (Portable Network Graphics)**: is an image type that's commonly used in web design to provide a transparent background and/or a semi-transparent image.
@@ -236,12 +247,14 @@ All the translations for this repo will be listed below:
 
 - **Query**: a request that send to retrieve information from database and information system
 - **Query Language**: a computer programming language that requests and retrieves data from database and information systems by sending queries.
+- **Queue**: Queue is an abstract data structure, somewhat similar to Stacks. Unlike stacks, a queue is open at both its ends. One end is always used to insert data (enqueue) and the other is used to remove data (dequeue). Queue follows First-In-First-Out methodology, i.e., the data item stored first will be accessed first. A real-world example of queue can be a single-lane one-way road, where the vehicle enters first, exits first. More real-world examples can be seen as queues at the ticket windows and bus-stops. 
 
 ## R
 
 - **RAML (RESTful API Modeling Language)**: RESTful API Modeling Language is a YAML-based language for describing RESTful APIs. It provides all the information necessary to describe RESTful or practically RESTful APIs. RAML lets you see what your API looks like as you design it, using easy to read plain text. RESTful API Modeling Language (RAML) makes it easy to manage the whole API lifecycle from design to sharing. It's concise - you only write what you need to define - and reusable. It is machine readable API design that is actually human friendly.
 - **Redirects**: Automatic forwards from one URL to another — usually from an old website URL to the same page on a new website (these are called 301 Redirects).
 - **recursion**: a process in which a function calls itself as a subroutine. _See [recursion](#recursion)_
+- **Regression Testing**: Regression testing is re-running functional and non-functional tests to ensure that previously developed and tested software still performs after a change.
 - **Regular Expression**: a sequence of symbols and characters expressing a string or pattern to be searched for within a longer piece of text.
 - **repository**: a central location in which code is stored and managed.
 - **REPL (Read-Eval-Print Loop)**: an interactive interpreter to a programming language.
@@ -254,6 +267,7 @@ All the translations for this repo will be listed below:
 - **SaaS (Software as a Service)**: Software as a service (SaaS) is a software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. It is sometimes referred to as "on-demand software".
 - **SAML (Security Assertion Markup Language)**: Security Assertion Markup Language is an open standard for exchanging authentication and authorization data between parties, in particular, between an identity provider and a service provider. What that jargon means is that you can use one set of credentials to log into many different websites. SAML is an XML-based markup language for security assertions.
 - **sandbox**: a testing environment that isolates untested code changes and outright experimentation from the production environment or repository, in the context of software development including Web development and revision control.
+- **SDLC (Software Development Life Cycle)**: Software Development Life Cycle (SDLC) is a process used by the software industry to design, develop and test high quality softwares. The SDLC aims to produce a high-quality software that meets or exceeds customer expectations, reaches completion within times and cost estimates. It is also referred to as the application development life-cycle.
 - **server**: a computer that provides data to other computers.
 - **setter**: a method that sets the value of a property.
 - **Sitemap**: Outline of all pages on a website, organized in hierarchical order — much like the outlines you used to use for your college term papers.
@@ -262,15 +276,19 @@ All the translations for this repo will be listed below:
 - **socket**: one endpoint of a two-way communication link between two programs running on the network
 - **Software architecture**:Software architecture refers to the fundamental structures of a software system and the discipline of creating such structures and systems. Each structure comprises software elements, relations among them, and properties of both elements and relations.
 - **Software Engineering**: is the process of analyzing user needs and designing, constructing, and testing end-user applications that will satisfy these needs through the use of software programming languages.
+- **Software integration**: Software integration is the process of bringing together various types of software sub-systems so that they create a unified single system. Software integration can be required for a number of reasons, such as: Migrating from a legacy system to a new database system, including cloud-based data storage.
 - **Source Code**: is any collection of code, with or without comments, written using a human-readable programming language, usually as plain text.
 - **SQL (Structured Query Language)**: SQL is a domain-specific language used in programming and designed for managing data held in a relational database management system, or for stream processing in a relational data stream management system. According to ANSI (American National Standards Institute), it is the standard language for relational database management systems.
+- **Stack**: In computer science, a stack is an abstract data type (ADT) that serves as a collection of elements, with two main principal operations: push, which adds an element to the collection, and pop, which removes the most recently added element that was not yet removed. Stack is commonly used in most programming languages. It is named stack as it behaves like a real-world stack, for example – a deck of cards or a pile of plates, etc. A real-world stack allows operations at one end only. For example, we can place or remove a card or plate from the top of the stack only. Likewise, Stack ADT allows all data operations at one end only. At any given time, we can only access the top element of a stack. This feature makes it LIFO data structure. LIFO stands for Last-in-first-out. Here, the element which is placed (inserted or added) last, is accessed first.
 - **statement**: a single line of code that is used to perform a specific task.
+- **Stress Testing**: Stress Testing is a type of software testing that verifies stability & reliability of software application. Stress testing is a software testing activity that determines the robustness of software by testing beyond the limits of normal operation. Stress testing is particularly important for "mission critical" software, but is used for all types of software. The goal of Stress testing is measuring software on its robustness and error handling capabilities under extremely heavy load conditions and ensuring that software doesn't crash under crunch situations.
 - **string**: a sequence of characters.
 - **String Concatenation**: is the operation of joining character strings end-to-end.
 - **subexpression**: a part of an expression that is by itself a correct expression.
 - **subnet mask**: a 32-bit number that separates the IP address into the network and host addresses
 - **SVG (Scalable Vector Graphics)**: a vector graphics file format that enables two-dimensional images to be displayed in XML pages on the Web.
 - **syntax**: the grammar of a programming language.
+- **System Testing**: System testing is testing conducted on a complete integrated system to evaluate the system's compliance with its specified requirements. System testing takes, as its input, all of the integrated components that have passed integration testing. The purpose of a system test is to evaluate the end-to-end system specifications. Usually, the software is only one element of a larger computer-based system.
 
 ## T
 
@@ -287,7 +305,9 @@ All the translations for this repo will be listed below:
 
 ## U
 
+- **UAT (User Acceptance Testing)**: User Acceptance Testing (UAT) is one of the last stages of the software development life cycle. It is performed after the software has been thoroughly tested. It is sometimes known as End User Testing. UAT is a type of testing performed by the end user or the client to verify/accept the software system before moving the software application to the production environment. UAT is done in the final phase of testing after functional, integration and system testing is done.
 - **UI (User Interface)**: the point of human-computer interaction and communication in a device.
+- **Unit Testing**: In computer programming, unit testing is a software testing method by which individual units of source code—sets of one or more computer program modules together with associated control data, usage procedures, and operating procedures—are tested to determine whether they are fit for use. Unit tests are typically automated tests written and run by software developers to ensure that a section of an application (known as the "unit") meets its design and behaves as intended. In procedural programming, a unit could be an entire module, but it is more commonly an individual function or procedure.
 - **UX (User Experience)**: is what a user of a particular product experiences when using that product.
 - **unary operator**: an operator that takes a single operand and performs an operation.
 - **URI (Uniform Resource Identifier)**: A Uniform Resource Identifier is a string of characters that unambiguously identifies a particular resource. To guarantee uniformity, all URIs follow a predefined set of syntax rules, but also maintain extensibility through a separately defined hierarchical naming scheme.
