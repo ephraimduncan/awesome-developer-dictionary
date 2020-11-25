@@ -74,17 +74,19 @@ All the translations for this repo will be listed below:
 
 - **Back end**: All of the behind-the-scenes digital operations that it takes to keep the front end of a website running, such as the coding, style, and plugins.
 - **binary operator**: an operator that takes two arguments.
+- **Boilerplate**: A boilerplate is a collection of code snippets and assets that can be reused to boost development. 
 - **boolean**: a data type that has one of two possible values (usually denoted true and false).
 - **branch**: a parallel world where you can create commit without introducing bugs into production code.
 - **Browser**: The program you use to access the Web — such as Chrome, Firefox, or Safari.
 - **bug**: an error in the source code that causes a program to produce unexpected results.
- **buffer**: a sequential section of memory allocated to contain anything from a character string to an array of integers.
+- **buffer**: a sequential section of memory allocated to contain anything from a character string to an array of integers.
 - **buffer overflow**: a condition exists when a program attempts to put more data in a buffer than it can hold.
 
 ## C
 
 - **Cache**: The storage of certain elements to help with faster load times from repeat website visitors. Stores data that needs to be readily accessed by programs and applications.
 - **callback**: a function that is passed as an argument to another and is expected to execute at a given time.
+- **CDN (Content Delivery Network)**: A content delivery network (CDN) is a geographically distributed network of servers whose goal is to provide high availability and performance of the service served, to users.
 - **class**: a defined structure to create an object in an object-oriented programming language.
 - **CLI (Command Line Interface)**: the terminal version of an application.
 - **client**: a piece of computer hardware or software that accesses a service made available by a server.
@@ -96,6 +98,7 @@ All the translations for this repo will be listed below:
 - **commit (VCS)**: an operation which groups a set of changes behind a name and a number, making these changes part of the head revision of the repository. _See [VCS](#V)_
 - **compiler**: a program that translates computer code written in one programming language into another language.
 - **components**: independent and reusable bits of code that work in isolation and returns HTML via a render function. _see [web components](#W)_
+- **Constant**: A constant is a value that will never change during the running time of the program.
 - **container**: a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another.
 - **control flow**: the order in which individual statements, instructions or function calls of an imperative program are executed.
 - **Cookies**: This is the data sent by an Internet server to a browser. Each time the browser accesses the same server, it sends the data back as a means of tracking how (and how often) it accesses the server.
@@ -119,6 +122,7 @@ All the translations for this repo will be listed below:
 - **DHCP**: Dynamic Host Configuration Protocol, a protocol which provides new devices on a network the information they need to communicate with other devices
 - **documentation (docs)**: a written text or illustration that accompanies a software which either explains how the software operates or how to use it.
 - **Domain**: The address for a website as entered into the browser.
+- **DOM (Document Object Model)**: The Document Object Model (DOM) is a programming API for HTML and XML documents. It defines the logical structure of documents and the way a document is accessed and manipulated.
 - **DRY**: acronym for "Don't Repeat Yourself." Used to describe concise code that is not long and/or repetitive. Example use: "This code is not DRY."
 
 ## E
@@ -180,6 +184,7 @@ All the translations for this repo will be listed below:
 - **jQuery**: a fast, small, and feature-rich JavaScript library whose purpose is to make it much easier to use JavaScript on your website.
 - **JSON(JavaScript Object Notation)**: a syntax for storing and exchanging data compactible with most programming languages.
 - **JSX**: a HTML-like syntax that is intended to be used by preprocessors to transform HTML-like text found in JavaScript files into standard JavaScript objects that a JavaScript engine can parse.
+- **JWT (JSON Web Token)**: JWT or JSON Web Token is a standard used to create access tokens for an application.
 
 ## K
 
@@ -226,6 +231,7 @@ All the translations for this repo will be listed below:
 - **Page Template**: The layout for a webpage — pages that have similar structures share the same template (such as event detail pages for a variety of events on the same website). Pages that are radically different use separate templates.
 - **package manager**: a programming language's tool to create project environments and easily import external dependencies.
 - **parameter**: variables that are used in the function declaration to represent those arguments that were sent to the function during the function call.
+- **Parse**: The action of transforming Data in a more workable way. 
 - **Performance Testing**: Performance testing is the process of determining the speed, responsiveness and stability of a computer, network, software program or device under a workload. Performance testing can involve quantitative tests done in a lab, or occur in the production environment in limited scenarios.
 - **pipeline**: a set of data processing elements connected in series, where the output of one element is the input of the next one.
 - **plugin**: _see [extension](#e)_
