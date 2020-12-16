@@ -57,20 +57,24 @@ All the translations for this repo will be listed below:
 - **application (software)**:a program or group of programs designed for end users.s
 - **API (application programming interface)**: an intermediary software that allows two or more applications to talk to each other.
 - **array**: a data structure consisting of a collection of elements ,values or variables each identified by at least one array index or key. _see [list](#L)_
+- **/attribute**: information about elements of a component in your website design/build.
 
 ## B
 
 - **branch**: a parallel world where you can create commit without introducing bugs into production code.
 - **boolean**: a data type that has one of two possible values (usually denoted true and false).
+- **/bug**: an error or flaw in the website or app that keeps it from running as expected.
 
 ## C
 
+- **cache**: The storage of certain elements to help with faster load times from repeat website visitors./////
 - **callback**: a function that is passed as an argument to another and is expected to execute at a given time.
 - **class**: a defined structure to create an object in an object-oriented programming language.
 - **CLI (Command Line Interface)**: the terminal version of an application.
 - **compiler**: a program that translates computer code written in one programming language into another language.
 - **components**: independent and reusable bits of code that work in isolation and returns HTML via a render function. _see [web components](#W)_
 - **control flow**: the order in which individual statements, instructions or function calls of an imperative program are executed.
+- **/cookies**: This is the data sent by an Internet server to a browser. Each time the browser accesses the same server, it sends the data back as a means of tracking how (and how often) it accesses the server.
 
 ## D
 
