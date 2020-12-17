@@ -57,30 +57,34 @@ All the translations for this repo will be listed below:
 - **application (software)**:a program or group of programs designed for end users.s
 - **API (application programming interface)**: an intermediary software that allows two or more applications to talk to each other.
 - **array**: a data structure consisting of a collection of elements ,values or variables each identified by at least one array index or key. _see [list](#L)_
-- **/attribute**: information about elements of a component in your website design/build.
+- **attribute**: information about elements of a component in your website design/build.
 
 ## B
 
+- **backend**: Backend development essentially refers to everything that goes on behind the scenes. What happens at the backend — or server-side — powers what happens at the frontend
 - **branch**: a parallel world where you can create commit without introducing bugs into production code.
 - **boolean**: a data type that has one of two possible values (usually denoted true and false).
-- **/bug**: an error or flaw in the website or app that keeps it from running as expected.
+- **browser**: it is the software used to access the internet and display web pages
+- **bug**: an error or flaw in the website or app that keeps it from running as expected.
 
 ## C
 
-- **cache**: The storage of certain elements to help with faster load times from repeat website visitors./////
+- **cache**: The storage of certain elements to help with faster load times from repeat website visitors.
 - **callback**: a function that is passed as an argument to another and is expected to execute at a given time.
 - **class**: a defined structure to create an object in an object-oriented programming language.
 - **CLI (Command Line Interface)**: the terminal version of an application.
 - **compiler**: a program that translates computer code written in one programming language into another language.
 - **components**: independent and reusable bits of code that work in isolation and returns HTML via a render function. _see [web components](#W)_
 - **control flow**: the order in which individual statements, instructions or function calls of an imperative program are executed.
-- **/cookies**: This is the data sent by an Internet server to a browser. Each time the browser accesses the same server, it sends the data back as a means of tracking how (and how often) it accesses the server.
+- **cookies**: This is the data sent by an Internet server to a browser. Each time the browser accesses the same server, it sends the data back as a means of tracking how (and how often) it accesses the server.
+- **CSS (Cascading Style Sheets)**: are used to define the look and feel of a website outside of the actual content of the web page. Simplifying a site’s HTML files will increase search engine rankings and enable you to change the style of a site by altering just one file.
 
 ## D
 
 - **database**: a central location in which data is stored and managed.
 - **Data-driven Programming**: A programming paradigm in which the program statements describe the data to be matched and the processing required rather than defining a sequence of steps to be taken.
 - **documentation(docs)**: a written text or illustration that accompanies a software which either explains how the software operates or how to use it.
+- **domain**: a domain is the URL name at which a website is accessible through and what potential users will type into their search bar to access it.
 
 ## E
 
@@ -93,6 +97,7 @@ All the translations for this repo will be listed below:
 
 - **framework**: a concrete platform where common code with generic functionality can be selectively specialized or overridden by developers or users.
 - **float**: a data type composed of a number that is not an integer, because it includes a fraction represented in decimal format.
+- **framework**: they were invented to make the process of building a website or an application faster and easier.
 - **function**: a block of organized, reusable code that is used to perform a single, related action.
 - **Functional Programming**: A programming paradigm that builds software by composing pure functions, avoiding shared state, mutable data, and side-effects.
 
@@ -110,6 +115,7 @@ All the translations for this repo will be listed below:
 # M
 
 - **Markup Language**: a computer language that uses tags to define elements within a document.
+- **Meta Data**: A set of data that describes and gives information about other data. In this situation, the metadata would be describing the web page. This includes page meta-descriptions and meta-tags which helps bots and search engines crawl the site to determine how it should rank in search results. They also help describe the page to potential users.
 
 ## N
 
