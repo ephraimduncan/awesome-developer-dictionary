@@ -59,6 +59,7 @@ All the translations for this repo will be listed below:
 ## A
 
 - **abstraction**: a technique for arranging complexity of computer systems.
+- **adaptive design**: The way in which a website is built determines how it appears on different devices. Adaptive design creates a website in several different layouts, each suited for different screen sizes. Depending on what device is being used to access the website, the website will adapt and deliver the appropriate layout. See also: responsive design and mobile-first.
 - **agile**: the ability to create and respond to change.
 - **Agile software development**: software development methodologies that focus on iterative development.
 - **algorithm**: the basic technique used to get the job done.
@@ -77,6 +78,7 @@ All the translations for this repo will be listed below:
 - **binary operator**: an operator that takes two arguments.
 - **boilerplate**: A boilerplate is a collection of code snippets and assets that can be reused to boost development. 
 - **boolean**: a data type that has one of two possible values (usually denoted true and false).
+- **bootstrap**: Bootstrap is a free, open-source frontend framework for designing websites and web apps. Bootstrap includes HTML and CSS-based design templates for typography, forms, buttons, tables, navigation, modals and more, plus JavaScript plugins.
 - **branch**: a parallel world where you can create commits without introducing bugs into production code.
 - **browser**: The program you use to access the Web — such as Chrome, Firefox, or Safari.
 - **bug**: an error in the source code that causes a program to produce unexpected results.
@@ -117,6 +119,7 @@ All the translations for this repo will be listed below:
 - **data structure**: a data structure is a data organization, management, and storage format that enables efficient access and modification.
 - **debugging**: the process of finding and resolving bugs (defects or problems that prevent correct operation) within computer programs, software, or systems.
 - **data warehouse**: A data warehouse is a large collection of business data used to help an organization make decisions. Data Warehouses are central repositories of integrated data from one or more disparate sources. It is a system used for reporting and data analysis, and is considered a core component of business intelligence. The concept of the data warehouse has existed since the 1980s, when it was developed to help transition data from merely powering operations to fueling decision support systems that reveal business intelligence.
+- **deployment**: Deployment is a key step in the web development process. Once a website or an app has been developed and tested, it’s ready to go live; in other words, it’s ready to be deployed. There are several different stages to deploying a website, with the last being hosting it.
 - **design patterns**: In software engineering, a software design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design. It is not a finished design that can be transformed directly into source or machine code.
 - **destructuring**: a convenient way of extracting multiple values from data stored in objects and arrays.
 - **DevOps (Development Operations)**: System of working that helps to keep development, IT operations, and quality assurance departments on the same page to make for better end-products and collaborations.
@@ -131,6 +134,7 @@ All the translations for this repo will be listed below:
 - **EAI (Enterprise application integration)**: Enterprise application integration is an integration framework composed of a collection of technologies and services which form a middleware or "middleware framework" to enable integration of systems and applications across an enterprise. Enterprise application integration is the process of linking multiple applications within a single organization together in order to simplify and automate business processes to the greatest extent possible, while at the same time avoiding having to make sweeping changes to the existing applications or data structures. Applications can be linked either at the back-end via APIs or (seldomly) the front-end (GUI). In the words of research firm Gartner: EAI is the unrestricted sharing of data and business processes among any connected application or data sources in the enterprise.
 - **ecosystem**: a collection of software projects, which are developed and co-evolve in the same environment.
 - **encapsulation**: the bundling of data with the methods that operate on that data.
+- **encryption**: the process of converting information or data into a code, especially to prevent unauthorized access.
 - **enum**: a special data type that enables for a variable to be a set of predefined constants.
 - **ES6 (ES2015)**: version 6 of the ECMA Script programming language and adds many more features intended to make large-scale software development easier.
 - **environment variables**: a variable whose value is set outside the program, typically through functionality built into the operating system, and can be accessed inside the program.
@@ -151,6 +155,7 @@ All the translations for this repo will be listed below:
 - **FTP (File Transfer Protocol)**: Method of exchanging files from one computer to another. This is also how websites are uploaded to the Internet.
 - **function**: a block of organized, reusable code that is used to perform a single, related action.
 - **functional programming**: a programming paradigm that builds software by composing pure functions and avoiding shared state, mutable data, and side-effects.
+- **full-stack**: Full-stack developers work across all three layers: the frontend, the backend, and the database layer. Because of the sheer depth of their knowledge across the entire tech stack, this kind of developer tends to have years of industry experience and gets paid well for it.
 
 ## G
 
@@ -158,6 +163,7 @@ All the translations for this repo will be listed below:
 - **getter**: a method that gets the value of a property.
 - **GUI (Graphical User Interface)**: type of user interface where users can interact with electronic devices via visual indicator representations such as buttons, scroll bars, cursors, etc.
 - **Git** : a version control system that automatically updates our file/or project when we commit it.
+- **GitHub** : GitHub is a cloud interface for Git. GitHub offers all the version control functionality of Git, but also offers its own features, such as bug tracking, task management and project wikis.
 
 ## H
 
@@ -175,6 +181,7 @@ All the translations for this repo will be listed below:
 - **integer (int)**: a data type that represents some range of mathematical integers.
 - **iteration**: a general term for taking each item of something, one after another.
 - **interpreter**: a computer program that directly executes instructions written in a programming or scripting language, without requiring them previously to have been compiled into a machine language program.
+- **information architecture**: Information architecture is the practice of organizing complex information in a clear and logical way. In terms of websites and apps, this means creating a user-friendly structure that makes it easy for the user to find their way around.
 - **iterator**: an object that enables a programmer to traverse a container, particularly lists.
 - **IP**: Internet Protocol, the protocol by which data is sent from one computer to another on the Internet.
 
@@ -185,11 +192,14 @@ All the translations for this repo will be listed below:
 - **jQuery**: a fast, small, and feature-rich JavaScript library whose purpose is to make it much easier to use JavaScript on your website.
 - **JSON (JavaScript Object Notation)**: a syntax for storing and exchanging data compactible with most programming languages.
 - **JSX**: an HTML-like syntax that is intended to be used by preprocessors to transform HTML-like text found in JavaScript files into standard JavaScript objects that a JavaScript engine can parse.
+- **JVM**: Java Virtual Machine, or JVM, loads, verifies and executes Java bytecode. It is known as the interpreter or the core of Java programming language because it executes Java programming.
 - **JWT (JSON Web Token)**: JWT or JSON Web Token is a standard used to create access tokens for an application.
 
 ## K
 
 - **kernel**: a computer program within the operating system with complete control over everything in the system.
+- **keyword**: a keyword is a word that is reserved by a program because the word has a special meaning.
+- **kubernetes**: Kubernetes is an open-source container orchestration platform that enables the operation of an elastic web server framework for cloud applications. Kubernetes can support data center outsourcing to public cloud service providers or can be used for web hosting at scale.
 
 ## L
 
@@ -198,6 +208,7 @@ All the translations for this repo will be listed below:
 - **list**: a collection type that stores ordered, non-unique elements which allow duplicates.
 - **load testing**: Load testing is a type of non-functional testing. A load test is type of software testing which is conducted to understand the behavior of the application under a specific expected load. Load testing is performed to determine a system's behavior under both normal and at peak conditions.
 - **log file**: In computing, a log file is a file that records either events that occur in an operating system or other software runs, or messages between different users of a communication software. Logging is the act of keeping a log. In the simplest case, messages are written to a single log file.
+- **logical error**: a logic error is a bug in a program that causes it to operate incorrectly, but not to terminate abnormally (or crash).
 - **loop**: a programming structure that repeats a sequence of instructions until a specific condition is met.
 
 ## M
@@ -208,6 +219,7 @@ All the translations for this repo will be listed below:
 - **method**: a function associated with a class or an object.
 - **memoization**: optimization technique that involves storing the result so you can use it next time instead of calculating the same thing again and again.
 - **middleware**: Middleware is software that provides common services and capabilities to applications outside of what's offered by the operating system. Data management, application services, messaging, authentication, and API management are all commonly handled by middleware.
+- **MIME**: Multipurpose Internet Mail Extensions is an Internet standard that extends the format of email messages to support text in character sets other than ASCII, as well as attachments of audio, video, images, and application programs.
 - **mutable object**: an object which can change after creation.
 
 ## N
@@ -216,6 +228,7 @@ All the translations for this repo will be listed below:
 - **NAT (Network Address Translation)**: a method of remapping an IP address space into another
 - **node**: a basic unit of a data structure, such as a linked list or tree data structure.
 - **NoSQL or NoSQL Databases**: NoSQL databases (aka "not only SQL") are non tabular, and store data differently than relational tables. A NoSQL database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases. NoSQL databases come in a variety of types based on their data model. The main types are document, key-value, wide-column, and graph.
+- **node.js**: NNode.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser.
 - **null**: a special data type which can have only one value: NULL.
 
 ## O
@@ -223,6 +236,8 @@ All the translations for this repo will be listed below:
 - **Object-Oriented Programming**: A programming paradigm that organizes software design around data, or objects, rather than functions and logic.
 - **On-Premises**: On-premises is the software and technology that is located within the physical confines of an enterprise – often in the company's data center (installing and running software on hardware located within the premises of the company) – as opposed to running remotely on hosted servers or in the cloud.
 - **operator**: a symbol that tells the compiler or interpreter to perform specific mathematical, relational or logical operation and produce final result.
+- **operating system**: An operating system, or OS, is a type of software that enables the user to run applications on a device.
+- **open source software**: Open source software (OSS) is software that is distributed with its source code, making it available for use, modification, and distribution with its original rights. OSS typically includes a license that allows programmers to modify the software to best fit their needs and control how the software can be distributed.
 - **OOTB**: “Out of the Box.” Also known as “Off the Shelf.” These are the ready-made, plug-and-play options for features and functions that you can download and install without the need to customize or configure.
 
 ## P
@@ -234,6 +249,7 @@ All the translations for this repo will be listed below:
 - **parameter**: variables that are used in the function declaration to represent those arguments that were sent to the function during the function call.
 - **parse**: The action of transforming data in a more workable way. 
 - **performance testing**: Performance testing is the process of determining the speed, responsiveness and stability of a computer, network, software program or device under a workload. Performance testing can involve quantitative tests done in a lab, or occur in the production environment in limited scenarios.
+- **PHP**: PHP stands for Hypertext Preprocessor, a server-side scripting language. Among other things, PHP can be used to generate dynamic page content, to send and receive cookies, to control user access and to encrypt data. it’s compatible with almost all servers used today, it’s fairly easy to learn, supports a wide range of databases, and it’s free to download.
 - **pipeline**: a set of data processing elements connected in series, where the output of one element is the input of the next one.
 - **plugin**: _see [extension](#e)_
 - **PNG (Portable Network Graphics)**: an image type that's commonly used in web design to provide a transparent background and/or a semi-transparent image.
@@ -260,6 +276,8 @@ All the translations for this repo will be listed below:
 
 - **RAML (RESTful API Modeling Language)**: RESTful API Modeling Language is a YAML-based language for describing RESTful APIs. It provides all the information necessary to describe RESTful or practically RESTful APIs. RAML lets you see what your API looks like as you design it, using easy to read plain text. RESTful API Modeling Language (RAML) makes it easy to manage the whole API lifecycle from design to sharing. It's concise - you only write what you need to define - and reusable. It is machine readable API design that is actually human friendly.
 - **redirects**: Automatic forwards from one URL to another — usually from an old website URL to the same page on a new website (these are called 301 Redirects).
+- **ruby**: Ruby is an interpreted, high-level, general-purpose programming language. Ruby is dynamically typed and uses garbage collection and just-in-time compilation.
+- **ruby on rails**: Ruby on Rails, or Rails, is a server-side web application framework written in Ruby under the MIT License. Rails is a model–view–controller framework, providing default structures for a database, a web service, and web pages.
 - **recursion**: a process in which a function calls itself as a subroutine. _See [recursion](#recursion)_
 - **regression testing**: Regression testing is re-running functional and non-functional tests to ensure that previously developed and tested software still performs after a change.
 - **regular expression**: a sequence of symbols and characters expressing a string or pattern to be searched for within a longer piece of text.
@@ -286,6 +304,7 @@ All the translations for this repo will be listed below:
 - **Software integration**: Software integration is the process of bringing together various types of software sub-systems so that they create a unified single system. Software integration can be required for a number of reasons, such as: Migrating from a legacy system to a new database system, including cloud-based data storage.
 - **Source Code**: is any collection of code, with or without comments, written using a human-readable programming language, usually as plain text.
 - **SQL (Structured Query Language)**: SQL is a domain-specific language used in programming and designed for managing data held in a relational database management system, or for stream processing in a relational data stream management system. According to ANSI (American National Standards Institute), it is the standard language for relational database management systems.
+- **SSL**: SSL stands for Secure Sockets Layer. It’s a standard security protocol for ensuring that all data transmitted between the web server and the browser remains encrypted—and therefore unreadable to the naked eye. You can tell if a website has an SSL certificate by looking at the web address: if the URL starts with “https”, the website is secure. You’ll also see a padlock symbol in the browser bar.
 - **stack**: In computer science, a stack is an abstract data type (ADT) that serves as a collection of elements, with two main principal operations: push, which adds an element to the collection, and pop, which removes the most recently added element that was not yet removed. Stack is commonly used in most programming languages. It is named stack as it behaves like a real-world stack, for example – a deck of cards or a pile of plates, etc. A real-world stack allows operations at one end only. For example, we can place or remove a card or plate from the top of the stack only. Likewise, Stack ADT allows all data operations at one end only. At any given time, we can only access the top element of a stack. This feature makes it LIFO data structure. LIFO stands for Last-in-first-out. Here, the element which is placed (inserted or added) last, is accessed first.
 - **statement**: a single line of code that is used to perform a specific task.
 - **stress testing**: Stress Testing is a type of software testing that verifies stability & reliability of software application. Stress testing is a software testing activity that determines the robustness of software by testing beyond the limits of normal operation. Stress testing is particularly important for "mission critical" software, but is used for all types of software. The goal of Stress testing is measuring software on its robustness and error handling capabilities under extremely heavy load conditions and ensuring that software doesn't crash under crunch situations.
@@ -304,6 +323,7 @@ All the translations for this repo will be listed below:
 - **tenary operator**: an operator that takes three arguments.
 - **testing**: a process to evaluate the functionality of a software application with an intent to find whether the developed software met the specified requirements or not and to identify the bugs to ensure that the product is bug-free.
 - **testing framework**: a set of guidelines or rules used for creating and designing test cases.
+- **text editor**: A text editor is just a type of software used to write plain, unformatted text. You’ll use a text editor such as SublimeText, TextEdit or TextWrangler to write your initial code. Then, later on, it will be formatted to make it computer-readable.
 - **thread**: a way for a program to divide itself into two or more simultaneously running tasks.
 - **thread pool**: a defined number of pre-initialized threads which stand by, ready to be given work
 - **token**: a single element of a programming language. _Eg keyword, operator_
@@ -315,6 +335,7 @@ All the translations for this repo will be listed below:
 - **UAT (User Acceptance Testing)**: User Acceptance Testing (UAT) is one of the last stages of the software development life cycle. It is performed after the software has been thoroughly tested. It is sometimes known as End User Testing. UAT is a type of testing performed by the end user or the client to verify/accept the software system before moving the software application to the production environment. UAT is done in the final phase of testing after functional, integration and system testing is done.
 - **UI (User Interface)**: the point of human-computer interaction and communication in a device.
 - **unit testing**: In computer programming, unit testing is a software testing method by which individual units of source code—sets of one or more computer program modules together with associated control data, usage procedures, and operating procedures—are tested to determine whether they are fit for use. Unit tests are typically automated tests written and run by software developers to ensure that a section of an application (known as the "unit") meets its design and behaves as intended. In procedural programming, a unit could be an entire module, but it is more commonly an individual function or procedure.
+- **unix**: Unix is a family of multitasking, multiuser computer operating systems that derive from the original AT&T Unix, whose development started in the 1970s at the Bell Labs research center by Ken Thompson, Dennis Ritchie, and others.
 - **UX (User Experience)**: is what a user of a particular product experiences when using that product.
 - **unary operator**: an operator that takes a single operand and performs an operation.
 - **URI (Uniform Resource Identifier)**: A Uniform Resource Identifier is a string of characters that unambiguously identifies a particular resource. To guarantee uniformity, all URIs follow a predefined set of syntax rules, but also maintain extensibility through a separately defined hierarchical naming scheme.
@@ -324,19 +345,24 @@ All the translations for this repo will be listed below:
 
 - **variable**: is used to store information to be referenced and manipulated in a computer program. Its purpose is to label and store data in memory so that the user may use it throughout the program if needed.
 - **Version Control System (VCS)**: a system that records changes to a file or set of files over time so that you can recall specific versions later.
+- **Visual Basic (VB)**: The original Visual Basic is a third-generation event-driven programming language from Microsoft known for its Component Object Model programming model first released in 1991 and declared legacy during 2008. Microsoft intended Visual Basic to be relatively easy to learn and use.
 - **VM (Virtual Machine)**: A virtual machine (VM) is a virtual environment that functions as a virtual computer system with its own CPU, memory, network interface, and storage, created on a physical hardware system (located off- or on-premises). Software called a hypervisor separates the machine’s resources from the hardware and provisions them appropriately so they can be used by the VM.
 
 ## W
 
+- **web browser**: A web browser, or simply 'browser', is an application used to access and view websites. Common web browsers include Microsoft Edge, Internet Explorer, Google Chrome, Mozilla Firefox, and Apple Safari.
 - **web components**: a set of web platform APIs that allow you to create new custom, reusable, encapsulated HTML tags to use in web pages and web apps.
 - **webhooks**: automated messages sent from apps when something happens.
 - **WebRTC**: A browser-based programming interface (API) from the W3C for voice and video calling that bypasses the traditional telephone networks.
+- **web server**: A web server is computer software and underlying hardware that accepts requests via HTTP, the network protocol created to distribute web pages, or its secure variant HTTPS.
 - **web service**: A web service is a piece of software that makes itself available over the internet.Web services are self-contained, modular, distributed, dynamic applications that can be described, published, located, or invoked over the network. These applications can be local, distributed, or web-based. Web services are built on top of open standards such as TCP/IP, HTTP, Java, HTML, and XML.
 
 ## X
 
+- **XHTML**: Extensible HyperText Markup Language is part of the family of XML markup languages. It mirrors or extends versions of the widely used HyperText Markup Language, the language in which Web pages are formulated.
 - **XML**: a markup language with rules to be readable by machines and humans.
 
 ## Y
 
 - **YAML (YAML Ain't Markup Language)**: a markup language similar to XML using minimal syntax, natively using lists, scalars and associative arrays. YAML is a human-readable data-serialization language. It is commonly used for configuration files and in applications where data is being stored or transmitted. YAML targets many of the same communications applications as Extensible Markup Language but has a minimal syntax which intentionally differs from SGML.
+- **yarn**: Yarn is a new package manager that replaces the existing workflow for the npm client or other package managers while remaining compatible with the npm registry. It has the same feature set as existing workflows while operating faster, more securely, and more reliably. 
