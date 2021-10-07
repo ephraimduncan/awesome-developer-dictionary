@@ -204,6 +204,7 @@ All the translations for this repo will be listed below:
 
 - **Machine Language**: is the language understood by a computer.
 - **Markup Language**: a computer language that uses tags to define elements within a document.
+- **Merge Sort**: a Divide and Conquer algorithm. It divides the input array into two halves, calls itself for the two halves, and then merges the two sorted halves. 
 - **meta tag**: Additional information on web pages or elements, such as the way a piece of content should display in Google search results, the photo credit for an image, or the main keywords associated with a plugin.
 - **method**: a function associated with a class or an object.
 - **memoization**: optimization technique that involves storing the result so you can use it next time instead of calculating the same thing again and again.
