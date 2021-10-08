@@ -110,6 +110,7 @@ All the translations for this repo will be listed below:
 - **CSS (Cascading Style Sheets)**: CSS is the code that tells the browser how to display the content of a web page for the end user by formatting fonts, colors, backgrounds, and other visual elements.
 - **CSV**: plain-text files used to better organize large amounts of data via comma-separated values.
 - **cyber security**: Cyber security is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It's also known as information technology security or electronic information security.
+- **CI/CD**: CI and CD stand for continuous integration and continuous delivery/continuous deployment. CI/CD bridges the gaps between development and operation activities and teams by enforcing automation in building, testing and deployment of applications.
 
 ## D
 
