@@ -235,6 +235,7 @@ All the translations for this repo will be listed below:
 
 - **navigation**: Links on a homepage that break down the other pages of a website. This can be both in the menu at the top of a site or in a footer (preferably both).
 - **NAT (Network Address Translation)**: a method of remapping an IP address space into another
+- **natural language understanding**: determining a user's intentions based on what the user typed or said. For example, a search engine uses natural language understanding to determine what the user is searching for based on what the user typed or said.
 - **neural network**: a model that, taking inspiration from the brain, is composed of layers (at least one of which is hidden) consisting of simple connected units or neurons followed by nonlinearities.
 - **neuron**: a node in a neural network, typically taking in multiple input values and generating one output value. The neuron calculates the output value by applying an activation function (nonlinear transformation) to a weighted sum of input values.
 - **node**: a basic unit of a data structure, such as a linked list or tree data structure.
@@ -307,6 +308,7 @@ All the translations for this repo will be listed below:
 - **sandbox**: a testing environment that isolates untested code changes and outright experimentation from the production environment or repository, in the context of software development including Web development and revision control.
 - **SDLC (Software Development Life Cycle)**: Software Development Life Cycle (SDLC) is a process used by the software industry to design, develop and test high quality softwares. The SDLC aims to produce a high-quality software that meets or exceeds customer expectations, reaches completion within times and cost estimates. It is also referred to as the application development life-cycle.
 - **server**: a computer that provides data to other computers.
+- **sequence model**: a model whose inputs have a sequential dependence. For example, predicting the next video watched from a sequence of previously watched videos.
 - **setter**: a method that sets the value of a property.
 - **sitemap**: Outline of all pages on a website, organized in hierarchical order — much like the outlines you used to use for your college term papers.
 - **SOA (Service Oriented Architecture)**: Service-oriented architecture (SOA) is a style of software design where services are provided to the other components by application components, through a communication protocol over a network.
