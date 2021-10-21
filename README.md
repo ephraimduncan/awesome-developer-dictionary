@@ -56,9 +56,13 @@ All the translations for this repo will be listed below:
 
 <hr>
 
+## #
+- **404**: an error message when what was requested cannot be found; often because the link that was requested is broken.
+
 ## A
 
 - **abstraction**: a technique for arranging complexity of computer systems.
+- **active learning**: A training approach in which the algorithm chooses some of the data it learns from.
 - **adaptive design**: The way in which a website is built determines how it appears on different devices. Adaptive design creates a website in several different layouts, each suited for different screen sizes. Depending on what device is being used to access the website, the website will adapt and deliver the appropriate layout. See also: responsive design and mobile-first.
 - **agile**: the ability to create and respond to change.
 - **Agile software development**: software development methodologies that focus on iterative development.
