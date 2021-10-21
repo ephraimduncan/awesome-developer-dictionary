@@ -235,14 +235,18 @@ All the translations for this repo will be listed below:
 
 - **navigation**: Links on a homepage that break down the other pages of a website. This can be both in the menu at the top of a site or in a footer (preferably both).
 - **NAT (Network Address Translation)**: a method of remapping an IP address space into another
+- **neural network**: a model that, taking inspiration from the brain, is composed of layers (at least one of which is hidden) consisting of simple connected units or neurons followed by nonlinearities.
+- **neuron**: a node in a neural network, typically taking in multiple input values and generating one output value. The neuron calculates the output value by applying an activation function (nonlinear transformation) to a weighted sum of input values.
 - **node**: a basic unit of a data structure, such as a linked list or tree data structure.
 - **NoSQL or NoSQL Databases**: NoSQL databases (aka "not only SQL") are non tabular, and store data differently than relational tables. A NoSQL database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases. NoSQL databases come in a variety of types based on their data model. The main types are document, key-value, wide-column, and graph.
 - **node.js**: NNode.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser.
+- **noise**: anything that obscures the signal in a dataset.
 - **null**: a special data type which can have only one value: NULL.
 
 ## O
 
 - **Object-Oriented Programming**: A programming paradigm that organizes software design around data, or objects, rather than functions and logic.
+- **objective**: a metric that your algorithm is trying to optimize.
 - **On-Premises**: On-premises is the software and technology that is located within the physical confines of an enterprise – often in the company's data center (installing and running software on hardware located within the premises of the company) – as opposed to running remotely on hosted servers or in the cloud.
 - **operator**: a symbol that tells the compiler or interpreter to perform specific mathematical, relational or logical operation and produce final result.
 - **operating system**: An operating system, or OS, is a type of software that enables the user to run applications on a device.
