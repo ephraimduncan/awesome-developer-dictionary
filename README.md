@@ -68,7 +68,10 @@ All the translations for this repo will be listed below:
 - **Application Security**: Application security is the process of making apps more secure by finding, fixing, and enhancing the security of apps. Application security encompasses measures taken to improve the security of an application often by finding, fixing and preventing security vulnerabilities. Much of this happens during the development phase, but it includes tools and methods to protect apps once they are deployed.
 - **argument**: a value that is passed to a function (as input) when it is called.
 - **array**: a data structure consisting of a collection of elements, values, or variables each identified by at least one array index or key. _see [list](#L)_
+- **artificial general intelligence**: a non-human mechanism that demonstrates a broad range of problem solving, creativity, and adaptability. For example, a program demonstrating artificial general intelligence could translate text, compose symphonies, and excel at games that have not yet been invented.
+- **artificial intelligence**: a non-human program or model that can solve sophisticated tasks.
 - **attribute**: Information about elements of a component in your website design/build.
+- **augmented reality**: A technology that superimposes a computer-generated image on a user's view of the real world, thus providing a composite view.
 - **authentication**: Authentication is the process of verifying identity e.g. a user’s identity. It might involve validating personal identity documents, verifying the authenticity of a website with a digital certificate, determining the age of an artifact by carbon dating, or ensuring that a product or document is not counterfeit. It is the mechanism of associating an incoming request with a set of identifying credentials.
 - **authorization**: Authorization is the function of specifying access rights/privileges to resources, which is related to information security and computer security in general and to access control in particular. More formally, "to authorize" is to define an access policy.
 
