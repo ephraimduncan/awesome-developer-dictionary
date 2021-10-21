@@ -235,6 +235,7 @@ All the translations for this repo will be listed below:
 
 - **navigation**: Links on a homepage that break down the other pages of a website. This can be both in the menu at the top of a site or in a footer (preferably both).
 - **NAT (Network Address Translation)**: a method of remapping an IP address space into another
+- **natural language understanding**: determining a user's intentions based on what the user typed or said. For example, a search engine uses natural language understanding to determine what the user is searching for based on what the user typed or said.
 - **node**: a basic unit of a data structure, such as a linked list or tree data structure.
 - **NoSQL or NoSQL Databases**: NoSQL databases (aka "not only SQL") are non tabular, and store data differently than relational tables. A NoSQL database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases. NoSQL databases come in a variety of types based on their data model. The main types are document, key-value, wide-column, and graph.
 - **node.js**: NNode.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser.
@@ -303,6 +304,7 @@ All the translations for this repo will be listed below:
 - **sandbox**: a testing environment that isolates untested code changes and outright experimentation from the production environment or repository, in the context of software development including Web development and revision control.
 - **SDLC (Software Development Life Cycle)**: Software Development Life Cycle (SDLC) is a process used by the software industry to design, develop and test high quality softwares. The SDLC aims to produce a high-quality software that meets or exceeds customer expectations, reaches completion within times and cost estimates. It is also referred to as the application development life-cycle.
 - **server**: a computer that provides data to other computers.
+- **sequence model**: a model whose inputs have a sequential dependence. For example, predicting the next video watched from a sequence of previously watched videos.
 - **setter**: a method that sets the value of a property.
 - **sitemap**: Outline of all pages on a website, organized in hierarchical order — much like the outlines you used to use for your college term papers.
 - **SOA (Service Oriented Architecture)**: Service-oriented architecture (SOA) is a style of software design where services are provided to the other components by application components, through a communication protocol over a network.
