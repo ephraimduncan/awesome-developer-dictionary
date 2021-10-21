@@ -22,6 +22,8 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 
 - [Inglés](./README.md)
 - [Español](./README-es.md)
+- [Indonesio](./README-id.md)
+- [Malasio](./README-ms.md)
 
 ## Contenido
 
@@ -54,6 +56,9 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 
 <hr>
 
+## #
+- **404**: mensaje de error que aparece cuando la página solicitada no puede ser encontrada; a menudo porque el enlace utilizado está roto.
+
 ## A
 
 - **Abstracción**: una técnica para organizar la complejidad de los sistemas informáticos.
@@ -62,7 +67,7 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 - **Software de la aplicacion)**: un programa o grupo de programas diseñados para usuarios finales.
 - **API (interfaz de programación de aplicaciones)**: un software intermediario que permite que dos o más aplicaciones se comuniquen entre sí.
 - **Argumento**: un valor que se pasa a la función (como entrada) cuando se llama.
-- **Formación**: una estructura de datos que consta de una colección de elementos, valores o variables, cada uno identificado por al menos un índice o clave de matriz._ver[lista](#L)_
+- **Formación**: una estructura de datos que consta de una colección de elementos, valores o variables, cada uno identificado por al menos un índice o clave de matriz. _Ver[lista](#L)_
 - **API (interfaz de programación de aplicaciones)**: un software intermediario que permite que dos o más aplicaciones se comuniquen entre sí.
 - **Aplicación**: un programa o grupo de programas diseñados para usuarios finales.
 - **Árbol**: una estructura de datos en la que cada elemento se adjunta a uno o más elementos directamente debajo de él.
@@ -263,3 +268,13 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 
 - **Web component**: un conjunto de APIs de plataforma web que le permiten crear nuevas etiquetas HTML encapsuladas, reutilizables y personalizadas para usar en páginas web y aplicaciones web.
 - **Webhooks**: mensajes automáticos enviados desde aplicaciones cuando sucede algo.
+
+## X
+
+- **XHTML**: Extensible HyperText Markup Language. Es parte de la familia de los lenguajes de marcado de XML. Refleja o amplía versiones del lenguaje de marcado de hipertexto ampliamente utilizado (HTML), el idioma en el que se formulan las páginas web.
+- **XML**: un lenguaje de marcado con reglas para ser legible tanto para máquinas como para humanos.
+
+## Y
+
+- **YAML (YAML Ain't Markup Language)**: un lenguaje de marcado similar a XML usando una sintaxis mínima, listas de forma nativa, escalares y arrays asociativos. YAML es un lenguaje de serialización de datas legible para el ser humano. Es comúnmente usado para archivos de configuración y aplicaciones donde los datos se almacenan o transmiten. YAML apunta a muchas de las mismas aplicaciones de comunicaciones que XML, pero tiene una sintaxis mínima que difiere intencionalmente de SGML.
+- **yarn**: Yarn es un nuevo gestor de paquetes que reemplaza el flujo de trabajo existente para el cliente npm u otros gestores de paquetes sin dejar de ser compatible con el registro npm. Tiene el mismo conjunto de funciones que los flujos de trabajo existente siendo, al mismo tiempo, más rápido, seguro y confiable.
