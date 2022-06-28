@@ -24,6 +24,7 @@ All the translations for this repo will be listed below:
 - [Spanish](./README-es.md)
 - [Indonesian](./README-id.md)
 - [Malaysian](./README-ms.md)
+- [Hindi](./README-hi.md)
 
 ## Contents
 
