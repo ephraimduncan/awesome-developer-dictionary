@@ -1,6 +1,7 @@
+<br/><br/>
 <div align="center">
-  <img src="https://wiki.js.org/img/nolan-literature.2917af16.svg" width="150" alt="Dictionary">
-  <!-- Image From Wiki.js -->
+  <img src="https://mystickermania.com/cdn/stickers/school/dinosaur-books-512x512.png" width="200" alt="Dictionary">
+  <br/>
   <h2>Awesome Developer Dictionary</h2>
   <p align="center">Simple definitions of Programming terms</p>
 
