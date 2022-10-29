@@ -233,6 +233,7 @@ All the translations for this repo will be listed below:
 - **middleware**: Middleware is software that provides common services and capabilities to applications outside of what's offered by the operating system. Data management, application services, messaging, authentication, and API management are all commonly handled by middleware.
 - **MIME**: Multipurpose Internet Mail Extensions is an Internet standard that extends the format of email messages to support text in character sets other than ASCII, as well as attachments of audio, video, images, and application programs.
 - **mutable object**: an object which can change after creation.
+- **Metaverse**: Technically, a metaverse is a collective virtual shared space, created by the convergence of virtually enhanced physical and digital reality.
 
 ## N
 
@@ -333,6 +334,7 @@ All the translations for this repo will be listed below:
 - **SVG (Scalable Vector Graphics)**: a vector graphics file format that enables two-dimensional images to be displayed in XML pages on the Web.
 - **syntax**: the grammar of a programming language.
 - **system testing**: System testing is testing conducted on a complete integrated system to evaluate the system's compliance with its specified requirements. System testing takes, as its input, all of the integrated components that have passed integration testing. The purpose of a system test is to evaluate the end-to-end system specifications. Usually, the software is only one element of a larger computer-based system.
+- **SRE**: Site Reliability Engineering is a growing discipline that fills in gaps between Dev & Ops.
 
 ## T
 
