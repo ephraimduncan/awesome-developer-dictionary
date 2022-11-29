@@ -86,6 +86,8 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 - **Callback**: una función que se pasa como argumento a otra y se espera que se ejecute en un momento dado.
 - **Clase**: una estructura definida para crear un objeto en un lenguaje de programación orientado a objetos.
 - **CLI (interfaz de línea de comandos)**: la versión de terminal de una aplicación.
+- **Computación en la Nube**: Conocida también como servicios en la nube, informática en la nube, nube de cómputo o simplemente «la nube», es un paradigma que permite ofrecer servicios de computación a través de una red, que usualmente es internet.
+- **flujo de control**: el orden en el que se ejecutan las instrucciones, instrucciones o llamadas de función individuales de un programa imperativo.
 - **Cliente**: una pieza de hardware o software de computadora que accede a un servicio puesto a disposición por un servidor.
 - **Closure**: un scope persistente que se aferra a las variables locales incluso después de que la ejecución del código se haya movido fuera de ese bloque.
 - **Commit (VCS)**: operación que agrupa un conjunto de cambios bajo un nombre y un número, haciendo que estos cambios formen parte de la revisión principal del repositorio. _Ver [VCS](#V)_
@@ -101,6 +103,8 @@ Todas las traducciones de este repositorio se enumerarán a continuación:
 - **Declaración**: una sola línea de código que se utiliza para realizar una tarea específica.
 - **Desestructuración**: una forma conveniente de extraer varios valores de los datos almacenados en objetos y matrices.
 - **Documentación (docs)**: texto escrito o ilustración que acompaña a un software que explica cómo funciona el software o cómo utilizarlo.
+
+## ES
 
 ## E
 
