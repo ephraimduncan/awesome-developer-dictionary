@@ -152,6 +152,7 @@ All the translations for this repo will be listed below:
 - **ERP (Enterprise Resource Planning)**: Refers to software and systems used to plan and manage all the core supply chain, manufacturing, services, financial and other processes of an organization.
 - **event**: an action or occurrence detected by a program.
 - **event handler**: a function containing program statements that are executed in response to an event.
+- **eventual consistency**: In a distributed database system, if no new updates are made to a given data item, eventually all replicas of that data item will converge to the same, consistent value. However, it's acknowledged that, for some period of time, replicas can be inconsistent. The key point is that, given enough time without updates and under certain conditions, all replicas will become consistent.
 - **expression**: a combination of letters, numbers, or symbols used to represent a value of a variable.
 - **extension**: a piece of software extends the capabilities of an appliation and adds extra features to an already working standalone application.
 - **extension (file)**: an abbreviation that signifies file type. Eg: `.js .tsx`
